@@ -1,0 +1,226 @@
+[
+  {
+    "sheet": "Historical Inputs",
+    "index": 0,
+    "title": "Source selection",
+    "body": "Each year uses the latest comparative statement available by 8 October 2026. FY2017 includes revenue and lease accounting restatements. The CSV dataset records the source report and table for every observation.",
+    "width": 940,
+    "height": 118
+  },
+  {
+    "sheet": "Filing Notes",
+    "index": 0,
+    "title": "Debt face value and carrying amount",
+    "body": "The $46,136m debt maturity schedule is a face-value schedule. Book debt is $40,294m after $1,081m of discounts and issuance costs, $11m of hedge adjustments and $4,750m of exchange premiums. The debt schedule carries these adjustments explicitly.",
+    "width": 940,
+    "height": 126
+  },
+  {
+    "sheet": "Filing Notes",
+    "index": 1,
+    "title": "Cash capex and noncash assets",
+    "body": "Cash capex excludes new finance lease assets. Capital expenditure payables are part of accounts payable. These amounts are separated in the forecast so noncash capital additions are not counted as operating cash inflows.",
+    "width": 940,
+    "height": 115
+  },
+  {
+    "sheet": "Assumptions",
+    "index": 0,
+    "title": "How to change a case",
+    "body": "Choose 1, 2 or 3 in D4. Edit the blue forecast drivers for that case. The active row feeds every schedule. D&A and lease expense allocation percentages are model assumptions because Microsoft does not disclose these expenses by segment.",
+    "width": 1020,
+    "height": 124
+  },
+  {
+    "sheet": "Income Statement",
+    "index": 0,
+    "title": "How earnings are calculated",
+    "body": "Segment revenue and cost forecasts feed gross profit. Operating costs include their allocated depreciation, intangible amortization and operating lease expense. Tax expense links to the tax schedule. FY2026 investment gains are not extrapolated into forecast earnings.",
+    "width": 940,
+    "height": 130
+  },
+  {
+    "sheet": "Balance Sheet",
+    "index": 0,
+    "title": "How the balance sheet stays integrated",
+    "body": "Cash comes from the cash flow statement. PPE and intangibles use asset roll-forwards. Debt and lease liabilities use payment schedules. Paid-in capital and retained earnings reflect earnings, SBC, share issuance, dividends and buybacks. No asset or equity balancing plug is used.",
+    "width": 940,
+    "height": 130
+  },
+  {
+    "sheet": "Cash Flow",
+    "index": 0,
+    "title": "Cash flow signs and noncash items",
+    "body": "Inflows are positive and outflows negative. Depreciation, amortization and SBC are added back once. Operating payables exclude capital expenditure payables. Finance lease principal is a financing outflow. Cash capex already includes capitalized cash interest.",
+    "width": 940,
+    "height": 130
+  },
+  {
+    "sheet": "Segments",
+    "index": 0,
+    "title": "Segment comparability and allocation",
+    "body": "FY2023–FY2026 use the current segment definition. Earlier years retain their latest available historical presentation. FY2023 segment growth is unavailable across the definition change. Forecast D&A, operating lease and operating expense allocations are explicit modeling assumptions.",
+    "width": 940,
+    "height": 130
+  },
+  {
+    "sheet": "Expense Plan",
+    "index": 0,
+    "title": "Costs and noncash expenses",
+    "body": "The forecast rates exclude the separately allocated D&A and operating lease expense. SBC remains embedded in these cost rates and is added back once in CFO. Segment operating expense allocation uses the FY2026 reported distribution.",
+    "width": 940,
+    "height": 120
+  },
+  {
+    "sheet": "Working Capital",
+    "index": 0,
+    "title": "Operating and capital payables",
+    "body": "Operating payables are driven by cost of revenue and payable days. Capital expenditure payables are driven by the cash capex budget and add to PPE when they accrue. Their change is excluded from operating cash flow to avoid double counting capital funding.",
+    "width": 940,
+    "height": 125
+  },
+  {
+    "sheet": "PPE and Intangibles",
+    "index": 0,
+    "title": "PPE cohorts and half-year convention",
+    "body": "Legacy depreciable net PPE uses an assumed remaining life. Each new annual cohort uses its own useful-life input and half-year depreciation in the commissioning year. Land is held constant. FY2027–FY2031 intangible amortization uses the FY2026 disclosed schedule.",
+    "width": 940,
+    "height": 130
+  },
+  {
+    "sheet": "Debt and Leases",
+    "index": 0,
+    "title": "Liquidity funding and interest timing",
+    "body": "Short-term investments above the minimum reserve are liquidated before new borrowing. The borrowing amount is a model funding requirement, not a committed credit line. New liquidity borrowing occurs at year-end; its interest starts in the following year.",
+    "width": 940,
+    "height": 125
+  },
+  {
+    "sheet": "Debt and Leases",
+    "index": 1,
+    "title": "Lease payments and accounting",
+    "body": "Contractual legacy lease payments include interest. Finance lease principal is classified in financing cash flow. Operating ROU amortization less lease principal reduction reconciles operating cash flow. New lease assets and liabilities are recognized together.",
+    "width": 940,
+    "height": 125
+  },
+  {
+    "sheet": "Tax and Equity",
+    "index": 0,
+    "title": "Equity and share-count assumptions",
+    "body": "SBC and cash share issuance increase paid-in capital. Share repurchases are allocated between paid-in capital and retained earnings. Dividends are assumed declared and paid within the same year. Diluted weighted average shares use a separate net-change assumption.",
+    "width": 940,
+    "height": 125
+  },
+  {
+    "sheet": "Equity Research",
+    "index": 0,
+    "title": "Research questions",
+    "body": "Assess earnings quality, cash conversion and capital intensity before forming an investment thesis. The model provides operating forecasts; it does not contain a target price or the author's investment recommendation.",
+    "width": 1030,
+    "height": 125
+  },
+  {
+    "sheet": "Investment Banking",
+    "index": 0,
+    "title": "Debt and earnings definitions",
+    "body": "Debt is measured at carrying amount. Lease-adjusted net debt adds finance lease liabilities. Operating income plus disclosed D&A is an analytical earnings proxy, not a Microsoft-reported EBITDA measure.",
+    "width": 1030,
+    "height": 125
+  },
+  {
+    "sheet": "Private Equity",
+    "index": 0,
+    "title": "Operating diligence scope",
+    "body": "Use these metrics to assess reinvestment needs, SBC and cash conversion. Microsoft is analyzed as a public operating company. This worksheet does not assume a leveraged buyout or private equity ownership.",
+    "width": 1030,
+    "height": 125
+  },
+  {
+    "sheet": "FP&A",
+    "index": 0,
+    "title": "How to explain forecast variance",
+    "body": "The bridge starts with FY2026 operating income, adds each segment's revenue change and subtracts the changes in cost of revenue and operating expenses. It updates when the case selector or a forecast driver changes.",
+    "width": 1030,
+    "height": 120
+  },
+  {
+    "sheet": "Overview",
+    "index": 0,
+    "title": "Read the model",
+    "body": "Use the case selector on Assumptions. Blue numbers are inputs, green numbers link to other worksheets and black numbers are local formulas or summary results. Historical sources remain unchanged when a forecast case is selected. Forecasts are research assumptions.",
+    "width": 825,
+    "height": 128
+  },
+  {
+    "sheet": "Audit",
+    "index": 0,
+    "title": "Interpreting differences",
+    "body": "Numeric differences should be within $0.01m. A value of n.a. means that the check does not apply to that period. Independent Python checks also compare all three forecast cases. Accounting definitions and source precision are documented in the Word report.",
+    "width": 1030,
+    "height": 125
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 0,
+    "title": "Model scope",
+    "body": "Microsoft Corporation. Ten historical fiscal years FY2017–FY2026 and five forecast years FY2027–FY2031. All amounts are USD millions unless otherwise stated. FY2016 is retained only as an opening balance.",
+    "width": 1110,
+    "height": 130
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 1,
+    "title": "Scenario workflow",
+    "body": "On Assumptions, select 1 Base, 2 Upside or 3 Downside in D4. Each driver has one active row followed by three editable case rows. All forecast statements and professional views update from that active row.",
+    "width": 1110,
+    "height": 130
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 2,
+    "title": "Calculation sequence",
+    "body": "Segment revenue determines the capex budget and lease additions. PPE cohorts and leases determine allocated expenses. Operating profit, interest and tax determine earnings. Working capital, financing and shareholder distributions determine cash and closing balances.",
+    "width": 1110,
+    "height": 130
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 3,
+    "title": "Accounting assumptions",
+    "body": "Land, goodwill and AOCI are held constant. No unannounced acquisitions are forecast. Dividends are declared and paid in the same year. New liquidity borrowing is drawn at year-end. Forecast diluted share counts are an independent driver.",
+    "width": 1110,
+    "height": 130
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 4,
+    "title": "Historical comparability",
+    "body": "FY2017 includes retrospective revenue and lease accounting changes. Segment data for FY2023–FY2026 use the current definition. Earlier segment data use the latest available historical presentation; cross-definition segment growth is not computed.",
+    "width": 1110,
+    "height": 130
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 5,
+    "title": "Sources and units",
+    "body": "Primary statements come from Microsoft annual reports and the FY2026 SEC Form 10-K. Selected SEC XBRL facts independently control revenue, net income and note disclosures. The data CSV retains source report year, source table and URL for each value.",
+    "width": 1110,
+    "height": 130
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 6,
+    "title": "Model boundaries",
+    "body": "The workbook provides operating forecasts and four analytical views. Equity Research has no target price or author investment recommendation. Investment Banking has no transaction valuation. Private Equity has no assumed Microsoft LBO. Separate portfolio projects will cover those outputs.",
+    "width": 1110,
+    "height": 130
+  },
+  {
+    "sheet": "Model Guide",
+    "index": 7,
+    "title": "Python reproduction",
+    "body": "Run src/model.py on the supplied processed data to recalculate all three cases offline. Edit assumptions.json to change Python assumptions. Excel inputs are independent; changes made only in Excel are not automatically written back into the Python JSON.",
+    "width": 1110,
+    "height": 130
+  }
+]

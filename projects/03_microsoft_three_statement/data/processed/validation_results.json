@@ -1,0 +1,549 @@
+{
+  "historical_primary_checks": 170,
+  "forecast_checks": [
+    {
+      "case": "Base",
+      "year": 2027,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "check": "PPE cohorts",
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "check": "Balance sheet",
+      "difference": 2.3283064365386963e-10
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "check": "PPE cohorts",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "check": "Balance sheet",
+      "difference": -2.3283064365386963e-10
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "check": "PPE cohorts",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "check": "Equity rollforward",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "check": "Balance sheet",
+      "difference": -2.3283064365386963e-10
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "check": "PPE cohorts",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "check": "Equity rollforward",
+      "difference": 2.3283064365386963e-10
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "check": "Balance sheet",
+      "difference": -4.656612873077393e-10
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "check": "PPE cohorts",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "check": "PPE cohorts",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "check": "PPE cohorts",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "check": "Equity rollforward",
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "check": "PPE cohorts",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "check": "Equity rollforward",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "check": "Balance sheet",
+      "difference": -4.656612873077393e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "check": "PPE cohorts",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "check": "PPE cohorts",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "check": "Equity rollforward",
+      "difference": 2.3283064365386963e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "check": "Balance sheet",
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "check": "PPE cohorts",
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "check": "Equity rollforward",
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "check": "Balance sheet",
+      "difference": 2.3283064365386963e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "check": "PPE cohorts",
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "check": "Balance sheet",
+      "difference": 2.3283064365386963e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "check": "PPE cohorts",
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "check": "Balance sheet",
+      "difference": 4.656612873077393e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "check": "PPE cohorts",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "check": "Equity rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "check": "Balance sheet",
+      "difference": 2.3283064365386963e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "check": "Cash rollforward",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "check": "PPE cohorts",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "check": "Debt carrying value",
+      "difference": 0.0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "check": "Equity rollforward",
+      "difference": -1.1641532182693481e-10
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "check": "Segment revenue",
+      "difference": 0.0
+    }
+  ],
+  "forecast_checks_passed": 90,
+  "later_period_driver_test": "FY2031 capex +1 percentage point increases net PPE and reduces FCF",
+  "all_cases_balanced": true,
+  "maximum_absolute_difference": 4.656612873077393e-10
+}

@@ -1,0 +1,1687 @@
+{
+  "checks": [
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "revenue",
+      "actual": 385048.80000000005,
+      "expected": 385048.80000000005,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "cogs",
+      "actual": 126934.72594780002,
+      "expected": 126934.72594780003,
+      "difference": -1.4551915228366852e-11
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "operating_income",
+      "actual": 175728.08703427133,
+      "expected": 175728.08703427133,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "net_income",
+      "actual": 139226.65932341706,
+      "expected": 139226.65932341706,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "eps_diluted",
+      "actual": 18.73683028468433,
+      "expected": 18.73683028468433,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "cfo",
+      "actual": 209011.48254010986,
+      "expected": 209011.48254010986,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "cfi",
+      "actual": -127066.10400000002,
+      "expected": -127066.10400000002,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "cff",
+      "actual": -65048.198756991114,
+      "expected": -65048.1987569911,
+      "difference": -1.4551915228366852e-11
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "fcf",
+      "actual": 85795.86654010984,
+      "expected": 85795.86654010984,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "depreciation",
+      "actual": 50319.3666,
+      "expected": 50319.3666,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "book_debt",
+      "actual": 31219.260000000002,
+      "expected": 31219.260000000002,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "fin_total",
+      "actual": 90237.67230769231,
+      "expected": 90237.67230769231,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "op_total",
+      "actual": 21948.646,
+      "expected": 21948.646,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2027,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "revenue",
+      "actual": 444477.44240000006,
+      "expected": 444477.4424,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "cogs",
+      "actual": 158587.80304314074,
+      "expected": 158587.80304314074,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "operating_income",
+      "actual": 189179.8021021741,
+      "expected": 189179.80210217403,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "net_income",
+      "actual": 149959.44033126585,
+      "expected": 149959.44033126583,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "eps_diluted",
+      "actual": 20.24195117868173,
+      "expected": 20.241951178681727,
+      "difference": 3.552713678800501e-15
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "cfo",
+      "actual": 249569.956978507,
+      "expected": 249569.95697850696,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "cfi",
+      "actual": -128898.45829600003,
+      "expected": -128898.45829600001,
+      "difference": -1.4551915228366852e-11
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "cff",
+      "actual": -64031.584917214124,
+      "expected": -64031.58491721412,
+      "difference": -7.275957614183426e-12
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "fcf",
+      "actual": 125116.27310650697,
+      "expected": 125116.27310650695,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "depreciation",
+      "actual": 75599.62026141334,
+      "expected": 75599.62026141334,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "book_debt",
+      "actual": 31389.2622,
+      "expected": 31389.2622,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "fin_total",
+      "actual": 113535.56552633137,
+      "expected": 113535.56552633137,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "op_total",
+      "actual": 23460.013658,
+      "expected": 23460.013657999996,
+      "difference": 3.637978807091713e-12
+    },
+    {
+      "case": "Base",
+      "year": 2028,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "revenue",
+      "actual": 508922.316432,
+      "expected": 508922.316432,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "cogs",
+      "actual": 192262.23061159597,
+      "expected": 192262.23061159597,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "operating_income",
+      "actual": 204736.39255985775,
+      "expected": 204736.39255985775,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "net_income",
+      "actual": 163295.41298470303,
+      "expected": 163295.41298470303,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "eps_diluted",
+      "actual": 22.108403856550193,
+      "expected": 22.108403856550193,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "cfo",
+      "actual": 290816.893479639,
+      "expected": 290816.8934796389,
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "cfi",
+      "actual": -132319.80227232,
+      "expected": -132319.80227232,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "cff",
+      "actual": -74290.37274859179,
+      "expected": -74290.37274859179,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "fcf",
+      "actual": 163586.31437163902,
+      "expected": 163586.3143716389,
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "depreciation",
+      "actual": 101565.57059252668,
+      "expected": 101565.57059252667,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "book_debt",
+      "actual": 29553.164334,
+      "expected": 29553.164334,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "fin_total",
+      "actual": 137011.6426122482,
+      "expected": 137011.6426122482,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "op_total",
+      "actual": 26036.413079131664,
+      "expected": 26036.413079131664,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2029,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "revenue",
+      "actual": 577301.7649200001,
+      "expected": 577301.7649200001,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "cogs",
+      "actual": 226627.30469749935,
+      "expected": 226627.30469749935,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "operating_income",
+      "actual": 223012.7156780659,
+      "expected": 223012.7156780659,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "net_income",
+      "actual": 179624.49119054497,
+      "expected": 179624.49119054497,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "eps_diluted",
+      "actual": 24.39235862041523,
+      "expected": 24.39235862041523,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "cfo",
+      "actual": 336670.33706154244,
+      "expected": 336670.33706154244,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "cfi",
+      "actual": -132779.40593160002,
+      "expected": -132779.40593160002,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "cff",
+      "actual": -81852.19288132722,
+      "expected": -81852.19288132724,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "fcf",
+      "actual": 209663.9487791424,
+      "expected": 209663.9487791424,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "depreciation",
+      "actual": 128010.09185221468,
+      "expected": 128010.09185221468,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "book_debt",
+      "actual": 29713.11940398,
+      "expected": 29713.11940398,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "fin_total",
+      "actual": 159783.25799450994,
+      "expected": 159783.25799450994,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "op_total",
+      "actual": 29114.37931443948,
+      "expected": 29114.37931443948,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2030,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "revenue",
+      "actual": 648107.1509938752,
+      "expected": 648107.1509938752,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "cogs",
+      "actual": 261654.77493136932,
+      "expected": 261654.77493136935,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "operating_income",
+      "actual": 242804.5507215888,
+      "expected": 242804.5507215888,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "net_income",
+      "actual": 198208.54815629864,
+      "expected": 198208.54815629864,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "eps_diluted",
+      "actual": 26.996997580794837,
+      "expected": 26.996997580794837,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "cfo",
+      "actual": 385282.59341057274,
+      "expected": 385282.59341057274,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "cfi",
+      "actual": -136102.5017087138,
+      "expected": -136102.5017087138,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "cff",
+      "actual": -92515.1008787496,
+      "expected": -92515.1008787496,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "fcf",
+      "actual": 255661.16321179768,
+      "expected": 255661.16321179768,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "depreciation",
+      "actual": 154852.54990618228,
+      "expected": 154852.54990618228,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "book_debt",
+      "actual": 29368.2758218606,
+      "expected": 29368.2758218606,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "fin_total",
+      "actual": 181294.08196032187,
+      "expected": 181294.08196032187,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "op_total",
+      "actual": 32494.33226083643,
+      "expected": 32494.33226083643,
+      "difference": 0
+    },
+    {
+      "case": "Base",
+      "year": 2031,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "revenue",
+      "actual": 403293.48000000004,
+      "expected": 403293.48,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "cogs",
+      "actual": 126765.44386254979,
+      "expected": 126765.44386254977,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "operating_income",
+      "actual": 192965.89722206868,
+      "expected": 192965.89722206863,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "net_income",
+      "actual": 152939.12895813497,
+      "expected": 152939.1289581349,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "eps_diluted",
+      "actual": 20.623596846183823,
+      "expected": 20.623596846183812,
+      "difference": 1.0658141036401503e-14
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "cfo",
+      "actual": 222045.56327702483,
+      "expected": 222045.56327702478,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "cfi",
+      "actual": -141152.71800000002,
+      "expected": -141152.718,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "cff",
+      "actual": -71091.33796547315,
+      "expected": -71091.33796547314,
+      "difference": -1.4551915228366852e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "fcf",
+      "actual": 84925.7800770248,
+      "expected": 84925.78007702477,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "depreciation",
+      "actual": 48186.61788644445,
+      "expected": 48186.617886444445,
+      "difference": 7.275957614183426e-12
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "book_debt",
+      "actual": 31219.260000000002,
+      "expected": 31219.260000000002,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "fin_total",
+      "actual": 95431.21634615384,
+      "expected": 95431.21634615384,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "op_total",
+      "actual": 22569.19604,
+      "expected": 22569.19604,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2027,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "revenue",
+      "actual": 482900.8416,
+      "expected": 482900.8416,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "cogs",
+      "actual": 166236.232966592,
+      "expected": 166236.232966592,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "operating_income",
+      "actual": 214614.61798120785,
+      "expected": 214614.61798120782,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "net_income",
+      "actual": 169850.7716293973,
+      "expected": 169850.77162939726,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "eps_diluted",
+      "actual": 23.01920080678067,
+      "expected": 23.019200806780667,
+      "difference": 3.552713678800501e-15
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "cfo",
+      "actual": 274218.1583407797,
+      "expected": 274218.15834077966,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "cfi",
+      "actual": -154528.269312,
+      "expected": -154528.269312,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "cff",
+      "actual": -73380.01803136822,
+      "expected": -73380.0180313682,
+      "difference": -1.4551915228366852e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "fcf",
+      "actual": 124518.89744477972,
+      "expected": 124518.89744477966,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "depreciation",
+      "actual": 78434.19367004445,
+      "expected": 78434.19367004445,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "book_debt",
+      "actual": 31389.2622,
+      "expected": 31389.2622,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "fin_total",
+      "actual": 125559.07383106509,
+      "expected": 125559.07383106508,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "op_total",
+      "actual": 24948.11953513333,
+      "expected": 24948.11953513333,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2028,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "revenue",
+      "actual": 569685.3527680001,
+      "expected": 569685.352768,
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "cogs",
+      "actual": 209313.48899189185,
+      "expected": 209313.48899189182,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "operating_income",
+      "actual": 238424.66299239802,
+      "expected": 238424.6629923979,
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "net_income",
+      "actual": 189272.92337204528,
+      "expected": 189272.92337204516,
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "eps_diluted",
+      "actual": 25.780309477958408,
+      "expected": 25.78030947795839,
+      "difference": 1.7763568394002505e-14
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "cfo",
+      "actual": 329096.6685132904,
+      "expected": 329096.6685132903,
+      "difference": 1.1641532182693481e-10
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "cfi",
+      "actual": -165208.75230272007,
+      "expected": -165208.75230272,
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "cff",
+      "actual": -87215.22332983915,
+      "expected": -87215.22332983912,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "fcf",
+      "actual": 169584.76973825035,
+      "expected": 169584.7697382503,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "depreciation",
+      "actual": 110860.47849772338,
+      "expected": 110860.47849772336,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "book_debt",
+      "actual": 29553.164334,
+      "expected": 29553.164334,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "fin_total",
+      "actual": 157385.699210387,
+      "expected": 157385.699210387,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "op_total",
+      "actual": 28634.204633066773,
+      "expected": 28634.204633066773,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2029,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "revenue",
+      "actual": 663914.10965824,
+      "expected": 663914.10965824,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "cogs",
+      "actual": 254808.03735212694,
+      "expected": 254808.03735212694,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "operating_income",
+      "actual": 265999.5764558859,
+      "expected": 265999.57645588595,
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "net_income",
+      "actual": 212557.8975422415,
+      "expected": 212557.89754224155,
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "eps_diluted",
+      "actual": 29.097374352528966,
+      "expected": 29.097374352528973,
+      "difference": -7.105427357601002e-15
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "cfo",
+      "actual": 391034.3378573621,
+      "expected": 391034.3378573621,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "cfi",
+      "actual": -172617.6685111424,
+      "expected": -172617.6685111424,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "cff",
+      "actual": -98891.03438478906,
+      "expected": -98891.03438478906,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "fcf",
+      "actual": 225055.81044280212,
+      "expected": 225055.81044280212,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "depreciation",
+      "actual": 145136.10579192394,
+      "expected": 145136.10579192394,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "book_debt",
+      "actual": 29713.11940398,
+      "expected": 29713.11940398,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "fin_total",
+      "actual": 189970.73502825043,
+      "expected": 189970.73502825043,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "op_total",
+      "actual": 33078.71328338959,
+      "expected": 33078.71328338959,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2030,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "revenue",
+      "actual": 766404.7553610496,
+      "expected": 766404.7553610496,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "cogs",
+      "actual": 303260.80596307863,
+      "expected": 303260.80596307863,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "operating_income",
+      "actual": 297463.6475941077,
+      "expected": 297463.6475941077,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "net_income",
+      "actual": 240093.13269338166,
+      "expected": 240093.13269338166,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "eps_diluted",
+      "actual": 33.0318740027287,
+      "expected": 33.0318740027287,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "cfo",
+      "actual": 459515.8930672803,
+      "expected": 459515.8930672803,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "cfi",
+      "actual": -183937.1412866519,
+      "expected": -183937.1412866519,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "cff",
+      "actual": -114570.72983068421,
+      "expected": -114570.7298306842,
+      "difference": -1.4551915228366852e-11
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "fcf",
+      "actual": 283242.79933423887,
+      "expected": 283242.79933423887,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "depreciation",
+      "actual": 181345.10656402935,
+      "expected": 181345.10656402935,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "book_debt",
+      "actual": 29368.2758218606,
+      "expected": 29368.2758218606,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "fin_total",
+      "actual": 222784.84517781797,
+      "expected": 222784.84517781797,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "op_total",
+      "actual": 38127.073654091124,
+      "expected": 38127.073654091124,
+      "difference": 0
+    },
+    {
+      "case": "Upside",
+      "year": 2031,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "revenue",
+      "actual": 359626.82000000007,
+      "expected": 359626.82000000007,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "cogs",
+      "actual": 132645.7573371717,
+      "expected": 132645.7573371717,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "operating_income",
+      "actual": 145318.64459114455,
+      "expected": 145318.64459114452,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "net_income",
+      "actual": 114926.56110731563,
+      "expected": 114926.56110731562,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "eps_diluted",
+      "actual": 15.389395783411793,
+      "expected": 15.389395783411791,
+      "difference": 1.7763568394002505e-15
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "cfo",
+      "actual": 190935.81495191867,
+      "expected": 190935.81495191867,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "cfi",
+      "actual": -129465.65520000002,
+      "expected": -129465.65520000002,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "cff",
+      "actual": -51422.413259155444,
+      "expected": -51422.41325915544,
+      "difference": -7.275957614183426e-12
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "fcf",
+      "actual": 65066.42795191865,
+      "expected": 65066.42795191865,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "depreciation",
+      "actual": 58979.44595357143,
+      "expected": 58979.44595357143,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "book_debt",
+      "actual": 31219.260000000002,
+      "expected": 31219.260000000002,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "fin_total",
+      "actual": 88404.35644230769,
+      "expected": 88404.35644230769,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "op_total",
+      "actual": 20610.12002,
+      "expected": 20610.12002,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2027,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "revenue",
+      "actual": 387519.8444000001,
+      "expected": 387519.84440000006,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "cogs",
+      "actual": 163185.98564735785,
+      "expected": 163185.98564735785,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "operating_income",
+      "actual": 133227.20295585395,
+      "expected": 133227.2029558539,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "net_income",
+      "actual": 105143.69106658366,
+      "expected": 105143.69106658365,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "eps_diluted",
+      "actual": 14.051304799463756,
+      "expected": 14.051304799463754,
+      "difference": 1.7763568394002505e-15
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "cfo",
+      "actual": 214717.2495268632,
+      "expected": 214717.24952686316,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "cfi",
+      "actual": -131756.74709600004,
+      "expected": -131756.74709600004,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "cff",
+      "actual": -43588.645170709635,
+      "expected": -43588.64517070963,
+      "difference": -7.275957614183426e-12
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "fcf",
+      "actual": 86835.70087486315,
+      "expected": 86835.70087486313,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "depreciation",
+      "actual": 90097.65837367144,
+      "expected": 90097.65837367144,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "book_debt",
+      "actual": 31389.2622,
+      "expected": 31389.2622,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "fin_total",
+      "actual": 106146.5133025148,
+      "expected": 106146.5133025148,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "op_total",
+      "actual": 20495.728796733332,
+      "expected": 20495.728796733332,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2028,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "revenue",
+      "actual": 414819.76193600014,
+      "expected": 414819.7619360001,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "cogs",
+      "actual": 193351.40393295232,
+      "expected": 193351.4039329523,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "operating_income",
+      "actual": 121257.74393022314,
+      "expected": 121257.74393022314,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "net_income",
+      "actual": 96197.82310749443,
+      "expected": 96197.82310749443,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "eps_diluted",
+      "actual": 12.8301270956395,
+      "expected": 12.8301270956395,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "cfo",
+      "actual": 239226.2969518567,
+      "expected": 239226.29695185673,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "cfi",
+      "actual": -128594.12620016004,
+      "expected": -128594.12620016001,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "cff",
+      "actual": -46059.21773804172,
+      "expected": -46059.21773804173,
+      "difference": 7.275957614183426e-12
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "fcf",
+      "actual": 114780.36837105665,
+      "expected": 114780.36837105671,
+      "difference": -5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "depreciation",
+      "actual": 119970.76138713866,
+      "expected": 119970.76138713864,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "book_debt",
+      "actual": 29553.164334,
+      "expected": 29553.164334,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "fin_total",
+      "actual": 120320.91780795596,
+      "expected": 120320.91780795596,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "op_total",
+      "actual": 21131.51122509878,
+      "expected": 21131.51122509878,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2029,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "revenue",
+      "actual": 444959.48989936017,
+      "expected": 444959.4898993601,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "cogs",
+      "actual": 223196.68952850348,
+      "expected": 223196.68952850348,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "operating_income",
+      "actual": 112135.50973112408,
+      "expected": 112135.50973112402,
+      "difference": 5.820766091346741e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "net_income",
+      "actual": 90356.8020527826,
+      "expected": 90356.80205278256,
+      "difference": 4.3655745685100555e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "eps_diluted",
+      "actual": 12.027042466361532,
+      "expected": 12.027042466361527,
+      "difference": 5.329070518200751e-15
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "cfo",
+      "actual": 263721.1976043219,
+      "expected": 263721.1976043219,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "cfi",
+      "actual": -129038.25207081446,
+      "expected": -129038.25207081444,
+      "difference": -1.4551915228366852e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "cff",
+      "actual": -45530.825606153776,
+      "expected": -45530.82560615377,
+      "difference": -7.275957614183426e-12
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "fcf",
+      "actual": 139132.540432501,
+      "expected": 139132.54043250103,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "depreciation",
+      "actual": 149173.61515836924,
+      "expected": 149173.61515836924,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "book_debt",
+      "actual": 29713.11940398,
+      "expected": 29713.11940398,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "fin_total",
+      "actual": 132462.84721340178,
+      "expected": 132462.84721340175,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "op_total",
+      "actual": 21983.61622398837,
+      "expected": 21983.616223988367,
+      "difference": 3.637978807091713e-12
+    },
+    {
+      "case": "Downside",
+      "year": 2030,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "revenue",
+      "actual": 473710.27106904815,
+      "expected": 473710.27106904815,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "cogs",
+      "actual": 251993.44993199882,
+      "expected": 251993.4499319988,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "operating_income",
+      "actual": 103190.41717894413,
+      "expected": 103190.41717894416,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "net_income",
+      "actual": 85364.54530088202,
+      "expected": 85364.54530088205,
+      "difference": -2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "eps_diluted",
+      "actual": 11.339862862442482,
+      "expected": 11.339862862442486,
+      "difference": -3.552713678800501e-15
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "cfo",
+      "actual": 288189.98520716827,
+      "expected": 288189.98520716827,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "cfi",
+      "actual": -123164.67047795252,
+      "expected": -123164.67047795252,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "cff",
+      "actual": -47529.99617576772,
+      "expected": -47529.99617576774,
+      "difference": 1.4551915228366852e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "fcf",
+      "actual": 169762.41743990622,
+      "expected": 169762.41743990622,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "depreciation",
+      "actual": 177450.4355265256,
+      "expected": 177450.4355265256,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "book_debt",
+      "actual": 29368.2758218606,
+      "expected": 29368.2758218606,
+      "difference": 0
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "fin_total",
+      "actual": 142297.4228676105,
+      "expected": 142297.42286761047,
+      "difference": 2.9103830456733704e-11
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "op_total",
+      "actual": 22851.369341054244,
+      "expected": 22851.36934105424,
+      "difference": 3.637978807091713e-12
+    },
+    {
+      "case": "Downside",
+      "year": 2031,
+      "metric": "borrowing",
+      "actual": 0,
+      "expected": 0,
+      "difference": 0
+    }
+  ],
+  "driver_test": "passed",
+  "unselected_missing_case_test": "passed",
+  "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

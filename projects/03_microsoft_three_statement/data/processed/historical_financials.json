@@ -1,0 +1,2505 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "currency": "USD",
+  "scale": "millions",
+  "information_cutoff": "2026-10-08",
+  "historical_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "opening_balance_year": 2016,
+  "actuals": {
+    "2016": {
+      "income": {
+        "revenue": 91154.0,
+        "cogs": 32780.0,
+        "gross_profit": 58374.0,
+        "rd": 11988.0,
+        "sales_marketing": 14635.0,
+        "ga": 4563.0,
+        "other_opex": 1110.0,
+        "operating_income": 26078.0,
+        "other_income": -439.0,
+        "pretax_income": 25639.0,
+        "income_tax": 5100.0,
+        "net_income": 20539.0,
+        "eps_basic": 2.59,
+        "eps_diluted": 2.56,
+        "shares_basic": 7925.0,
+        "shares_diluted": 8013.0
+      },
+      "balance": {
+        "cash": 6510.0,
+        "st_investments": 106730.0,
+        "liquid_assets": 113240.0,
+        "receivables": 18277.0,
+        "inventory": 2251.0,
+        "other_current_assets": 5892.0,
+        "current_assets": 139660.0,
+        "ppe": 18356.0,
+        "equity_investments": 10431.0,
+        "goodwill": 17872.0,
+        "intangibles": 3733.0,
+        "other_lt_assets": 3416.0,
+        "total_assets": 193468.0,
+        "payables": 6898.0,
+        "st_debt": 12904.0,
+        "current_debt": 0.0,
+        "compensation": 5264.0,
+        "current_tax": 580.0,
+        "current_deferred_rev": 27468.0,
+        "securities_lending": 294.0,
+        "other_current_liab": 5949.0,
+        "current_liabilities": 59357.0,
+        "long_debt": 40557.0,
+        "long_deferred_rev": 6441.0,
+        "deferred_tax_liab": 1476.0,
+        "other_lt_liab": 13640.0,
+        "total_liabilities": 121471.0,
+        "paid_in_capital": 68178.0,
+        "retained_earnings": 2282.0,
+        "aoci": 1537.0,
+        "total_equity": 71997.0,
+        "total_le": 193468.0,
+        "op_rou": 0.0,
+        "op_lease_long": 0.0,
+        "long_tax": 0.0
+      },
+      "cashflow": {
+        "net_income": 20539.0,
+        "impairments": 630.0,
+        "da_other": 6622.0,
+        "sbc": 2668.0,
+        "investment_adjustment": -223.0,
+        "deferred_taxes": 2479.0,
+        "ar_change": 562.0,
+        "inventory_change": 600.0,
+        "other_ca_change": -1212.0,
+        "other_lta_change": -1110.0,
+        "ap_change": 88.0,
+        "deferred_rev_change": 2565.0,
+        "tax_change": -298.0,
+        "other_cl_change": -179.0,
+        "other_ltl_change": -406.0,
+        "cfo": 33325.0,
+        "net_st_debt": 7195.0,
+        "debt_issued": 13884.0,
+        "debt_repaid": -2796.0,
+        "stock_issued": 668.0,
+        "buybacks": -15969.0,
+        "dividends": -11006.0,
+        "other_financing": -369.0,
+        "cff": -8393.0,
+        "capex": -8343.0,
+        "acquisitions": -1393.0,
+        "investments_purchased": -129758.0,
+        "investments_matured": 22054.0,
+        "investments_sold": 93287.0,
+        "securities_lending_cf": 203.0,
+        "cfi": -23950.0,
+        "fx_cash": -67.0,
+        "cash_change": 915.0,
+        "opening_cash": 5595.0,
+        "closing_cash": 6510.0,
+        "other_investing": 0.0,
+        "debt_exchange_cash_premium": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2017": {
+      "income": {
+        "revenue": 96571.0,
+        "cogs": 34261.0,
+        "gross_profit": 62310.0,
+        "rd": 13037.0,
+        "sales_marketing": 15461.0,
+        "ga": 4481.0,
+        "other_opex": 306.0,
+        "operating_income": 29025.0,
+        "other_income": 876.0,
+        "pretax_income": 29901.0,
+        "income_tax": 4412.0,
+        "net_income": 25489.0,
+        "eps_basic": 3.29,
+        "eps_diluted": 3.25,
+        "shares_basic": 7746.0,
+        "shares_diluted": 7832.0
+      },
+      "balance": {
+        "cash": 7663.0,
+        "st_investments": 125318.0,
+        "liquid_assets": 132981.0,
+        "receivables": 22431.0,
+        "inventory": 2181.0,
+        "other_current_assets": 5103.0,
+        "current_assets": 162696.0,
+        "ppe": 23734.0,
+        "op_rou": 6555.0,
+        "equity_investments": 6023.0,
+        "goodwill": 35122.0,
+        "intangibles": 10106.0,
+        "other_lt_assets": 6076.0,
+        "total_assets": 250312.0,
+        "payables": 7390.0,
+        "st_debt": 9072.0,
+        "current_debt": 1049.0,
+        "compensation": 5819.0,
+        "current_tax": 718.0,
+        "current_deferred_rev": 24013.0,
+        "other_current_liab": 7684.0,
+        "current_liabilities": 55745.0,
+        "long_debt": 76073.0,
+        "long_tax": 13485.0,
+        "long_deferred_rev": 2643.0,
+        "deferred_tax_liab": 5734.0,
+        "op_lease_long": 5372.0,
+        "other_lt_liab": 3549.0,
+        "total_liabilities": 162601.0,
+        "paid_in_capital": 69315.0,
+        "retained_earnings": 17769.0,
+        "aoci": 627.0,
+        "total_equity": 87711.0,
+        "total_le": 250312.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 25489.0,
+        "da_other": 8778.0,
+        "sbc": 3266.0,
+        "investment_adjustment": -2073.0,
+        "deferred_taxes": -829.0,
+        "ar_change": -1216.0,
+        "inventory_change": 50.0,
+        "other_ca_change": 1028.0,
+        "other_lta_change": -917.0,
+        "ap_change": 81.0,
+        "deferred_rev_change": 3820.0,
+        "tax_change": 1792.0,
+        "other_cl_change": 356.0,
+        "other_ltl_change": -118.0,
+        "cfo": 39507.0,
+        "net_st_debt": -4963.0,
+        "debt_issued": 44344.0,
+        "debt_repaid": -7922.0,
+        "stock_issued": 772.0,
+        "buybacks": -11788.0,
+        "dividends": -11845.0,
+        "other_financing": -190.0,
+        "cff": 8408.0,
+        "capex": -8129.0,
+        "acquisitions": -25944.0,
+        "investments_purchased": -176905.0,
+        "investments_matured": 28044.0,
+        "investments_sold": 136350.0,
+        "securities_lending_cf": -197.0,
+        "cfi": -46781.0,
+        "fx_cash": 19.0,
+        "cash_change": 1153.0,
+        "opening_cash": 6510.0,
+        "closing_cash": 7663.0,
+        "impairments": 0.0,
+        "other_investing": 0.0,
+        "debt_exchange_cash_premium": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2018": {
+      "income": {
+        "revenue": 110360.0,
+        "cogs": 38353.0,
+        "gross_profit": 72007.0,
+        "rd": 14726.0,
+        "sales_marketing": 17469.0,
+        "ga": 4754.0,
+        "operating_income": 35058.0,
+        "other_income": 1416.0,
+        "pretax_income": 36474.0,
+        "income_tax": 19903.0,
+        "net_income": 16571.0,
+        "eps_basic": 2.15,
+        "eps_diluted": 2.13,
+        "shares_basic": 7700.0,
+        "shares_diluted": 7794.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 11946.0,
+        "st_investments": 121822.0,
+        "liquid_assets": 133768.0,
+        "receivables": 26481.0,
+        "inventory": 2662.0,
+        "other_current_assets": 6751.0,
+        "current_assets": 169662.0,
+        "ppe": 29460.0,
+        "op_rou": 6686.0,
+        "equity_investments": 1862.0,
+        "goodwill": 35683.0,
+        "intangibles": 8053.0,
+        "other_lt_assets": 7442.0,
+        "total_assets": 258848.0,
+        "payables": 8617.0,
+        "current_debt": 3998.0,
+        "compensation": 6103.0,
+        "current_tax": 2121.0,
+        "current_deferred_rev": 28905.0,
+        "other_current_liab": 8744.0,
+        "current_liabilities": 58488.0,
+        "long_debt": 72242.0,
+        "long_tax": 30265.0,
+        "long_deferred_rev": 3815.0,
+        "deferred_tax_liab": 541.0,
+        "op_lease_long": 5568.0,
+        "other_lt_liab": 5211.0,
+        "total_liabilities": 176130.0,
+        "paid_in_capital": 71223.0,
+        "retained_earnings": 13682.0,
+        "aoci": -2187.0,
+        "total_equity": 82718.0,
+        "total_le": 258848.0,
+        "st_debt": 0.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 16571.0,
+        "da_other": 10261.0,
+        "sbc": 3940.0,
+        "investment_adjustment": -2212.0,
+        "deferred_taxes": -5143.0,
+        "ar_change": -3862.0,
+        "inventory_change": -465.0,
+        "other_ca_change": -952.0,
+        "other_lta_change": -285.0,
+        "ap_change": 1148.0,
+        "deferred_rev_change": 5922.0,
+        "tax_change": 18183.0,
+        "other_cl_change": 798.0,
+        "other_ltl_change": -20.0,
+        "cfo": 43884.0,
+        "net_st_debt": -7324.0,
+        "debt_issued": 7183.0,
+        "debt_exchange_cash_premium": 0.0,
+        "debt_repaid": -10060.0,
+        "stock_issued": 1002.0,
+        "buybacks": -10721.0,
+        "dividends": -12699.0,
+        "other_financing": -971.0,
+        "cff": -33590.0,
+        "capex": -11632.0,
+        "acquisitions": -888.0,
+        "investments_purchased": -137380.0,
+        "investments_matured": 26360.0,
+        "investments_sold": 117577.0,
+        "other_investing": -98.0,
+        "cfi": -6061.0,
+        "fx_cash": 50.0,
+        "cash_change": 4283.0,
+        "opening_cash": 7663.0,
+        "closing_cash": 11946.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2019": {
+      "income": {
+        "revenue": 125843.0,
+        "cogs": 42910.0,
+        "gross_profit": 82933.0,
+        "rd": 16876.0,
+        "sales_marketing": 18213.0,
+        "ga": 4885.0,
+        "operating_income": 42959.0,
+        "other_income": 729.0,
+        "pretax_income": 43688.0,
+        "income_tax": 4448.0,
+        "net_income": 39240.0,
+        "eps_basic": 5.11,
+        "eps_diluted": 5.06,
+        "shares_basic": 7673.0,
+        "shares_diluted": 7753.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 11356.0,
+        "st_investments": 122463.0,
+        "liquid_assets": 133819.0,
+        "receivables": 29524.0,
+        "inventory": 2063.0,
+        "other_current_assets": 10146.0,
+        "current_assets": 175552.0,
+        "ppe": 36477.0,
+        "op_rou": 7379.0,
+        "equity_investments": 2649.0,
+        "goodwill": 42026.0,
+        "intangibles": 7750.0,
+        "other_lt_assets": 14723.0,
+        "total_assets": 286556.0,
+        "payables": 9382.0,
+        "current_debt": 5516.0,
+        "compensation": 6830.0,
+        "current_tax": 5665.0,
+        "current_deferred_rev": 32676.0,
+        "other_current_liab": 9351.0,
+        "current_liabilities": 69420.0,
+        "long_debt": 66662.0,
+        "long_tax": 29612.0,
+        "long_deferred_rev": 4530.0,
+        "deferred_tax_liab": 233.0,
+        "op_lease_long": 6188.0,
+        "other_lt_liab": 7581.0,
+        "total_liabilities": 184226.0,
+        "paid_in_capital": 78520.0,
+        "retained_earnings": 24150.0,
+        "aoci": -340.0,
+        "total_equity": 102330.0,
+        "total_le": 286556.0,
+        "st_debt": 0.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 39240.0,
+        "da_other": 11682.0,
+        "sbc": 4652.0,
+        "investment_adjustment": -792.0,
+        "deferred_taxes": -6463.0,
+        "ar_change": -2812.0,
+        "inventory_change": 597.0,
+        "other_ca_change": -1718.0,
+        "other_lta_change": -1834.0,
+        "ap_change": 232.0,
+        "deferred_rev_change": 4462.0,
+        "tax_change": 2929.0,
+        "other_cl_change": 1419.0,
+        "other_ltl_change": 591.0,
+        "cfo": 52185.0,
+        "debt_exchange_cash_premium": 0.0,
+        "debt_repaid": -4000.0,
+        "stock_issued": 1142.0,
+        "buybacks": -19543.0,
+        "dividends": -13811.0,
+        "other_financing": -675.0,
+        "cff": -36887.0,
+        "capex": -13925.0,
+        "acquisitions": -2388.0,
+        "investments_purchased": -57697.0,
+        "investments_matured": 20043.0,
+        "investments_sold": 38194.0,
+        "other_investing": 0.0,
+        "cfi": -15773.0,
+        "fx_cash": -115.0,
+        "cash_change": -590.0,
+        "opening_cash": 11946.0,
+        "closing_cash": 11356.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_issued": 0.0,
+        "net_st_debt": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2020": {
+      "income": {
+        "revenue": 143015.0,
+        "cogs": 46078.0,
+        "gross_profit": 96937.0,
+        "rd": 19269.0,
+        "sales_marketing": 19598.0,
+        "ga": 5111.0,
+        "operating_income": 52959.0,
+        "other_income": 77.0,
+        "pretax_income": 53036.0,
+        "income_tax": 8755.0,
+        "net_income": 44281.0,
+        "eps_basic": 5.82,
+        "eps_diluted": 5.76,
+        "shares_basic": 7610.0,
+        "shares_diluted": 7683.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 13576.0,
+        "st_investments": 122951.0,
+        "liquid_assets": 136527.0,
+        "receivables": 32011.0,
+        "inventory": 1895.0,
+        "other_current_assets": 11482.0,
+        "current_assets": 181915.0,
+        "ppe": 44151.0,
+        "op_rou": 8753.0,
+        "equity_investments": 2965.0,
+        "goodwill": 43351.0,
+        "intangibles": 7038.0,
+        "other_lt_assets": 13138.0,
+        "total_assets": 301311.0,
+        "payables": 12530.0,
+        "current_debt": 3749.0,
+        "compensation": 7874.0,
+        "current_tax": 2130.0,
+        "current_deferred_rev": 36000.0,
+        "other_current_liab": 10027.0,
+        "current_liabilities": 72310.0,
+        "long_debt": 59578.0,
+        "long_tax": 29432.0,
+        "long_deferred_rev": 3180.0,
+        "deferred_tax_liab": 204.0,
+        "op_lease_long": 7671.0,
+        "other_lt_liab": 10632.0,
+        "total_liabilities": 183007.0,
+        "paid_in_capital": 80552.0,
+        "retained_earnings": 34566.0,
+        "aoci": 3186.0,
+        "total_equity": 118304.0,
+        "total_le": 301311.0,
+        "st_debt": 0.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 44281.0,
+        "da_other": 12796.0,
+        "sbc": 5289.0,
+        "investment_adjustment": -219.0,
+        "deferred_taxes": 11.0,
+        "ar_change": -2577.0,
+        "inventory_change": 168.0,
+        "other_ca_change": -2330.0,
+        "other_lta_change": -1037.0,
+        "ap_change": 3018.0,
+        "deferred_rev_change": 2212.0,
+        "tax_change": -3631.0,
+        "other_cl_change": 1346.0,
+        "other_ltl_change": 1348.0,
+        "cfo": 60675.0,
+        "debt_exchange_cash_premium": -3417.0,
+        "debt_repaid": -5518.0,
+        "stock_issued": 1343.0,
+        "buybacks": -22968.0,
+        "dividends": -15137.0,
+        "other_financing": -3751.0,
+        "cff": -46031.0,
+        "capex": -15441.0,
+        "acquisitions": -2521.0,
+        "investments_purchased": -77190.0,
+        "investments_matured": 66449.0,
+        "investments_sold": 17721.0,
+        "other_investing": -1241.0,
+        "cfi": -12223.0,
+        "fx_cash": -201.0,
+        "cash_change": 2220.0,
+        "opening_cash": 11356.0,
+        "closing_cash": 13576.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_issued": 0.0,
+        "net_st_debt": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2021": {
+      "income": {
+        "revenue": 168088.0,
+        "cogs": 52232.0,
+        "gross_profit": 115856.0,
+        "rd": 20716.0,
+        "sales_marketing": 20117.0,
+        "ga": 5107.0,
+        "operating_income": 69916.0,
+        "other_income": 1186.0,
+        "pretax_income": 71102.0,
+        "income_tax": 9831.0,
+        "net_income": 61271.0,
+        "eps_basic": 8.12,
+        "eps_diluted": 8.05,
+        "shares_basic": 7547.0,
+        "shares_diluted": 7608.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 14224.0,
+        "st_investments": 116110.0,
+        "liquid_assets": 130334.0,
+        "receivables": 38043.0,
+        "inventory": 2636.0,
+        "other_current_assets": 13393.0,
+        "current_assets": 184406.0,
+        "ppe": 59715.0,
+        "op_rou": 11088.0,
+        "equity_investments": 5984.0,
+        "goodwill": 49711.0,
+        "intangibles": 7800.0,
+        "other_lt_assets": 15075.0,
+        "total_assets": 333779.0,
+        "payables": 15163.0,
+        "current_debt": 8072.0,
+        "compensation": 10057.0,
+        "current_tax": 2174.0,
+        "current_deferred_rev": 41525.0,
+        "other_current_liab": 11666.0,
+        "current_liabilities": 88657.0,
+        "long_debt": 50074.0,
+        "long_tax": 27190.0,
+        "long_deferred_rev": 2616.0,
+        "deferred_tax_liab": 198.0,
+        "op_lease_long": 9629.0,
+        "other_lt_liab": 13427.0,
+        "total_liabilities": 191791.0,
+        "paid_in_capital": 83111.0,
+        "retained_earnings": 57055.0,
+        "aoci": 1822.0,
+        "total_equity": 141988.0,
+        "total_le": 333779.0,
+        "st_debt": 0.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 61271.0,
+        "da_other": 11686.0,
+        "sbc": 6118.0,
+        "investment_adjustment": -1249.0,
+        "deferred_taxes": -150.0,
+        "ar_change": -6481.0,
+        "inventory_change": -737.0,
+        "other_ca_change": -932.0,
+        "other_lta_change": -3459.0,
+        "ap_change": 2798.0,
+        "deferred_rev_change": 4633.0,
+        "tax_change": -2309.0,
+        "other_cl_change": 4149.0,
+        "other_ltl_change": 1402.0,
+        "cfo": 76740.0,
+        "debt_exchange_cash_premium": -1754.0,
+        "debt_repaid": -3750.0,
+        "stock_issued": 1693.0,
+        "buybacks": -27385.0,
+        "dividends": -16521.0,
+        "other_financing": -2523.0,
+        "cff": -48486.0,
+        "capex": -20622.0,
+        "acquisitions": -8909.0,
+        "investments_purchased": -62924.0,
+        "investments_matured": 51792.0,
+        "investments_sold": 14008.0,
+        "other_investing": -922.0,
+        "cfi": -27577.0,
+        "fx_cash": -29.0,
+        "cash_change": 648.0,
+        "opening_cash": 13576.0,
+        "closing_cash": 14224.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_issued": 0.0,
+        "net_st_debt": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2022": {
+      "income": {
+        "revenue": 198270.0,
+        "cogs": 62650.0,
+        "gross_profit": 135620.0,
+        "rd": 24512.0,
+        "sales_marketing": 21825.0,
+        "ga": 5900.0,
+        "operating_income": 83383.0,
+        "other_income": 333.0,
+        "pretax_income": 83716.0,
+        "income_tax": 10978.0,
+        "net_income": 72738.0,
+        "eps_basic": 9.7,
+        "eps_diluted": 9.65,
+        "shares_basic": 7496.0,
+        "shares_diluted": 7540.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 13931.0,
+        "st_investments": 90826.0,
+        "liquid_assets": 104757.0,
+        "receivables": 44261.0,
+        "inventory": 3742.0,
+        "other_current_assets": 16924.0,
+        "current_assets": 169684.0,
+        "ppe": 74398.0,
+        "op_rou": 13148.0,
+        "equity_investments": 6891.0,
+        "goodwill": 67524.0,
+        "intangibles": 11298.0,
+        "other_lt_assets": 21897.0,
+        "total_assets": 364840.0,
+        "payables": 19000.0,
+        "current_debt": 2749.0,
+        "compensation": 10661.0,
+        "current_tax": 4067.0,
+        "current_deferred_rev": 45538.0,
+        "other_current_liab": 13067.0,
+        "current_liabilities": 95082.0,
+        "long_debt": 47032.0,
+        "long_tax": 26069.0,
+        "long_deferred_rev": 2870.0,
+        "deferred_tax_liab": 230.0,
+        "op_lease_long": 11489.0,
+        "other_lt_liab": 15526.0,
+        "total_liabilities": 198298.0,
+        "paid_in_capital": 86939.0,
+        "retained_earnings": 84281.0,
+        "aoci": -4678.0,
+        "total_equity": 166542.0,
+        "total_le": 364840.0,
+        "st_debt": 0.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 72738.0,
+        "da_other": 14460.0,
+        "sbc": 7502.0,
+        "investment_adjustment": -409.0,
+        "deferred_taxes": -5702.0,
+        "ar_change": -6834.0,
+        "inventory_change": -1123.0,
+        "other_ca_change": -709.0,
+        "other_lta_change": -2805.0,
+        "ap_change": 2943.0,
+        "deferred_rev_change": 5109.0,
+        "tax_change": 696.0,
+        "other_cl_change": 2344.0,
+        "other_ltl_change": 825.0,
+        "cfo": 89035.0,
+        "net_st_debt": 0.0,
+        "debt_issued": 0.0,
+        "debt_repaid": -9023.0,
+        "stock_issued": 1841.0,
+        "buybacks": -32696.0,
+        "dividends": -18135.0,
+        "other_financing": -863.0,
+        "cff": -58876.0,
+        "capex": -23886.0,
+        "acquisitions": -22038.0,
+        "investments_purchased": -26456.0,
+        "investments_matured": 16451.0,
+        "investments_sold": 28443.0,
+        "other_investing": -2825.0,
+        "cfi": -30311.0,
+        "fx_cash": -141.0,
+        "cash_change": -293.0,
+        "opening_cash": 14224.0,
+        "closing_cash": 13931.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_exchange_cash_premium": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2023": {
+      "income": {
+        "revenue": 211915.0,
+        "cogs": 65863.0,
+        "gross_profit": 146052.0,
+        "rd": 27195.0,
+        "sales_marketing": 22759.0,
+        "ga": 7575.0,
+        "operating_income": 88523.0,
+        "other_income": 788.0,
+        "pretax_income": 89311.0,
+        "income_tax": 16950.0,
+        "net_income": 72361.0,
+        "eps_basic": 9.72,
+        "eps_diluted": 9.68,
+        "shares_basic": 7446.0,
+        "shares_diluted": 7472.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 34704.0,
+        "st_investments": 76558.0,
+        "liquid_assets": 111262.0,
+        "receivables": 48688.0,
+        "inventory": 2500.0,
+        "other_current_assets": 21807.0,
+        "current_assets": 184257.0,
+        "ppe": 95641.0,
+        "op_rou": 14346.0,
+        "equity_investments": 9879.0,
+        "goodwill": 67886.0,
+        "intangibles": 9366.0,
+        "other_lt_assets": 30601.0,
+        "total_assets": 411976.0,
+        "payables": 18095.0,
+        "st_debt": 0.0,
+        "current_debt": 5247.0,
+        "compensation": 11009.0,
+        "current_tax": 4152.0,
+        "current_deferred_rev": 50901.0,
+        "other_current_liab": 14745.0,
+        "current_liabilities": 104149.0,
+        "long_debt": 41990.0,
+        "long_tax": 25560.0,
+        "long_deferred_rev": 2912.0,
+        "deferred_tax_liab": 433.0,
+        "op_lease_long": 12728.0,
+        "other_lt_liab": 17981.0,
+        "total_liabilities": 205753.0,
+        "paid_in_capital": 93718.0,
+        "retained_earnings": 118848.0,
+        "aoci": -6343.0,
+        "total_equity": 206223.0,
+        "total_le": 411976.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 72361.0,
+        "da_other": 13861.0,
+        "sbc": 9611.0,
+        "investment_adjustment": 196.0,
+        "deferred_taxes": -6059.0,
+        "ar_change": -4087.0,
+        "inventory_change": 1242.0,
+        "other_ca_change": -1991.0,
+        "other_lta_change": -2833.0,
+        "ap_change": -2721.0,
+        "deferred_rev_change": 5535.0,
+        "tax_change": -358.0,
+        "other_cl_change": 2272.0,
+        "other_ltl_change": 553.0,
+        "cfo": 87582.0,
+        "net_st_debt": 0.0,
+        "debt_issued": 0.0,
+        "debt_repaid": -2750.0,
+        "stock_issued": 1866.0,
+        "buybacks": -22245.0,
+        "dividends": -19800.0,
+        "other_financing": -1006.0,
+        "cff": -43935.0,
+        "capex": -28107.0,
+        "acquisitions": -1670.0,
+        "investments_purchased": -37651.0,
+        "investments_matured": 33510.0,
+        "investments_sold": 14354.0,
+        "other_investing": -3116.0,
+        "cfi": -22680.0,
+        "fx_cash": -194.0,
+        "cash_change": 20773.0,
+        "opening_cash": 13931.0,
+        "closing_cash": 34704.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_exchange_cash_premium": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2024": {
+      "income": {
+        "revenue": 245122.0,
+        "cogs": 74114.0,
+        "gross_profit": 171008.0,
+        "rd": 29510.0,
+        "sales_marketing": 24456.0,
+        "ga": 7609.0,
+        "operating_income": 109433.0,
+        "other_income": -1646.0,
+        "pretax_income": 107787.0,
+        "income_tax": 19651.0,
+        "net_income": 88136.0,
+        "eps_basic": 11.86,
+        "eps_diluted": 11.8,
+        "shares_basic": 7431.0,
+        "shares_diluted": 7469.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 18315.0,
+        "st_investments": 57228.0,
+        "liquid_assets": 75543.0,
+        "receivables": 56924.0,
+        "inventory": 1246.0,
+        "other_current_assets": 26021.0,
+        "current_assets": 159734.0,
+        "ppe": 135591.0,
+        "op_rou": 18961.0,
+        "equity_investments": 14600.0,
+        "goodwill": 119220.0,
+        "intangibles": 27597.0,
+        "other_lt_assets": 36460.0,
+        "total_assets": 512163.0,
+        "payables": 21996.0,
+        "st_debt": 6693.0,
+        "current_debt": 2249.0,
+        "compensation": 12564.0,
+        "current_tax": 5017.0,
+        "current_deferred_rev": 57582.0,
+        "other_current_liab": 19185.0,
+        "current_liabilities": 125286.0,
+        "long_debt": 42688.0,
+        "long_tax": 27931.0,
+        "long_deferred_rev": 2602.0,
+        "deferred_tax_liab": 2618.0,
+        "op_lease_long": 15497.0,
+        "other_lt_liab": 27064.0,
+        "total_liabilities": 243686.0,
+        "paid_in_capital": 100923.0,
+        "retained_earnings": 173144.0,
+        "aoci": -5590.0,
+        "total_equity": 268477.0,
+        "total_le": 512163.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 88136.0,
+        "da_other": 20958.0,
+        "sbc": 10734.0,
+        "investment_adjustment": 1634.0,
+        "deferred_taxes": -4738.0,
+        "ar_change": -7191.0,
+        "inventory_change": 1284.0,
+        "other_ca_change": -1648.0,
+        "other_lta_change": -6817.0,
+        "ap_change": 3545.0,
+        "deferred_rev_change": 5348.0,
+        "tax_change": 1687.0,
+        "other_cl_change": 4867.0,
+        "other_ltl_change": 749.0,
+        "cfo": 118548.0,
+        "net_st_debt": 5250.0,
+        "debt_issued": 24395.0,
+        "debt_repaid": -29070.0,
+        "stock_issued": 2002.0,
+        "buybacks": -17254.0,
+        "dividends": -21771.0,
+        "other_financing": -1309.0,
+        "cff": -37757.0,
+        "capex": -44477.0,
+        "acquisitions": -69132.0,
+        "investments_purchased": -17732.0,
+        "investments_matured": 24775.0,
+        "investments_sold": 10894.0,
+        "other_investing": -1298.0,
+        "cfi": -96970.0,
+        "fx_cash": -210.0,
+        "cash_change": -16389.0,
+        "opening_cash": 34704.0,
+        "closing_cash": 18315.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_exchange_cash_premium": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2025": {
+      "income": {
+        "revenue": 281724.0,
+        "cogs": 87831.0,
+        "gross_profit": 193893.0,
+        "rd": 32488.0,
+        "sales_marketing": 25654.0,
+        "ga": 7223.0,
+        "operating_income": 128528.0,
+        "other_income": -4901.0,
+        "pretax_income": 123627.0,
+        "income_tax": 21795.0,
+        "net_income": 101832.0,
+        "eps_basic": 13.7,
+        "eps_diluted": 13.64,
+        "shares_basic": 7433.0,
+        "shares_diluted": 7465.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 30242.0,
+        "st_investments": 64323.0,
+        "liquid_assets": 94565.0,
+        "receivables": 69905.0,
+        "inventory": 938.0,
+        "other_current_assets": 25723.0,
+        "current_assets": 191131.0,
+        "ppe": 204966.0,
+        "op_rou": 24823.0,
+        "equity_investments": 15405.0,
+        "goodwill": 119509.0,
+        "intangibles": 22604.0,
+        "other_lt_assets": 40565.0,
+        "total_assets": 619003.0,
+        "payables": 27724.0,
+        "current_debt": 2999.0,
+        "compensation": 13709.0,
+        "current_tax": 7211.0,
+        "current_deferred_rev": 64555.0,
+        "other_current_liab": 25020.0,
+        "current_liabilities": 141218.0,
+        "long_debt": 40152.0,
+        "long_tax": 25986.0,
+        "long_deferred_rev": 2710.0,
+        "deferred_tax_liab": 2835.0,
+        "op_lease_long": 17437.0,
+        "other_lt_liab": 45186.0,
+        "total_liabilities": 275524.0,
+        "paid_in_capital": 109095.0,
+        "retained_earnings": 237731.0,
+        "aoci": -3347.0,
+        "total_equity": 343479.0,
+        "total_le": 619003.0,
+        "st_debt": 0.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 101832.0,
+        "da_other": 29433.0,
+        "sbc": 11974.0,
+        "investment_adjustment": 5329.0,
+        "deferred_taxes": -7056.0,
+        "ar_change": -10581.0,
+        "inventory_change": 309.0,
+        "other_ca_change": -3044.0,
+        "other_lta_change": -2950.0,
+        "ap_change": 569.0,
+        "deferred_rev_change": 5438.0,
+        "tax_change": -38.0,
+        "other_cl_change": 5922.0,
+        "other_ltl_change": -975.0,
+        "cfo": 136162.0,
+        "net_st_debt": -5746.0,
+        "debt_issued": 0.0,
+        "debt_repaid": -3216.0,
+        "stock_issued": 2056.0,
+        "buybacks": -18420.0,
+        "dividends": -24082.0,
+        "other_financing": -2291.0,
+        "cff": -51699.0,
+        "capex": -64551.0,
+        "acquisitions": -5978.0,
+        "investments_purchased": -29775.0,
+        "investments_matured": 16079.0,
+        "investments_sold": 9309.0,
+        "other_investing": 2317.0,
+        "cfi": -72599.0,
+        "fx_cash": 63.0,
+        "cash_change": 11927.0,
+        "opening_cash": 18315.0,
+        "closing_cash": 30242.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_exchange_cash_premium": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    },
+    "2026": {
+      "income": {
+        "revenue": 331839.0,
+        "cogs": 106374.0,
+        "gross_profit": 225465.0,
+        "rd": 35562.0,
+        "sales_marketing": 26710.0,
+        "ga": 7956.0,
+        "operating_income": 155237.0,
+        "other_income": 10697.0,
+        "pretax_income": 165934.0,
+        "income_tax": 32185.0,
+        "net_income": 133749.0,
+        "eps_basic": 18.0,
+        "eps_diluted": 17.95,
+        "shares_basic": 7429.0,
+        "shares_diluted": 7453.0,
+        "other_opex": 0.0
+      },
+      "balance": {
+        "cash": 20935.0,
+        "st_investments": 55908.0,
+        "liquid_assets": 76843.0,
+        "receivables": 80876.0,
+        "inventory": 1397.0,
+        "other_current_assets": 48594.0,
+        "current_assets": 207710.0,
+        "ppe": 313076.0,
+        "op_rou": 24177.0,
+        "equity_investments": 36348.0,
+        "goodwill": 119651.0,
+        "intangibles": 18609.0,
+        "other_lt_assets": 38805.0,
+        "total_assets": 758376.0,
+        "payables": 42416.0,
+        "current_debt": 9227.0,
+        "compensation": 14945.0,
+        "current_tax": 2534.0,
+        "current_deferred_rev": 72965.0,
+        "other_current_liab": 26738.0,
+        "current_liabilities": 168825.0,
+        "long_debt": 31067.0,
+        "long_tax": 28647.0,
+        "long_deferred_rev": 2747.0,
+        "deferred_tax_liab": 3054.0,
+        "op_lease_long": 16532.0,
+        "other_lt_liab": 65117.0,
+        "total_liabilities": 315989.0,
+        "paid_in_capital": 117406.0,
+        "retained_earnings": 328265.0,
+        "aoci": -3284.0,
+        "total_equity": 442387.0,
+        "total_le": 758376.0,
+        "st_debt": 0.0,
+        "securities_lending": 0.0
+      },
+      "cashflow": {
+        "net_income": 133749.0,
+        "da_other": 38534.0,
+        "sbc": 12405.0,
+        "investment_adjustment": -11047.0,
+        "deferred_taxes": 14189.0,
+        "ar_change": -12737.0,
+        "inventory_change": -461.0,
+        "other_ca_change": -2627.0,
+        "other_lta_change": -3964.0,
+        "ap_change": 5268.0,
+        "deferred_rev_change": 9361.0,
+        "tax_change": -1875.0,
+        "other_cl_change": 6847.0,
+        "other_ltl_change": -4707.0,
+        "cfo": 182935.0,
+        "net_st_debt": 0.0,
+        "debt_issued": 0.0,
+        "debt_repaid": -3000.0,
+        "stock_issued": 2009.0,
+        "buybacks": -22271.0,
+        "dividends": -26445.0,
+        "other_financing": -2839.0,
+        "cff": -52546.0,
+        "capex": -115948.0,
+        "acquisitions": -1743.0,
+        "investments_purchased": -58351.0,
+        "investments_matured": 34605.0,
+        "investments_sold": 21798.0,
+        "other_investing": -19861.0,
+        "cfi": -139500.0,
+        "fx_cash": -196.0,
+        "cash_change": -9307.0,
+        "opening_cash": 30242.0,
+        "closing_cash": 20935.0,
+        "impairments": 0.0,
+        "securities_lending_cf": 0.0,
+        "debt_exchange_cash_premium": 0.0,
+        "other_operating_adjustments": 0.0
+      }
+    }
+  },
+  "segments": {
+    "2017": {
+      "report_year": 2019,
+      "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+      "table_index": 68,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 29870.0,
+          "operating_income": 11389.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 27407.0,
+          "operating_income": 9127.0
+        },
+        "More Personal Computing": {
+          "revenue": 39294.0,
+          "operating_income": 8815.0
+        }
+      }
+    },
+    "2018": {
+      "report_year": 2020,
+      "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+      "table_index": 66,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 35865.0,
+          "operating_income": 12924.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 32219.0,
+          "operating_income": 11524.0
+        },
+        "More Personal Computing": {
+          "revenue": 42276.0,
+          "operating_income": 10610.0
+        }
+      }
+    },
+    "2019": {
+      "report_year": 2021,
+      "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+      "table_index": 67,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 41160.0,
+          "operating_income": 16219.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 38985.0,
+          "operating_income": 13920.0
+        },
+        "More Personal Computing": {
+          "revenue": 45698.0,
+          "operating_income": 12820.0
+        }
+      }
+    },
+    "2020": {
+      "report_year": 2022,
+      "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+      "table_index": 67,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 46398.0,
+          "operating_income": 18724.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 48366.0,
+          "operating_income": 18324.0
+        },
+        "More Personal Computing": {
+          "revenue": 48251.0,
+          "operating_income": 15911.0
+        }
+      }
+    },
+    "2021": {
+      "report_year": 2023,
+      "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+      "table_index": 67,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 53915.0,
+          "operating_income": 24351.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 59728.0,
+          "operating_income": 26471.0
+        },
+        "More Personal Computing": {
+          "revenue": 54445.0,
+          "operating_income": 19094.0
+        }
+      }
+    },
+    "2022": {
+      "report_year": 2024,
+      "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+      "table_index": 68,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 63364.0,
+          "operating_income": 29690.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 74965.0,
+          "operating_income": 33203.0
+        },
+        "More Personal Computing": {
+          "revenue": 59941.0,
+          "operating_income": 20490.0
+        }
+      }
+    },
+    "2023": {
+      "report_year": 2025,
+      "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "table_index": 62,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 94151.0,
+          "cost_of_revenue": 17202.0,
+          "operating_expenses": 26875.0,
+          "operating_income": 50074.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 72944.0,
+          "cost_of_revenue": 24109.0,
+          "operating_expenses": 20424.0,
+          "operating_income": 28411.0
+        },
+        "More Personal Computing": {
+          "revenue": 44820.0,
+          "cost_of_revenue": 24552.0,
+          "operating_expenses": 10230.0,
+          "operating_income": 10038.0
+        }
+      }
+    },
+    "2024": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 74,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 106820.0,
+          "cost_of_revenue": 19611.0,
+          "operating_expenses": 27548.0,
+          "operating_income": 59661.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 87464.0,
+          "cost_of_revenue": 29611.0,
+          "operating_expenses": 20040.0,
+          "operating_income": 37813.0
+        },
+        "More Personal Computing": {
+          "revenue": 50838.0,
+          "cost_of_revenue": 24892.0,
+          "operating_expenses": 13987.0,
+          "operating_income": 11959.0
+        }
+      }
+    },
+    "2025": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 74,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 120810.0,
+          "cost_of_revenue": 22422.0,
+          "operating_expenses": 28615.0,
+          "operating_income": 69773.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 106265.0,
+          "cost_of_revenue": 40171.0,
+          "operating_expenses": 21505.0,
+          "operating_income": 44589.0
+        },
+        "More Personal Computing": {
+          "revenue": 54649.0,
+          "cost_of_revenue": 25238.0,
+          "operating_expenses": 15245.0,
+          "operating_income": 14166.0
+        }
+      }
+    },
+    "2026": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 74,
+      "data": {
+        "Productivity and Business Processes": {
+          "revenue": 139996.0,
+          "cost_of_revenue": 25017.0,
+          "operating_expenses": 31100.0,
+          "operating_income": 83879.0
+        },
+        "Intelligent Cloud": {
+          "revenue": 137791.0,
+          "cost_of_revenue": 57876.0,
+          "operating_expenses": 22943.0,
+          "operating_income": 56972.0
+        },
+        "More Personal Computing": {
+          "revenue": 54052.0,
+          "cost_of_revenue": 23481.0,
+          "operating_expenses": 16185.0,
+          "operating_income": 14386.0
+        }
+      }
+    }
+  },
+  "notes": {
+    "2016": {
+      "ppe_depreciation": 4900.0,
+      "intangible_amortization": 978.0,
+      "ppe_gross": 38156.0,
+      "accumulated_depreciation": 19800.0,
+      "operating_lease_cost": 936.0,
+      "finance_lease_principal": 6.0,
+      "finance_lease_additions": 413.0,
+      "operating_lease_additions": 1062.0,
+      "operating_lease_liab": 0.0
+    },
+    "2017": {
+      "ppe_depreciation": 6100.0,
+      "intangible_amortization": 1700.0,
+      "ppe_gross": 47913.0,
+      "accumulated_depreciation": 24179.0,
+      "operating_lease_cost": 1412.0,
+      "finance_lease_liab": 2538.0,
+      "finance_lease_principal": 46.0,
+      "finance_lease_additions": 1773.0,
+      "operating_lease_additions": 1270.0,
+      "operating_lease_liab": 6795.0
+    },
+    "2018": {
+      "ppe_depreciation": 7700.0,
+      "intangible_amortization": 2200.0,
+      "ppe_gross": 58683.0,
+      "accumulated_depreciation": 29223.0,
+      "operating_lease_cost": 1585.0,
+      "finance_lease_liab": 4301.0,
+      "finance_lease_principal": 144.0,
+      "finance_lease_additions": 1933.0,
+      "operating_lease_additions": 1571.0,
+      "operating_lease_liab": 6967.0
+    },
+    "2019": {
+      "ppe_depreciation": 9700.0,
+      "intangible_amortization": 1900.0,
+      "ppe_gross": 71807.0,
+      "accumulated_depreciation": 35330.0,
+      "operating_lease_cost": 1707.0,
+      "finance_lease_liab": 6574.0,
+      "finance_lease_principal": 221.0,
+      "finance_lease_additions": 2532.0,
+      "operating_lease_additions": 2303.0,
+      "operating_lease_liab": 7703.0
+    },
+    "2020": {
+      "ppe_depreciation": 10700.0,
+      "intangible_amortization": 1600.0,
+      "ppe_gross": 87348.0,
+      "accumulated_depreciation": 43197.0,
+      "operating_lease_cost": 2043.0,
+      "finance_lease_liab": 9496.0,
+      "finance_lease_principal": 409.0,
+      "finance_lease_additions": 3467.0,
+      "operating_lease_additions": 3677.0,
+      "operating_lease_liab": 9287.0
+    },
+    "2021": {
+      "ppe_depreciation": 9300.0,
+      "intangible_amortization": 1600.0,
+      "ppe_gross": 111066.0,
+      "accumulated_depreciation": 51351.0,
+      "operating_lease_cost": 2127.0,
+      "finance_lease_liab": 12541.0,
+      "finance_lease_principal": 648.0,
+      "finance_lease_additions": 3290.0,
+      "operating_lease_additions": 4380.0,
+      "operating_lease_liab": 11591.0
+    },
+    "2022": {
+      "ppe_depreciation": 12600.0,
+      "intangible_amortization": 2000.0,
+      "ppe_gross": 134058.0,
+      "accumulated_depreciation": 59660.0,
+      "operating_lease_cost": 2461.0,
+      "finance_lease_liab": 14902.0,
+      "finance_lease_principal": 896.0,
+      "finance_lease_additions": 4234.0,
+      "operating_lease_additions": 5268.0,
+      "operating_lease_liab": 13717.0
+    },
+    "2023": {
+      "ppe_depreciation": 11000.0,
+      "intangible_amortization": 2500.0,
+      "ppe_gross": 163892.0,
+      "accumulated_depreciation": 68251.0,
+      "operating_lease_cost": 2875.0,
+      "finance_lease_liab": 17067.0,
+      "finance_lease_principal": 1056.0,
+      "finance_lease_additions": 3128.0,
+      "operating_lease_additions": 3514.0,
+      "operating_lease_liab": 15137.0,
+      "interest_expense": 1968.0
+    },
+    "2024": {
+      "ppe_depreciation": 15200.0,
+      "intangible_amortization": 4800.0,
+      "ppe_gross": 212012.0,
+      "accumulated_depreciation": 76421.0,
+      "operating_lease_cost": 3555.0,
+      "finance_lease_liab": 27145.0,
+      "finance_lease_principal": 1286.0,
+      "finance_lease_additions": 11633.0,
+      "operating_lease_additions": 6703.0,
+      "operating_lease_liab": 19077.0,
+      "interest_expense": 2935.0
+    },
+    "2025": {
+      "ppe_depreciation": 22000.0,
+      "intangible_amortization": 6000.0,
+      "ppe_gross": 298619.0,
+      "accumulated_depreciation": 93653.0,
+      "operating_lease_cost": 5524.0,
+      "finance_lease_liab": 46172.0,
+      "finance_lease_principal": 2283.0,
+      "finance_lease_additions": 20511.0,
+      "operating_lease_additions": 7826.0,
+      "operating_lease_liab": 22861.0,
+      "interest_expense": 2385.0
+    },
+    "2026": {
+      "ppe_depreciation": 34300.0,
+      "intangible_amortization": 4700.0,
+      "ppe_gross": 431767,
+      "accumulated_depreciation": 118691,
+      "operating_lease_cost": 6968.0,
+      "finance_lease_liab": 66594.0,
+      "finance_lease_principal": 3101.0,
+      "finance_lease_additions": 24608.0,
+      "operating_lease_additions": 4555.0,
+      "operating_lease_liab": 21925.0,
+      "interest_expense": 3051.0,
+      "land": 10546,
+      "capex_payables": 26700,
+      "op_lease_current": 5393,
+      "finance_lease_current": 4290,
+      "finance_lease_long": 62304,
+      "debt_face": 46136,
+      "debt_discount": 1081,
+      "debt_hedge_adjustment": 11,
+      "debt_exchange_premium": 4750,
+      "debt_maturities": [
+        9250,
+        0,
+        2001,
+        0,
+        500
+      ],
+      "debt_thereafter": 34385,
+      "intangible_amortization_schedule": [
+        3097,
+        2141,
+        1944,
+        1477,
+        1128
+      ],
+      "op_lease_payments": [
+        6082,
+        4334,
+        3146,
+        2612,
+        2316
+      ],
+      "finance_lease_payments": [
+        7121,
+        7294,
+        6668,
+        6570,
+        6543
+      ],
+      "finance_lease_rate": 0.045,
+      "op_lease_rate": 0.037,
+      "finance_lease_term": 13,
+      "op_lease_term": 6,
+      "construction_commitments": 34566,
+      "cash_debt_interest": 1500
+    }
+  },
+  "provenance": {
+    "2016.income": {
+      "report_year": 2018,
+      "url": "https://www.microsoft.com/investor/reports/ar18/index.html",
+      "table_index": 15
+    },
+    "2016.balance": {
+      "report_year": 2017,
+      "url": "https://www.microsoft.com/investor/reports/ar17/index.html",
+      "table_index": 18
+    },
+    "2016.cashflow": {
+      "report_year": 2018,
+      "url": "https://www.microsoft.com/investor/reports/ar18/index.html",
+      "table_index": 18
+    },
+    "2017.income": {
+      "report_year": 2019,
+      "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+      "table_index": 14
+    },
+    "2017.balance": {
+      "report_year": 2018,
+      "url": "https://www.microsoft.com/investor/reports/ar18/index.html",
+      "table_index": 17
+    },
+    "2017.cashflow": {
+      "report_year": 2019,
+      "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+      "table_index": 17
+    },
+    "2018.income": {
+      "report_year": 2020,
+      "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+      "table_index": 17
+    },
+    "2018.balance": {
+      "report_year": 2019,
+      "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+      "table_index": 16
+    },
+    "2018.cashflow": {
+      "report_year": 2020,
+      "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+      "table_index": 20
+    },
+    "2019.income": {
+      "report_year": 2021,
+      "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+      "table_index": 16
+    },
+    "2019.balance": {
+      "report_year": 2020,
+      "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+      "table_index": 19
+    },
+    "2019.cashflow": {
+      "report_year": 2021,
+      "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+      "table_index": 19
+    },
+    "2020.income": {
+      "report_year": 2022,
+      "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+      "table_index": 16
+    },
+    "2020.balance": {
+      "report_year": 2021,
+      "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+      "table_index": 18
+    },
+    "2020.cashflow": {
+      "report_year": 2022,
+      "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+      "table_index": 19
+    },
+    "2021.income": {
+      "report_year": 2023,
+      "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+      "table_index": 16
+    },
+    "2021.balance": {
+      "report_year": 2022,
+      "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+      "table_index": 18
+    },
+    "2021.cashflow": {
+      "report_year": 2023,
+      "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+      "table_index": 19
+    },
+    "2022.income": {
+      "report_year": 2024,
+      "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+      "table_index": 16
+    },
+    "2022.balance": {
+      "report_year": 2023,
+      "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+      "table_index": 18
+    },
+    "2022.cashflow": {
+      "report_year": 2024,
+      "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+      "table_index": 19
+    },
+    "2023.income": {
+      "report_year": 2025,
+      "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "table_index": 15
+    },
+    "2023.balance": {
+      "report_year": 2024,
+      "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+      "table_index": 18
+    },
+    "2023.cashflow": {
+      "report_year": 2025,
+      "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "table_index": 18
+    },
+    "2024.income": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 24
+    },
+    "2024.balance": {
+      "report_year": 2025,
+      "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "table_index": 17
+    },
+    "2024.cashflow": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 27
+    },
+    "2025.income": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 24
+    },
+    "2025.balance": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 26
+    },
+    "2025.cashflow": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 27
+    },
+    "2026.income": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 24
+    },
+    "2026.balance": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 26
+    },
+    "2026.cashflow": {
+      "report_year": 2026,
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "table_index": 27
+    }
+  },
+  "source_controls": [
+    {
+      "year": 2017,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2017,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2018,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2019,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2020,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2021,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2022,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2023,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2024,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2025,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Income statement",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Cash flow ending cash",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Cash to balance sheet",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Segment revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Income before tax components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Net income components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Current asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Total asset components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Current liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Total liability components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Operating cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Investing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Financing cash components",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "Segment operating income and corporate expense",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "SEC XBRL revenue",
+      "difference": 0.0
+    },
+    {
+      "year": 2026,
+      "check": "SEC XBRL net_income",
+      "difference": 0.0
+    }
+  ]
+}
