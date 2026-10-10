@@ -1,0 +1,37 @@
+{
+  "tested_on_disposable_in_memory_copy": true,
+  "final_workbook_not_modified": true,
+  "scenarios": [
+    {
+      "case": "Base",
+      "statement_checks": 25,
+      "chart_helper_checks": 805,
+      "historical_regression_unchanged": true
+    },
+    {
+      "case": "Upside",
+      "statement_checks": 25,
+      "chart_helper_checks": 805,
+      "historical_regression_unchanged": true
+    },
+    {
+      "case": "Downside",
+      "statement_checks": 25,
+      "chart_helper_checks": 805,
+      "historical_regression_unchanged": true
+    }
+  ],
+  "later_year_capex_change": {
+    "before": {
+      "capex": -129621.43019877505,
+      "fcf": 255661.16321179768,
+      "ppe": 586467.1006086343
+    },
+    "after": {
+      "capex": -136102.5017087138,
+      "fcf": 249370.28343488582,
+      "ppe": 593121.0006921715
+    }
+  },
+  "chart_source_errors_propagate": true
+}

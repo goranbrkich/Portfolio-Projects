@@ -367,6 +367,9 @@ def build():
     p("U.S. Securities and Exchange Commission. Microsoft Company Facts, CIK 0000789019. Selected 10-K observations are filtered by fiscal period and the fixed information cutoff.")
     p("https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json")
     result = OUT / "Microsoft_Three_Statement_Model_Report.docx"
+    if (PROJECT / "evidence/workbook_enhancements.json").exists():
+        from update_report import append_enhancement_section
+        append_enhancement_section(doc, PROJECT)
     doc.save(result)
     print(result)
 

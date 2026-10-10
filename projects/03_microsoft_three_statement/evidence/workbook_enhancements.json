@@ -1,0 +1,1328 @@
+{
+  "revision_date": "2026-10-10",
+  "note_counts": {
+    "Overview": 90,
+    "Equity Research": 139,
+    "Investment Banking": 139,
+    "Private Equity": 117,
+    "FP&A": 148,
+    "Assumptions": 1409,
+    "Income Statement": 375,
+    "Balance Sheet": 567,
+    "Cash Flow": 759,
+    "Segments": 663,
+    "Expense Plan": 215,
+    "Working Capital": 455,
+    "PPE and Intangibles": 244,
+    "Debt and Leases": 1063,
+    "Tax and Equity": 343,
+    "Data >>": 2,
+    "Historical Inputs": 1037,
+    "Filing Notes": 179,
+    "Audit": 253,
+    "Model Guide": 1,
+    "Financial Modeling": 402
+  },
+  "chart_count": 37,
+  "added_charts": [
+    {
+      "title": "Cash conversion (USD billions)",
+      "series": [
+        {
+          "values": "'Equity Research'!$D$70:$D$79",
+          "categories": "'Equity Research'!$C$70:$C$79"
+        },
+        {
+          "values": "'Equity Research'!$E$70:$E$79",
+          "categories": "'Equity Research'!$C$70:$C$79"
+        },
+        {
+          "values": "'Equity Research'!$F$70:$F$79",
+          "categories": "'Equity Research'!$C$70:$C$79"
+        }
+      ]
+    },
+    {
+      "title": "Operating and FCF margins",
+      "series": [
+        {
+          "values": "'Equity Research'!$D$89:$D$98",
+          "categories": "'Equity Research'!$C$89:$C$98"
+        },
+        {
+          "values": "'Equity Research'!$E$89:$E$98",
+          "categories": "'Equity Research'!$C$89:$C$98"
+        }
+      ]
+    },
+    {
+      "title": "Debt, leases and liquidity (USD billions)",
+      "series": [
+        {
+          "values": "'Investment Banking'!$D$70:$D$79",
+          "categories": "'Investment Banking'!$C$70:$C$79"
+        },
+        {
+          "values": "'Investment Banking'!$E$70:$E$79",
+          "categories": "'Investment Banking'!$C$70:$C$79"
+        },
+        {
+          "values": "'Investment Banking'!$F$70:$F$79",
+          "categories": "'Investment Banking'!$C$70:$C$79"
+        }
+      ]
+    },
+    {
+      "title": "Debt / earnings proxy",
+      "series": [
+        {
+          "values": "'Investment Banking'!$D$89:$D$98",
+          "categories": "'Investment Banking'!$C$89:$C$98"
+        },
+        {
+          "values": "'Investment Banking'!$E$89:$E$98",
+          "categories": "'Investment Banking'!$C$89:$C$98"
+        }
+      ]
+    },
+    {
+      "title": "Cash and noncash investment (USD billions)",
+      "series": [
+        {
+          "values": "'Private Equity'!$D$70:$D$79",
+          "categories": "'Private Equity'!$C$70:$C$79"
+        },
+        {
+          "values": "'Private Equity'!$E$70:$E$79",
+          "categories": "'Private Equity'!$C$70:$C$79"
+        }
+      ]
+    },
+    {
+      "title": "Cash conversion and capex / earnings proxy",
+      "series": [
+        {
+          "values": "'Private Equity'!$D$89:$D$98",
+          "categories": "'Private Equity'!$C$89:$C$98"
+        },
+        {
+          "values": "'Private Equity'!$E$89:$E$98",
+          "categories": "'Private Equity'!$C$89:$C$98"
+        }
+      ]
+    },
+    {
+      "title": "Segment revenue (USD billions)",
+      "series": [
+        {
+          "values": "'FP&A'!$D$85:$D$93",
+          "categories": "'FP&A'!$C$85:$C$93"
+        },
+        {
+          "values": "'FP&A'!$E$85:$E$93",
+          "categories": "'FP&A'!$C$85:$C$93"
+        },
+        {
+          "values": "'FP&A'!$F$85:$F$93",
+          "categories": "'FP&A'!$C$85:$C$93"
+        }
+      ]
+    },
+    {
+      "title": "Operating expenses (USD billions)",
+      "series": [
+        {
+          "values": "'FP&A'!$D$104:$D$113",
+          "categories": "'FP&A'!$C$104:$C$113"
+        },
+        {
+          "values": "'FP&A'!$E$104:$E$113",
+          "categories": "'FP&A'!$C$104:$C$113"
+        },
+        {
+          "values": "'FP&A'!$F$104:$F$113",
+          "categories": "'FP&A'!$C$104:$C$113"
+        }
+      ]
+    },
+    {
+      "title": "Active segment revenue growth",
+      "series": [
+        {
+          "values": "'Assumptions'!$D$257:$D$261",
+          "categories": "'Assumptions'!$C$257:$C$261"
+        },
+        {
+          "values": "'Assumptions'!$E$257:$E$261",
+          "categories": "'Assumptions'!$C$257:$C$261"
+        },
+        {
+          "values": "'Assumptions'!$F$257:$F$261",
+          "categories": "'Assumptions'!$C$257:$C$261"
+        }
+      ]
+    },
+    {
+      "title": "Active capital investment ratios",
+      "series": [
+        {
+          "values": "'Assumptions'!$D$276:$D$280",
+          "categories": "'Assumptions'!$C$276:$C$280"
+        },
+        {
+          "values": "'Assumptions'!$E$276:$E$280",
+          "categories": "'Assumptions'!$C$276:$C$280"
+        }
+      ]
+    },
+    {
+      "title": "Revenue and earnings (USD billions)",
+      "series": [
+        {
+          "values": "'Income Statement'!$D$81:$D$95",
+          "categories": "'Income Statement'!$C$81:$C$95"
+        },
+        {
+          "values": "'Income Statement'!$E$81:$E$95",
+          "categories": "'Income Statement'!$C$81:$C$95"
+        },
+        {
+          "values": "'Income Statement'!$F$81:$F$95",
+          "categories": "'Income Statement'!$C$81:$C$95"
+        }
+      ]
+    },
+    {
+      "title": "Profit margins",
+      "series": [
+        {
+          "values": "'Income Statement'!$D$100:$D$114",
+          "categories": "'Income Statement'!$C$100:$C$114"
+        },
+        {
+          "values": "'Income Statement'!$E$100:$E$114",
+          "categories": "'Income Statement'!$C$100:$C$114"
+        },
+        {
+          "values": "'Income Statement'!$F$100:$F$114",
+          "categories": "'Income Statement'!$C$100:$C$114"
+        }
+      ]
+    },
+    {
+      "title": "Asset composition (USD billions)",
+      "series": [
+        {
+          "values": "'Balance Sheet'!$D$94:$D$108",
+          "categories": "'Balance Sheet'!$C$94:$C$108"
+        },
+        {
+          "values": "'Balance Sheet'!$E$94:$E$108",
+          "categories": "'Balance Sheet'!$C$94:$C$108"
+        },
+        {
+          "values": "'Balance Sheet'!$F$94:$F$108",
+          "categories": "'Balance Sheet'!$C$94:$C$108"
+        }
+      ]
+    },
+    {
+      "title": "Liability and equity funding (USD billions)",
+      "series": [
+        {
+          "values": "'Balance Sheet'!$D$113:$D$127",
+          "categories": "'Balance Sheet'!$C$113:$C$127"
+        },
+        {
+          "values": "'Balance Sheet'!$E$113:$E$127",
+          "categories": "'Balance Sheet'!$C$113:$C$127"
+        }
+      ]
+    },
+    {
+      "title": "Operating cash and reinvestment (USD billions)",
+      "series": [
+        {
+          "values": "'Cash Flow'!$D$107:$D$121",
+          "categories": "'Cash Flow'!$C$107:$C$121"
+        },
+        {
+          "values": "'Cash Flow'!$E$107:$E$121",
+          "categories": "'Cash Flow'!$C$107:$C$121"
+        },
+        {
+          "values": "'Cash Flow'!$F$107:$F$121",
+          "categories": "'Cash Flow'!$C$107:$C$121"
+        }
+      ]
+    },
+    {
+      "title": "FCF before and after lease principal (USD billions)",
+      "series": [
+        {
+          "values": "'Cash Flow'!$D$126:$D$140",
+          "categories": "'Cash Flow'!$C$126:$C$140"
+        },
+        {
+          "values": "'Cash Flow'!$E$126:$E$140",
+          "categories": "'Cash Flow'!$C$126:$C$140"
+        }
+      ]
+    },
+    {
+      "title": "Revenue on the current segment definition (USD billions)",
+      "series": [
+        {
+          "values": "'Segments'!$D$99:$D$107",
+          "categories": "'Segments'!$C$99:$C$107"
+        },
+        {
+          "values": "'Segments'!$E$99:$E$107",
+          "categories": "'Segments'!$C$99:$C$107"
+        },
+        {
+          "values": "'Segments'!$F$99:$F$107",
+          "categories": "'Segments'!$C$99:$C$107"
+        }
+      ]
+    },
+    {
+      "title": "Modeled segment operating margins",
+      "series": [
+        {
+          "values": "'Segments'!$D$118:$D$126",
+          "categories": "'Segments'!$C$118:$C$126"
+        },
+        {
+          "values": "'Segments'!$E$118:$E$126",
+          "categories": "'Segments'!$C$118:$C$126"
+        },
+        {
+          "values": "'Segments'!$F$118:$F$126",
+          "categories": "'Segments'!$C$118:$C$126"
+        }
+      ]
+    },
+    {
+      "title": "Operating expense categories (USD billions)",
+      "series": [
+        {
+          "values": "'Expense Plan'!$D$70:$D$84",
+          "categories": "'Expense Plan'!$C$70:$C$84"
+        },
+        {
+          "values": "'Expense Plan'!$E$70:$E$84",
+          "categories": "'Expense Plan'!$C$70:$C$84"
+        },
+        {
+          "values": "'Expense Plan'!$F$70:$F$84",
+          "categories": "'Expense Plan'!$C$70:$C$84"
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure expense (USD billions)",
+      "series": [
+        {
+          "values": "'Expense Plan'!$D$89:$D$103",
+          "categories": "'Expense Plan'!$C$89:$C$103"
+        },
+        {
+          "values": "'Expense Plan'!$E$89:$E$103",
+          "categories": "'Expense Plan'!$C$89:$C$103"
+        },
+        {
+          "values": "'Expense Plan'!$F$89:$F$103",
+          "categories": "'Expense Plan'!$C$89:$C$103"
+        }
+      ]
+    },
+    {
+      "title": "Operating working-capital days",
+      "series": [
+        {
+          "values": "'Working Capital'!$D$85:$D$90",
+          "categories": "'Working Capital'!$C$85:$C$90"
+        },
+        {
+          "values": "'Working Capital'!$E$85:$E$90",
+          "categories": "'Working Capital'!$C$85:$C$90"
+        },
+        {
+          "values": "'Working Capital'!$F$85:$F$90",
+          "categories": "'Working Capital'!$C$85:$C$90"
+        }
+      ]
+    },
+    {
+      "title": "Operating balance cash effects (USD billions)",
+      "series": [
+        {
+          "values": "'Working Capital'!$D$104:$D$108",
+          "categories": "'Working Capital'!$C$104:$C$108"
+        },
+        {
+          "values": "'Working Capital'!$E$104:$E$108",
+          "categories": "'Working Capital'!$C$104:$C$108"
+        },
+        {
+          "values": "'Working Capital'!$F$104:$F$108",
+          "categories": "'Working Capital'!$C$104:$C$108"
+        }
+      ]
+    },
+    {
+      "title": "PPE additions and depreciation (USD billions)",
+      "series": [
+        {
+          "values": "'PPE and Intangibles'!$D$89:$D$94",
+          "categories": "'PPE and Intangibles'!$C$89:$C$94"
+        },
+        {
+          "values": "'PPE and Intangibles'!$E$89:$E$94",
+          "categories": "'PPE and Intangibles'!$C$89:$C$94"
+        },
+        {
+          "values": "'PPE and Intangibles'!$F$89:$F$94",
+          "categories": "'PPE and Intangibles'!$C$89:$C$94"
+        }
+      ]
+    },
+    {
+      "title": "Net PPE and intangible balances (USD billions)",
+      "series": [
+        {
+          "values": "'PPE and Intangibles'!$D$108:$D$113",
+          "categories": "'PPE and Intangibles'!$C$108:$C$113"
+        },
+        {
+          "values": "'PPE and Intangibles'!$E$108:$E$113",
+          "categories": "'PPE and Intangibles'!$C$108:$C$113"
+        }
+      ]
+    },
+    {
+      "title": "Debt and lease obligations (USD billions)",
+      "series": [
+        {
+          "values": "'Debt and Leases'!$D$143:$D$148",
+          "categories": "'Debt and Leases'!$C$143:$C$148"
+        },
+        {
+          "values": "'Debt and Leases'!$E$143:$E$148",
+          "categories": "'Debt and Leases'!$C$143:$C$148"
+        },
+        {
+          "values": "'Debt and Leases'!$F$143:$F$148",
+          "categories": "'Debt and Leases'!$C$143:$C$148"
+        }
+      ]
+    },
+    {
+      "title": "Liquid assets (USD billions)",
+      "series": [
+        {
+          "values": "'Debt and Leases'!$D$162:$D$167",
+          "categories": "'Debt and Leases'!$C$162:$C$167"
+        },
+        {
+          "values": "'Debt and Leases'!$E$162:$E$167",
+          "categories": "'Debt and Leases'!$C$162:$C$167"
+        }
+      ]
+    },
+    {
+      "title": "Income and tax expense (USD billions)",
+      "series": [
+        {
+          "values": "'Tax and Equity'!$D$82:$D$96",
+          "categories": "'Tax and Equity'!$C$82:$C$96"
+        },
+        {
+          "values": "'Tax and Equity'!$E$82:$E$96",
+          "categories": "'Tax and Equity'!$C$82:$C$96"
+        }
+      ]
+    },
+    {
+      "title": "Shareholder cash distributions (USD billions)",
+      "series": [
+        {
+          "values": "'Tax and Equity'!$D$101:$D$115",
+          "categories": "'Tax and Equity'!$C$101:$C$115"
+        },
+        {
+          "values": "'Tax and Equity'!$E$101:$E$115",
+          "categories": "'Tax and Equity'!$C$101:$C$115"
+        }
+      ]
+    },
+    {
+      "title": "Historical revenue and operating cash (USD billions)",
+      "series": [
+        {
+          "values": "'Historical Inputs'!$D$165:$D$174",
+          "categories": "'Historical Inputs'!$C$165:$C$174"
+        },
+        {
+          "values": "'Historical Inputs'!$E$165:$E$174",
+          "categories": "'Historical Inputs'!$C$165:$C$174"
+        },
+        {
+          "values": "'Historical Inputs'!$F$165:$F$174",
+          "categories": "'Historical Inputs'!$C$165:$C$174"
+        }
+      ]
+    },
+    {
+      "title": "Disclosed lease liabilities (USD billions)",
+      "series": [
+        {
+          "values": "'Filing Notes'!$D$104:$D$107",
+          "categories": "'Filing Notes'!$C$104:$C$107"
+        },
+        {
+          "values": "'Filing Notes'!$E$104:$E$107",
+          "categories": "'Filing Notes'!$C$104:$C$107"
+        }
+      ]
+    },
+    {
+      "title": "Disclosed depreciation and amortization (USD billions)",
+      "series": [
+        {
+          "values": "'Filing Notes'!$D$123:$D$126",
+          "categories": "'Filing Notes'!$C$123:$C$126"
+        },
+        {
+          "values": "'Filing Notes'!$E$123:$E$126",
+          "categories": "'Filing Notes'!$C$123:$C$126"
+        }
+      ]
+    },
+    {
+      "title": "Actual and fitted CFO (USD billions)",
+      "series": [
+        {
+          "values": "'Financial Modeling'!$E$12:$E$21",
+          "categories": "'Financial Modeling'!$C$12:$C$21"
+        },
+        {
+          "values": "'Financial Modeling'!$O$12:$O$21",
+          "categories": "'Financial Modeling'!$C$12:$C$21"
+        }
+      ]
+    },
+    {
+      "title": "Log-level residuals",
+      "series": [
+        {
+          "values": "'Financial Modeling'!$L$12:$L$21",
+          "categories": "'Financial Modeling'!$C$12:$C$21"
+        }
+      ]
+    },
+    {
+      "title": "Actual and fitted CFO log changes",
+      "series": [
+        {
+          "values": "'Financial Modeling'!$G$84:$G$92",
+          "categories": "'Financial Modeling'!$C$84:$C$92"
+        },
+        {
+          "values": "'Financial Modeling'!$K$84:$K$92",
+          "categories": "'Financial Modeling'!$C$84:$C$92"
+        }
+      ]
+    },
+    {
+      "title": "First-difference leverage",
+      "series": [
+        {
+          "values": "'Financial Modeling'!$M$84:$M$92",
+          "categories": "'Financial Modeling'!$C$84:$C$92"
+        }
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "sheet": "Overview",
+      "name": "Read the model",
+      "title": "Read the model",
+      "body": "Use the case selector on Assumptions. Blue numbers are inputs, green numbers link to other worksheets and black numbers are local formulas or summary results. Historical sources remain unchanged when a forecast case is selected. Forecasts are research assumptions.\n\nRevenue can expand while the operating margin falls if infrastructure depreciation grows faster than revenue. Review the cash capex and free cash flow chart together. A lower capex-to-revenue ratio releases cash, but does not remove finance lease principal payments. The separate lease balance shows the obligations attached to noncash capacity additions. Ending liquidity also depends on dividends, repurchases and investment-reserve assumptions. Use the linked observations below to compare FY2026 with the active FY2031 case, then investigate the underlying schedules before interpreting the increase as distributable cash.",
+      "row": 44,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Equity Research",
+      "name": "Research questions",
+      "title": "Research questions",
+      "body": "Assess earnings quality, cash conversion and capital intensity before forming an investment thesis. The model provides operating forecasts; it does not contain a target price or the author's investment recommendation.\n\nThe difference between net income and operating cash flow identifies the role of noncash charges and operating balance changes. Compare FCF with FCF after finance lease principal to avoid overlooking leased-capacity funding. A strong EPS path can coexist with a lower operating margin because the diluted share count changes independently. FY2026 investment gains should not be treated as a recurring operating driver. Assess the capex decline, receivable days and lease payment schedule together before translating these forecasts into a valuation. The charts and observations update with the selected case.",
+      "row": 28,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Investment Banking",
+      "name": "Debt and earnings definitions",
+      "title": "Debt and earnings definitions",
+      "body": "Debt is measured at carrying amount. Lease-adjusted net debt adds finance lease liabilities. Operating income plus disclosed D&A is an analytical earnings proxy, not a Microsoft-reported EBITDA measure.\n\nCompare both debt definitions before assessing financing capacity. A company can show net cash excluding leases and still carry substantial finance lease commitments. An increase in the earnings proxy partly reflects noncash D&A and does not itself provide cash for debt service. Current-ratio improvement measures short-term coverage but does not establish a committed borrowing facility. Shareholder distributions compete with capex and lease payments for operating cash. Review the debt face-to-book bridge and contractual maturities before using these metrics in a financing or transaction analysis.",
+      "row": 28,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Private Equity",
+      "name": "Operating diligence scope",
+      "title": "Operating diligence scope",
+      "body": "Use these metrics to assess reinvestment needs, SBC and cash conversion. Microsoft is analyzed as a public operating company. This worksheet does not assume a leveraged buyout or private equity ownership.\n\nSeparate cash capex from noncash finance lease additions when estimating total infrastructure commitments. SBC increases the difference between accounting earnings and cash, while also affecting shareholder dilution. FCF after finance lease principal is more informative for cash availability than the earnings proxy alone. The working-capital measure excludes cash, debt and capital payables so it can support operating diligence. The incremental PPE ratio is sensitive to the size of the revenue increase and is not an investment return. These measures support operating diligence without assuming an acquisition or an LBO.",
+      "row": 28,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "FP&A",
+      "name": "How to explain forecast variance",
+      "title": "How to explain forecast variance",
+      "body": "The bridge starts with FY2026 operating income, adds each segment's revenue change and subtracts the changes in cost of revenue and operating expenses. It updates when the case selector or a forecast driver changes.\n\nExplain the operating income change by revenue contributions and changes in each cost category. The bridge is additive and should end at the same FY2027 operating income as the income statement. Forecast segment demand also increases capex, lease additions and subsequent depreciation, so revenue growth does not flow directly to profit. The expense chart separates R&D, marketing and administration to show where spending assumptions change. Use the active-case observations to identify the largest planning trade-offs, then change the owning driver on Assumptions and review cash as well as profit.",
+      "row": 43,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Assumptions",
+      "name": "How to change a case",
+      "title": "How to change a case",
+      "body": "Choose 1, 2 or 3 in D4. Edit the blue forecast drivers for that case. The active row feeds every schedule. D&A and lease expense allocation percentages are model assumptions because Microsoft does not disclose these expenses by segment.\n\nCompare the three revenue growth drivers with investment intensity before editing a case. Faster demand may increase depreciation and finance lease obligations even when cash capex is a lower share of sales. Receivable and payable days change cash conversion rather than revenue recognition. The useful-life inputs affect expense timing and net PPE, not the initial cash capex budget. Allocation percentages distribute already calculated expenses and must total 100%. Tail assumptions affect current versus long-term classification in the final forecast year. Change one driver at a time and review its statement and schedule consequences.",
+      "row": 215,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Income Statement",
+      "name": "How earnings are calculated",
+      "title": "How earnings are calculated",
+      "body": "Segment revenue and cost forecasts feed gross profit. Operating costs include their allocated depreciation, intangible amortization and operating lease expense. Tax expense links to the tax schedule. FY2026 investment gains are not extrapolated into forecast earnings.\n\nRevenue growth and the operating margin should be interpreted together. Segment cost rates exclude the D&A and lease costs that the expense schedules add separately. A rising depreciation burden can reduce margin even if the underlying operating cost ratios improve. Net income also depends on opening-balance investment income, recognized interest and the effective tax rate. EPS reflects the independent diluted-share driver. The forecast does not repeat FY2026 investment gains. Use the profit and margin charts to distinguish revenue expansion from changes in operating profitability and nonoperating income.",
+      "row": 39,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Balance Sheet",
+      "name": "How the balance sheet stays integrated",
+      "title": "How the balance sheet stays integrated",
+      "body": "Cash comes from the cash flow statement. PPE and intangibles use asset roll-forwards. Debt and lease liabilities use payment schedules. Paid-in capital and retained earnings reflect earnings, SBC, share issuance, dividends and buybacks. No asset or equity balancing plug is used.\n\nGrowing PPE and lease assets show the capital committed to infrastructure. Cash is an output of the cash-flow calculation and funding policy. It is not entered to force the balance sheet to reconcile. Receivables, deferred revenue and operating liabilities are tied to planning drivers, while goodwill, land and AOCI remain constant. Finance lease current liabilities are included in other current liabilities and their noncurrent portion in other long-term liabilities. Compare asset growth with equity and liability funding, then check the independent reconciliations on Audit.",
+      "row": 52,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Cash Flow",
+      "name": "Cash flow signs and noncash items",
+      "title": "Cash flow signs and noncash items",
+      "body": "Inflows are positive and outflows negative. Depreciation, amortization and SBC are added back once. Operating payables exclude capital expenditure payables. Finance lease principal is a financing outflow. Cash capex already includes capitalized cash interest.\n\nRead the profit-to-cash adjustments before evaluating FCF. Operating asset increases consume cash and operating liability increases release cash. Historical cash-flow changes need not equal simple balance-sheet differences because reported cash-flow statements can include acquisitions, FX and reclassifications. Forecast cash capex already includes capitalized cash interest, and finance lease principal appears in financing cash flow. The reserve liquidation and borrowing lines show the funding sequence. Compare the two FCF measures in the charts to see the cash burden of finance leases and assess the payout assumptions alongside reinvestment.",
+      "row": 65,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Segments",
+      "name": "Segment comparability and allocation",
+      "title": "Segment comparability and allocation",
+      "body": "FY2023–FY2026 use the current segment definition. Earlier years retain their latest available historical presentation. FY2023 segment growth is unavailable across the definition change. Forecast D&A, operating lease and operating expense allocations are explicit modeling assumptions.\n\nThe three revenue paths identify which businesses generate the forecast expansion. Segment margins also include explicitly allocated D&A, lease expense and operating costs. They therefore reflect allocation assumptions as well as segment growth and base cost rates. FY2023 to FY2026 have the current segment definition, making those years the appropriate common historical comparison for the new charts. Earlier definitions remain in the original data and should not be joined into a continuous growth series. Consolidated operating income deducts unallocated corporate expense after summing segment operating income.",
+      "row": 57,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Expense Plan",
+      "name": "Costs and noncash expenses",
+      "title": "Costs and noncash expenses",
+      "body": "The forecast rates exclude the separately allocated D&A and operating lease expense. SBC remains embedded in these cost rates and is added back once in CFO. Segment operating expense allocation uses the FY2026 reported distribution.\n\nThe base R&D rate and separately allocated D&A and leases together produce total R&D. SBC remains embedded in the operating cost assumptions and is added back once in CFO. Adding it again as a separate expense would double count it. Depreciation increases as successive PPE cohorts enter service, so expense can keep rising after capex intensity declines. Compare the category chart with the infrastructure expense chart to distinguish revenue-driven spending from accumulated asset costs. The segment allocation changes presentation by business without changing the consolidated expense total.",
+      "row": 28,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Working Capital",
+      "name": "Operating and capital payables",
+      "title": "Operating and capital payables",
+      "body": "Operating payables are driven by cost of revenue and payable days. Capital expenditure payables are driven by the cash capex budget and add to PPE when they accrue. Their change is excluded from operating cash flow to avoid double counting capital funding.\n\nReceivable days determine how much recognized revenue remains uncollected at year-end. Inventory and payable days use cost of revenue rather than sales. Capital payables are separated from operating payables to prevent unpaid capex from being counted as operating cash generation. Changes in unearned revenue can release operating cash before revenue is recognized. The cash-effect rows reverse the sign of operating asset increases and retain the sign of operating liability increases. Review the day-based assumptions and cash effects together rather than treating a growing balance as automatically favorable.",
+      "row": 43,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "PPE and Intangibles",
+      "name": "PPE cohorts and half-year convention",
+      "title": "PPE cohorts and half-year convention",
+      "body": "Legacy depreciable net PPE uses an assumed remaining life. Each new annual cohort uses its own useful-life input and half-year depreciation in the commissioning year. Land is held constant. FY2027–FY2031 intangible amortization uses the FY2026 disclosed schedule.\n\nCash capex, the change in capital payables and new finance lease assets jointly determine total PPE additions. These are different funding routes for capital assets and cannot be added to cash outflow a second time. Legacy assets and each new cohort have separate depreciation calculations. The half-year convention recognizes partial commissioning-year expense. Increasing useful lives lowers near-term depreciation and raises net carrying value, so it changes profit timing rather than investment cost. Intangibles follow the disclosed amortization schedule. Compare additions and depreciation to explain the forecast net PPE path.",
+      "row": 47,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Debt and Leases",
+      "name": "Liquidity funding and interest timing",
+      "title": "Liquidity funding and interest timing",
+      "body": "Short-term investments above the minimum reserve are liquidated before new borrowing. The borrowing amount is a model funding requirement, not a committed credit line. New liquidity borrowing occurs at year-end; its interest starts in the following year.\n\nContractual debt principal, accounting adjustments and lease principal have distinct schedules. The face-to-book bridge matters when comparing balance-sheet debt with contractual repayment amounts. Legacy lease cash payments contain interest, while new leases use modeled terms and rates. Finance lease principal is a financing outflow. Operating lease expense and liability reductions need a cash-flow reconciliation because their timing differs. Liquidating investments above the reserve precedes additional borrowing. Evaluate financing obligations alongside liquid assets and the shareholder payout plan before describing excess cash as available for distribution.",
+      "row": 88,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Debt and Leases",
+      "name": "Lease payments and accounting",
+      "title": "Lease payments and accounting",
+      "body": "Contractual legacy lease payments include interest. Finance lease principal is classified in financing cash flow. Operating ROU amortization less lease principal reduction reconciles operating cash flow. New lease assets and liabilities are recognized together.\n\nContractual debt principal, accounting adjustments and lease principal have distinct schedules. The face-to-book bridge matters when comparing balance-sheet debt with contractual repayment amounts. Legacy lease cash payments contain interest, while new leases use modeled terms and rates. Finance lease principal is a financing outflow. Operating lease expense and liability reductions need a cash-flow reconciliation because their timing differs. Liquidating investments above the reserve precedes additional borrowing. Evaluate financing obligations alongside liquid assets and the shareholder payout plan before describing excess cash as available for distribution.",
+      "row": 101,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Tax and Equity",
+      "name": "Equity and share-count assumptions",
+      "title": "Equity and share-count assumptions",
+      "body": "SBC and cash share issuance increase paid-in capital. Share repurchases are allocated between paid-in capital and retained earnings. Dividends are assumed declared and paid within the same year. Diluted weighted average shares use a separate net-change assumption.\n\nThe tax-rate assumption affects earnings and equity, while tax balance changes also affect cash. SBC and employee share issuance increase paid-in capital, and repurchases are divided between paid-in capital and retained earnings. Dividends reduce retained earnings and financing cash flow under the same-year payment assumption. Diluted shares remain an independent forecast input, so buyback cash does not guarantee a matching EPS increase. Review distributions against FCF after lease principal before interpreting rising equity or earnings as spare funding capacity.",
+      "row": 40,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Data >>",
+      "name": "Data interpretation",
+      "title": "Data interpretation",
+      "body": "Historical Inputs contains the audited statements, Filing Notes contains supporting disclosures, and Audit checks the resulting model. The primary source and fiscal-year cutoff remain unchanged in this revision. Source rows preserve reported meanings and signs. The regression worksheet reads revenue and CFO from historical cells and never feeds back into those inputs. Notes explain the key source and calculation cells. Use the source report year and URLs to trace an observation before updating it. Charts display the existing data and formula-linked forecast rather than an additional dataset.",
+      "row": 11,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Historical Inputs",
+      "name": "Source selection",
+      "title": "Source selection",
+      "body": "Each year uses the latest comparative statement available by 8 October 2026. FY2017 includes revenue and lease accounting restatements. The CSV dataset records the source report and table for every observation.\n\nThe source report year identifies the filing supplying the latest comparative presentation by the fixed cutoff. It can differ from the fiscal year of the observation. Restatements and reclassifications are retained rather than replaced with older original values. Reported cash-flow adjustments preserve their signs. Blank or unavailable note observations must not be treated as zero. The new chart compares revenue, CFO and cash capex using the ten actual years only. These historical cells feed both the operating model and the separate regression worksheet. Refresh the underlying sources before extending the fiscal-year horizon.",
+      "row": 123,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Filing Notes",
+      "name": "Debt face value and carrying amount",
+      "title": "Debt face value and carrying amount",
+      "body": "The $46,136m debt maturity schedule is a face-value schedule. Book debt is $40,294m after $1,081m of discounts and issuance costs, $11m of hedge adjustments and $4,750m of exchange premiums. The debt schedule carries these adjustments explicitly.\n\nFace debt describes principal owed, whereas carrying debt reflects accounting adjustments. Lease additions recognize assets and liabilities without a matching immediate cash capex payment. Capital payables also bridge asset additions and cash paid. The disclosed maturity and amortization schedules provide the starting point for forecast timing. Amounts rounded in notes can differ slightly from statement aggregates. FY2032 tail assumptions are identified separately on Assumptions. The charts use recent disclosed years and preserve unavailable observations rather than inserting zeros.",
+      "row": 49,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Filing Notes",
+      "name": "Cash capex and noncash assets",
+      "title": "Cash capex and noncash assets",
+      "body": "Cash capex excludes new finance lease assets. Capital expenditure payables are part of accounts payable. These amounts are separated in the forecast so noncash capital additions are not counted as operating cash inflows.\n\nFace debt describes principal owed, whereas carrying debt reflects accounting adjustments. Lease additions recognize assets and liabilities without a matching immediate cash capex payment. Capital payables also bridge asset additions and cash paid. The disclosed maturity and amortization schedules provide the starting point for forecast timing. Amounts rounded in notes can differ slightly from statement aggregates. FY2032 tail assumptions are identified separately on Assumptions. The charts use recent disclosed years and preserve unavailable observations rather than inserting zeros.",
+      "row": 62,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Audit",
+      "name": "Interpreting differences",
+      "title": "Interpreting differences",
+      "body": "Numeric differences should be within $0.01m. A value of n.a. means that the check does not apply to that period. Independent Python checks also compare all three forecast cases. Accounting definitions and source precision are documented in the Word report.\n\nRead each difference against its stated accounting relationship and units. A small floating-point residual is different from a missing input or a genuine imbalance. Forecast balance-sheet, cash, PPE, debt and equity checks should remain within the existing USD 0.01 million tolerance. Allocation checks use percentages rather than USD amounts. The audit sheet reads the model and does not drive business calculations. A case change requires recalculation before judging the differences. The independent Python verification compares saved statement values, while the added regression verification compares the OLS and HC3 outputs separately.",
+      "row": 33,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Model scope",
+      "title": "Model scope",
+      "body": "Microsoft Corporation. Ten historical fiscal years FY2017–FY2026 and five forecast years FY2027–FY2031. All amounts are USD millions unless otherwise stated. FY2016 is retained only as an opening balance.\n\nRead the three statements together. Revenue and profit describe annual performance, the balance sheet records year-end resources and obligations, and cash flow explains funding. An increasing earnings forecast can require substantial asset investment. The original financial-data cutoff remains fixed. The new analytical worksheet uses actuals only and does not extend the forecast horizon.",
+      "row": 6,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Scenario workflow",
+      "title": "Scenario workflow",
+      "body": "On Assumptions, select 1 Base, 2 Upside or 3 Downside in D4. Each driver has one active row followed by three editable case rows. All forecast statements and professional views update from that active row.\n\nCharts and live observations follow the same authoritative selector. Historical statements remain fixed. Review a later-year driver as well as the first forecast year when comparing cases, because asset cohorts and lease balances accumulate through time. Changes in one driver can affect several later statements. Excel and Python forecast input stores remain separate.",
+      "row": 19,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Calculation sequence",
+      "title": "Calculation sequence",
+      "body": "Segment revenue determines the capex budget and lease additions. PPE cohorts and leases determine allocated expenses. Operating profit, interest and tax determine earnings. Working capital, financing and shareholder distributions determine cash and closing balances.\n\nA useful analysis follows the economic sequence rather than reading each statement in isolation. Higher segment revenue can raise cash capex and lease additions. These additions increase future depreciation and lease expense, which affect earnings. Working-capital balances, distributions and contractual payments then determine cash. Audit observes the result without driving it.",
+      "row": 32,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Accounting assumptions",
+      "title": "Accounting assumptions",
+      "body": "Land, goodwill and AOCI are held constant. No unannounced acquisitions are forecast. Dividends are declared and paid in the same year. New liquidity borrowing is drawn at year-end. Forecast diluted share counts are an independent driver.\n\nConstant asset or equity balances are explicit planning choices rather than forecasts of every possible event. Useful-life and allocation assumptions affect profit timing and segment presentation. Independent share counts mean repurchase cash does not determine diluted EPS mechanically. Review these assumptions when interpreting cash accumulation, operating margins and earnings growth.",
+      "row": 45,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Historical comparability",
+      "title": "Historical comparability",
+      "body": "FY2017 includes retrospective revenue and lease accounting changes. Segment data for FY2023–FY2026 use the current definition. Earlier segment data use the latest available historical presentation; cross-definition segment growth is not computed.\n\nUse the current segment definition for comparisons beginning FY2023. Do not treat the older definition as a continuous growth series. Annual statement comparatives can contain restatements or classification changes, so their source report year matters. The regression uses consolidated revenue and CFO, preserving the selected comparative presentations rather than constructing an alternative history.",
+      "row": 58,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Sources and units",
+      "title": "Sources and units",
+      "body": "Primary statements come from Microsoft annual reports and the FY2026 SEC Form 10-K. Selected SEC XBRL facts independently control revenue, net income and note disclosures. The data CSV retains source report year, source table and URL for each value.\n\nUse Historical Inputs for reported statement values and Filing Notes for debt, lease and asset disclosures. Amounts are USD millions, while shares are millions and per-share values are dollars. Ratios use decimals. Notes can be rounded differently from statement aggregates. Trace the source report year and URL before refreshing an observation or extending the sample.",
+      "row": 71,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Model boundaries",
+      "title": "Model boundaries",
+      "body": "The workbook provides operating forecasts and four analytical views. Equity Research has no target price or author investment recommendation. Investment Banking has no transaction valuation. Private Equity has no assumed Microsoft LBO. Separate portfolio projects will cover those outputs.\n\nProfessional views apply different financial questions to one operating model. They do not create separate forecasts. The regression is another diagnostic view of historical relationships and does not produce an investment recommendation. Small-sample fit does not establish valuation, acquisition feasibility or a stable causal relationship. Preserve the separation between a model output and the interpretation it supports.",
+      "row": 84,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Model Guide",
+      "name": "Python reproduction",
+      "title": "Python reproduction",
+      "body": "Run src/model.py on the supplied processed data to recalculate all three cases offline. Edit assumptions.json to change Python assumptions. Excel inputs are independent; changes made only in Excel are not automatically written back into the Python JSON.\n\nUse cell Notes for definitions and exact formula references, and the larger analytical panels for interpretation. All added operating charts read the same active forecast case. Financial Modeling uses actual FY2017 to FY2026 observations, so switching forecast cases does not change its historical regression. Its Excel formulas calculate OLS and HC3 without an embedded Python service. Copy the displayed code into VSCode to reproduce the historical results with NumPy and SciPy. Regression estimates describe historical association and do not replace the linked operating forecast.",
+      "row": 97,
+      "width": 1750,
+      "height": 225
+    },
+    {
+      "sheet": "Financial Modeling",
+      "name": "Interpreting the levels regression",
+      "title": "Interpreting the levels regression",
+      "body": "OLS estimates the historical association between ln(CFO) and ln(revenue). The slope is an elasticity: a 1% revenue difference corresponds approximately to the slope percent difference in fitted CFO. The high in-sample fit partly reflects the common upward time trend. Ten annual observations provide little evidence about future structural stability.\n\nThe fitted CFO series uses EXP(fitted ln CFO), so it is a conditional median rather than a bias-corrected conditional mean. It is a diagnostic comparison and does not replace the integrated forecast.",
+      "row": 26,
+      "width": 1360,
+      "height": 215
+    },
+    {
+      "sheet": "Financial Modeling",
+      "name": "What HC3 changes",
+      "title": "What HC3 changes",
+      "body": "HC3 uses squared residuals divided by (1 minus leverage) squared in the covariance calculation. It changes standard errors, t statistics, p values and confidence intervals, while leaving OLS coefficients and fitted values unchanged. The visible helper columns show each observation's contribution.\n\nInference uses Student t with n minus two degrees of freedom. This is an explicit small-sample approximation. HC3 does not correct serial correlation, omitted variables, shared trends or structural breaks. Durbin Watson and leverage are descriptive diagnostics here, not proof that these problems are absent.",
+      "row": 38,
+      "width": 1360,
+      "height": 225
+    },
+    {
+      "sheet": "Financial Modeling",
+      "name": "Reading the first differences result",
+      "title": "Reading the first differences result",
+      "body": "The second regression uses annual log changes in CFO and revenue. It removes the level trend and leaves nine observations. The slope describes the association between growth changes, so it is not directly interchangeable with the levels elasticity.\n\nA wider confidence interval reflects the short sample and limited variation. Review the maximum leverage and the individual leverage column. A large leverage value makes one fiscal year influential and increases its HC3 weight. The 4/n reference is a descriptive screening threshold, not a statistical test.\n\nCompare coefficients and residuals in both specifications. Agreement does not establish causality. The original operating forecast retains its segment, expense, asset, lease, working-capital and payout assumptions.",
+      "row": 97,
+      "width": 1360,
+      "height": 360
+    }
+  ],
+  "regression_comparisons": [
+    {
+      "model": "levels",
+      "metric": "Observations",
+      "excel": 10,
+      "python": 10,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "Residual degrees of freedom",
+      "excel": 8,
+      "python": 8,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "Mean x",
+      "excel": 12.086720011281367,
+      "python": 12.086720011281367,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "Mean y",
+      "excel": 11.279622962576447,
+      "python": 11.279622962576447,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "Sxx",
+      "excel": 1.5169880113104455,
+      "python": 1.5169880113104455,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "Slope",
+      "excel": 1.2140985093076841,
+      "python": 1.2140985093078194,
+      "difference": -1.3522516439934407e-13
+    },
+    {
+      "model": "levels",
+      "metric": "Intercept",
+      "excel": -3.3948457855396157,
+      "python": -3.394845785541248,
+      "difference": 1.6324719354088302e-12
+    },
+    {
+      "model": "levels",
+      "metric": "Residual sum of squares",
+      "excel": 0.0232121926976752,
+      "python": 0.023212192697675302,
+      "difference": -1.0408340855860843e-16
+    },
+    {
+      "model": "levels",
+      "metric": "Total sum of squares",
+      "excel": 2.2593059046377437,
+      "python": 2.2593059046377437,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "R squared",
+      "excel": 0.9897259628941673,
+      "python": 0.9897259628941673,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "Adjusted R squared",
+      "excel": 0.9884417082559381,
+      "python": 0.9884417082559381,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "OLS residual standard error",
+      "excel": 0.05386579700709347,
+      "python": 0.05386579700709359,
+      "difference": -1.1796119636642288e-16
+    },
+    {
+      "model": "levels",
+      "metric": "OLS slope standard error",
+      "excel": 0.04373428349648606,
+      "python": 0.04373428349649257,
+      "difference": -6.50868248186498e-15
+    },
+    {
+      "model": "levels",
+      "metric": "OLS intercept standard error",
+      "excel": 0.5288784198673511,
+      "python": 0.5288784198674297,
+      "difference": -7.860379014346108e-14
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 slope standard error",
+      "excel": 0.05943213684900371,
+      "python": 0.059432136848998306,
+      "difference": 5.405398351143731e-15
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 intercept standard error",
+      "excel": 0.707874778183592,
+      "python": 0.7078747781835342,
+      "difference": 5.784261958297066e-14
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 slope t statistic",
+      "excel": 20.428316625940678,
+      "python": 20.428316625944813,
+      "difference": -4.135358722123783e-12
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 slope p value",
+      "excel": 3.448773022718399e-8,
+      "python": 3.448773030754289e-8,
+      "difference": -8.035890244363213e-17
+    },
+    {
+      "model": "levels",
+      "metric": "95% t critical value",
+      "excel": 2.306004135204166,
+      "python": 2.306004135204166,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 slope CI lower",
+      "excel": 1.0770477559698617,
+      "python": 1.0770477559700093,
+      "difference": -1.4765966227514582e-13
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 slope CI upper",
+      "excel": 1.3511492626455066,
+      "python": 1.3511492626456294,
+      "difference": -1.2279066652354231e-13
+    },
+    {
+      "model": "levels",
+      "metric": "Durbin Watson",
+      "excel": 1.8624667844459195,
+      "python": 1.8624667844457465,
+      "difference": 1.729727472365994e-13
+    },
+    {
+      "model": "levels",
+      "metric": "Maximum leverage",
+      "excel": 0.35806528502393653,
+      "python": 0.35806528502399715,
+      "difference": -6.061817714453355e-14
+    },
+    {
+      "model": "levels",
+      "metric": "Leverage reference 4/n",
+      "excel": 0.4,
+      "python": 0.4,
+      "difference": 0
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 intercept t statistic",
+      "excel": -4.795828146682661,
+      "python": -4.795828146685359,
+      "difference": 2.6982860390489805e-12
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 intercept p value",
+      "excel": 0.001362784847884102,
+      "python": 0.001362784847801602,
+      "difference": 8.249997907050499e-14
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 intercept CI lower",
+      "excel": -5.027207951237711,
+      "python": -5.02720795123921,
+      "difference": 1.4992451724538114e-12
+    },
+    {
+      "model": "levels",
+      "metric": "HC3 intercept CI upper",
+      "excel": -1.7624836198415208,
+      "python": -1.7624836198432867,
+      "difference": 1.765920742968774e-12
+    },
+    {
+      "model": "first_differences",
+      "metric": "Observations",
+      "excel": 9,
+      "python": 9,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "Residual degrees of freedom",
+      "excel": 7,
+      "python": 7,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "Mean x",
+      "excel": 0.13715238026979548,
+      "python": 0.13715238026979548,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "Mean y",
+      "excel": 0.1702947807881158,
+      "python": 0.1702947807881158,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "Sxx",
+      "excel": 0.007276204927830305,
+      "python": 0.007276204927830305,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "Slope",
+      "excel": 2.601283796493758,
+      "python": 2.601283796493756,
+      "difference": 2.220446049250313e-15
+    },
+    {
+      "model": "first_differences",
+      "metric": "Intercept",
+      "excel": -0.18647748365825337,
+      "python": -0.18647748365825317,
+      "difference": -1.942890293094024e-16
+    },
+    {
+      "model": "first_differences",
+      "metric": "Residual sum of squares",
+      "excel": 0.029101981671804885,
+      "python": 0.02910198167180488,
+      "difference": 3.469446951953614e-18
+    },
+    {
+      "model": "first_differences",
+      "metric": "Total sum of squares",
+      "excel": 0.0783377130412402,
+      "python": 0.0783377130412402,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "R squared",
+      "excel": 0.6285061110159751,
+      "python": 0.6285061110159751,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "Adjusted R squared",
+      "excel": 0.5754355554468287,
+      "python": 0.5754355554468287,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "OLS residual standard error",
+      "excel": 0.06447810444728493,
+      "python": 0.06447810444728491,
+      "difference": 1.3877787807814457e-17
+    },
+    {
+      "model": "first_differences",
+      "metric": "OLS slope standard error",
+      "excel": 0.7558920894334779,
+      "python": 0.7558920894334784,
+      "difference": -5.551115123125783e-16
+    },
+    {
+      "model": "first_differences",
+      "metric": "OLS intercept standard error",
+      "excel": 0.10587682745606551,
+      "python": 0.10587682745606558,
+      "difference": -6.938893903907228e-17
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 slope standard error",
+      "excel": 0.5721822593739017,
+      "python": 0.5721822593738988,
+      "difference": 2.886579864025407e-15
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 intercept standard error",
+      "excel": 0.06303158654595603,
+      "python": 0.0630315865459554,
+      "difference": 6.245004513516506e-16
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 slope t statistic",
+      "excel": 4.546250349215926,
+      "python": 4.546250349215946,
+      "difference": -1.9539925233402755e-14
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 slope p value",
+      "excel": 0.002647896923970272,
+      "python": 0.0026478969239170083,
+      "difference": 5.3263816968129873e-14
+    },
+    {
+      "model": "first_differences",
+      "metric": "95% t critical value",
+      "excel": 2.364624251592784,
+      "python": 2.364624251592784,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 slope CI lower",
+      "excel": 1.2482877496470777,
+      "python": 1.2482877496470823,
+      "difference": -4.6629367034256575e-15
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 slope CI upper",
+      "excel": 3.9542798433404385,
+      "python": 3.954279843340429,
+      "difference": 9.325873406851315e-15
+    },
+    {
+      "model": "first_differences",
+      "metric": "Durbin Watson",
+      "excel": 2.2843939997453693,
+      "python": 2.2843939997453697,
+      "difference": -4.440892098500626e-16
+    },
+    {
+      "model": "first_differences",
+      "metric": "Maximum leverage",
+      "excel": 0.7960722627591119,
+      "python": 0.7960722627591132,
+      "difference": -1.3322676295501878e-15
+    },
+    {
+      "model": "first_differences",
+      "metric": "Leverage reference 4/n",
+      "excel": 0.4444444444444444,
+      "python": 0.4444444444444444,
+      "difference": 0
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 intercept t statistic",
+      "excel": -2.9584767554961275,
+      "python": -2.9584767554961537,
+      "difference": 2.6201263381153694e-14
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 intercept p value",
+      "excel": 0.02115073982533411,
+      "python": 0.021150739825327475,
+      "difference": 6.63358257213531e-15
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 intercept CI lower",
+      "excel": -0.33552350182119045,
+      "python": -0.33552350182118873,
+      "difference": -1.7208456881689926e-15
+    },
+    {
+      "model": "first_differences",
+      "metric": "HC3 intercept CI upper",
+      "excel": -0.037431465495316285,
+      "python": -0.03743146549531759,
+      "difference": 1.304512053934559e-15
+    }
+  ],
+  "python_code_range": "Financial Modeling!C160:C332",
+  "original_formulas_preserved": true,
+  "views": [
+    {
+      "sheet": "Overview",
+      "range": "C45:T64"
+    },
+    {
+      "sheet": "Equity Research",
+      "range": "C29:T66"
+    },
+    {
+      "sheet": "Investment Banking",
+      "range": "C29:T66"
+    },
+    {
+      "sheet": "Private Equity",
+      "range": "C29:T66"
+    },
+    {
+      "sheet": "FP&A",
+      "range": "C44:T81"
+    },
+    {
+      "sheet": "Assumptions",
+      "range": "C216:T253"
+    },
+    {
+      "sheet": "Income Statement",
+      "range": "C40:T77"
+    },
+    {
+      "sheet": "Balance Sheet",
+      "range": "C53:T90"
+    },
+    {
+      "sheet": "Cash Flow",
+      "range": "C66:T103"
+    },
+    {
+      "sheet": "Segments",
+      "range": "C58:T95"
+    },
+    {
+      "sheet": "Expense Plan",
+      "range": "C29:T66"
+    },
+    {
+      "sheet": "Working Capital",
+      "range": "C44:T81"
+    },
+    {
+      "sheet": "PPE and Intangibles",
+      "range": "C48:T85"
+    },
+    {
+      "sheet": "Debt and Leases",
+      "range": "C89:T139"
+    },
+    {
+      "sheet": "Tax and Equity",
+      "range": "C41:T78"
+    },
+    {
+      "sheet": "Data >>",
+      "range": "C2:S24"
+    },
+    {
+      "sheet": "Historical Inputs",
+      "range": "C124:T161"
+    },
+    {
+      "sheet": "Filing Notes",
+      "range": "C50:T100"
+    },
+    {
+      "sheet": "Audit",
+      "range": "C34:T53"
+    },
+    {
+      "sheet": "Model Guide",
+      "range": "C7:S18"
+    },
+    {
+      "sheet": "Financial Modeling",
+      "range": "C9:T76"
+    },
+    {
+      "sheet": "Financial Modeling",
+      "range": "C81:T148"
+    },
+    {
+      "sheet": "Financial Modeling",
+      "range": "C151:T185"
+    }
+  ]
+}
