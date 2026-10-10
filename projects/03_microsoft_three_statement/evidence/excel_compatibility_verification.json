@@ -1,0 +1,20 @@
+{
+  "observation_formulas": 52,
+  "format_calls_replaced": 96,
+  "table_row_height_points": 24,
+  "sheets_with_common_height": 21,
+  "normalized_rows_checked": 2558,
+  "observation_notes_updated": 52,
+  "saved_formula_errors": [],
+  "baseline_compared": true,
+  "native_engine_compared": true,
+  "native_engine": "LibreOffice Calc",
+  "microsoft_desktop_excel_tested": false,
+  "untouched_populated_cells_preserved": 10392,
+  "untouched_formulas_preserved": 6031,
+  "native_saved_formula_errors": [],
+  "native_formula_caches_cleared_before_recalculation": 6083,
+  "visual_views_reviewed": 26,
+  "all_saved_styles_preserved": 10444,
+  "selected_case_restored": "Base"
+}

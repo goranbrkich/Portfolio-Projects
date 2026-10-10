@@ -1,0 +1,1797 @@
+{
+  "cases": [
+    {
+      "number": 1,
+      "name": "Base",
+      "observations": [
+        {
+          "sheet": "Overview",
+          "cell": "C59",
+          "formula": "=\"Selected \"&Assumptions!G4&\" case: FY2031 revenue is \"&FIXED('Income Statement'!S8/1000,1,TRUE)&\"bn and operating margin is \"&(FIXED(('Income Statement'!S20)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "Selected Base case: FY2031 revenue is 648.1bn and operating margin is 37.5%."
+        },
+        {
+          "sheet": "Overview",
+          "cell": "C60",
+          "formula": "=\"Cash capex falls from \"&(FIXED((-'Cash Flow'!N30/'Income Statement'!N8)*100,1,TRUE)&\"%\")&\" of revenue in FY2026 to \"&(FIXED((-'Cash Flow'!S30/'Income Statement'!S8)*100,1,TRUE)&\"%\")&\" in FY2031.\"",
+          "value": "Cash capex falls from 34.9% of revenue in FY2026 to 20.0% in FY2031."
+        },
+        {
+          "sheet": "Overview",
+          "cell": "C61",
+          "formula": "=\"FY2031 FCF is \"&FIXED('Cash Flow'!S56/1000,1,TRUE)&\"bn; after finance lease principal it is \"&FIXED('Cash Flow'!S57/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 FCF is 255.7bn; after finance lease principal it is 241.5bn."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C43",
+          "formula": "=\"FY2031 operating margin: \"&(FIXED((N12)*100,1,TRUE)&\"%\")&\". FCF margin: \"&(FIXED((N22)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 operating margin: 37.5%. FCF margin: 39.4%."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C44",
+          "formula": "=\"FY2031 finance lease principal reduces FCF by \"&FIXED((N18-N19)/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease principal reduces FCF by 14.1bn."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C45",
+          "formula": "=\"Diluted EPS changes from \"&FIXED(I15,2,TRUE)&\" in FY2026 to \"&FIXED(N15,2,TRUE)&\" in FY2031, using an independent share-count driver.\"",
+          "value": "Diluted EPS changes from 17.95 in FY2026 to 27.00 in FY2031, using an independent share-count driver."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C43",
+          "formula": "=\"FY2031 net debt excluding leases: \"&FIXED(N16/1000,1,TRUE)&\"bn; including finance leases: \"&FIXED(N17/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 net debt excluding leases: -483.9bn; including finance leases: -302.6bn."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C44",
+          "formula": "=\"FY2031 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn. Operating leases: \"&FIXED(N13/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease liabilities: 181.3bn. Operating leases: 32.5bn."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C45",
+          "formula": "=\"FY2031 lease-inclusive debt / earnings proxy: \"&FIXED(N20,2,TRUE)&\"x. The denominator is not reported EBITDA.\"",
+          "value": "FY2031 lease-inclusive debt / earnings proxy: 0.53x. The denominator is not reported EBITDA."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C43",
+          "formula": "=\"FY2031 cash capex: \"&FIXED(N10/1000,1,TRUE)&\"bn; noncash finance lease additions: \"&FIXED(N11/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 cash capex: 129.6bn; noncash finance lease additions: 35.6bn."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C44",
+          "formula": "=\"FY2031 FCF after lease principal: \"&FIXED(N15/1000,1,TRUE)&\"bn; cash conversion on the earnings proxy: \"&(FIXED((N16)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 FCF after lease principal: 241.5bn; cash conversion on the earnings proxy: 60.6%."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C45",
+          "formula": "=\"FY2031 SBC: \"&FIXED(N13/1000,1,TRUE)&\"bn. Assess the cash add-back alongside the independent dilution assumption.\"",
+          "value": "FY2031 SBC: 24.3bn. Assess the cash add-back alongside the independent dilution assumption."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C58",
+          "formula": "=\"FY2027 operating income changes by \"&FIXED((J19-I19)/1000,1,TRUE)&\"bn under the selected case.\"",
+          "value": "FY2027 operating income changes by 20.5bn under the selected case."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C59",
+          "formula": "=\"FY2031 Intelligent Cloud revenue share: \"&(FIXED((N9/SUM(N8:N10))*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 Intelligent Cloud revenue share: 52.8%."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C60",
+          "formula": "=\"PPE depreciation rises from \"&FIXED(I16/1000,1,TRUE)&\"bn in FY2026 to \"&FIXED(N16/1000,1,TRUE)&\"bn in FY2031.\"",
+          "value": "PPE depreciation rises from 34.3bn in FY2026 to 154.9bn in FY2031."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C230",
+          "formula": "=\"FY2031 segment growth: PBP \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S13)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S17)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 segment growth: PBP 10.0%, IC 16.0%, MPC 2.0%."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C231",
+          "formula": "=\"FY2031 cash capex / revenue: \"&(FIXED((S45)*100,1,TRUE)&\"%\")&\". New finance lease assets / revenue: \"&(FIXED((S53)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 cash capex / revenue: 20.0%. New finance lease assets / revenue: 5.5%."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C232",
+          "formula": "=\"FY2031 collection days: \"&FIXED(S69,1,TRUE)&\"; operating payable days: \"&FIXED(S77,1,TRUE)&\". These drivers affect cash conversion.\"",
+          "value": "FY2031 collection days: 89.0; operating payable days: 53.9. These drivers affect cash conversion."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C54",
+          "formula": "=\"FY2026 to FY2031 revenue CAGR: \"&(FIXED(((S8/N8)^(1/5)-1)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2026 to FY2031 revenue CAGR: 14.3%."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C55",
+          "formula": "=\"Operating margin changes from \"&(FIXED((N20)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S20)*100,1,TRUE)&\"%\")&\"; net margin changes from \"&(FIXED((N29)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S29)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "Operating margin changes from 46.8% to 37.5%; net margin changes from 40.3% to 30.6%."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C56",
+          "formula": "=\"FY2031 diluted shares: \"&FIXED(S32,0,FALSE)&\"m. EPS: \"&FIXED(S33,2,TRUE)&\" dollars.\"",
+          "value": "FY2031 diluted shares: 7,342m. EPS: 27.00 dollars."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C67",
+          "formula": "=\"FY2031 net PPE represents \"&(FIXED((S16/S22)*100,1,TRUE)&\"%\")&\" of assets; cash and short-term investments represent \"&(FIXED((S10/S22)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 net PPE represents 36.0% of assets; cash and short-term investments represent 31.5%."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C68",
+          "formula": "=\"FY2031 equity funds \"&(FIXED((S45/S22)*100,1,TRUE)&\"%\")&\" of total assets under the selected payout assumptions.\"",
+          "value": "FY2031 equity funds 64.5% of total assets under the selected payout assumptions."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C69",
+          "formula": "=\"FY2031 current assets / current liabilities: \"&FIXED(S14/S32,2,TRUE)&\"x. Cash remains linked to the cash-flow statement.\"",
+          "value": "FY2031 current assets / current liabilities: 2.64x. Cash remains linked to the cash-flow statement."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C80",
+          "formula": "=\"FY2031 CFO: \"&FIXED(S28/1000,1,TRUE)&\"bn. Cash capex: \"&FIXED(-S30/1000,1,TRUE)&\"bn. FCF: \"&FIXED(S56/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 CFO: 385.3bn. Cash capex: 129.6bn. FCF: 255.7bn."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C81",
+          "formula": "=\"Finance lease principal reduces FY2031 FCF by \"&FIXED((S56-S57)/1000,1,TRUE)&\"bn.\"",
+          "value": "Finance lease principal reduces FY2031 FCF by 14.1bn."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C82",
+          "formula": "=\"FY2031 reserve liquidation: \"&FIXED(S60/1000,1,TRUE)&\"bn; liquidity borrowing requirement: \"&FIXED(S61/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 reserve liquidation: 0.0bn; liquidity borrowing requirement: 0.0bn."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C72",
+          "formula": "=\"FY2031 revenue shares: PBP \"&(FIXED((S8/S51)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S22/S51)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S36/S51)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 revenue shares: PBP 38.1%, IC 52.8%, MPC 9.1%."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C73",
+          "formula": "=\"FY2031 modeled operating margins: PBP \"&(FIXED((S19)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S33)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S47)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 modeled operating margins: PBP 56.0%, IC 31.3%, MPC -4.5%."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C74",
+          "formula": "=\"FY2031 unallocated corporate operating expense: \"&FIXED(S54/1000,1,TRUE)&\"bn. It is deducted after the segment total.\"",
+          "value": "FY2031 unallocated corporate operating expense: 0.0bn. It is deducted after the segment total."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C43",
+          "formula": "=\"FY2031 operating expenses: \"&FIXED(S24/1000,1,TRUE)&\"bn, or \"&(FIXED((S24/S8)*100,1,TRUE)&\"%\")&\" of revenue.\"",
+          "value": "FY2031 operating expenses: 143.6bn, or 22.2% of revenue."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C44",
+          "formula": "=\"FY2031 PPE depreciation: \"&FIXED(S10/1000,1,TRUE)&\"bn; operating lease expense: \"&FIXED(S12/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 PPE depreciation: 154.9bn; operating lease expense: 9.6bn."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C45",
+          "formula": "=\"FY2031 total R&D includes \"&FIXED(SUM(S15:S17)/1000,1,TRUE)&\"bn of allocated D&A and operating lease expense.\"",
+          "value": "FY2031 total R&D includes 24.3bn of allocated D&A and operating lease expense."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C58",
+          "formula": "=\"FY2031 receivable days: \"&FIXED(S9,1,TRUE)&\"; inventory days: \"&FIXED(S11,1,TRUE)&\"; operating payable days: \"&FIXED(S16,1,TRUE)&\".\"",
+          "value": "FY2031 receivable days: 89.0; inventory days: 4.8; operating payable days: 53.9."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C59",
+          "formula": "=\"FY2031 accounts payable: \"&FIXED(S15/1000,1,TRUE)&\"bn, including \"&FIXED(S14/1000,1,TRUE)&\"bn of capital payables.\"",
+          "value": "FY2031 accounts payable: 54.2bn, including 15.6bn of capital payables."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C60",
+          "formula": "=\"FY2031 receivables cash effect: \"&FIXED(S31/1000,1,TRUE)&\"bn; operating payables cash effect: \"&FIXED(S35/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 receivables cash effect: -17.3bn; operating payables cash effect: 5.2bn."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C62",
+          "formula": "=\"FY2031 PPE additions: \"&FIXED(S15/1000,1,TRUE)&\"bn versus depreciation of \"&FIXED(S21/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 PPE additions: 163.0bn versus depreciation of 154.9bn."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C63",
+          "formula": "=\"FY2031 closing net PPE: \"&FIXED(S24/1000,1,TRUE)&\"bn. New finance lease assets contribute \"&FIXED(S14/1000,1,TRUE)&\"bn of annual additions.\"",
+          "value": "FY2031 closing net PPE: 586.5bn. New finance lease assets contribute 35.6bn of annual additions."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C64",
+          "formula": "=\"FY2031 remaining intangible assets: \"&FIXED(S43/1000,1,TRUE)&\"bn, after the disclosed amortization schedule.\"",
+          "value": "FY2031 remaining intangible assets: 8.8bn, after the disclosed amortization schedule."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C116",
+          "formula": "=\"FY2031 debt face value: \"&FIXED(S12/1000,1,TRUE)&\"bn; carrying amount: \"&FIXED(S18/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 debt face value: 34.4bn; carrying amount: 29.4bn."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C117",
+          "formula": "=\"FY2031 finance lease liabilities: \"&FIXED(S42/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(S63/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease liabilities: 181.3bn; operating lease liabilities: 32.5bn."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C118",
+          "formula": "=\"FY2031 liquidity borrowing: \"&FIXED(S11/1000,1,TRUE)&\"bn. The funding sequence uses eligible investment reserves first.\"",
+          "value": "FY2031 liquidity borrowing: 0.0bn. The funding sequence uses eligible investment reserves first."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C55",
+          "formula": "=\"FY2031 effective tax rate: \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\". Income tax expense: \"&FIXED(S10/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 effective tax rate: 20.0%. Income tax expense: 49.6bn."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C56",
+          "formula": "=\"FY2031 dividends and repurchases: \"&FIXED(SUM(S18:S19)/1000,1,TRUE)&\"bn, compared with net income of \"&FIXED(S14/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 dividends and repurchases: 81.8bn, compared with net income of 198.2bn."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C57",
+          "formula": "=\"FY2031 equity: \"&FIXED(S30/1000,1,TRUE)&\"bn. Diluted shares: \"&FIXED(S34,0,FALSE)&\"m.\"",
+          "value": "FY2031 equity: 1051.5bn. Diluted shares: 7,342m."
+        },
+        {
+          "sheet": "Historical Inputs",
+          "cell": "C138",
+          "formula": "=\"FY2026 revenue source report: \"&FIXED(N106,0,TRUE)&\". Balance sheet source report: \"&FIXED(N107,0,TRUE)&\". Cash-flow source report: \"&FIXED(N108,0,TRUE)&\".\"",
+          "value": "FY2026 revenue source report: 2026. Balance sheet source report: 2026. Cash-flow source report: 2026."
+        },
+        {
+          "sheet": "Historical Inputs",
+          "cell": "C139",
+          "formula": "=\"FY2026 reported revenue: \"&FIXED(N9/1000,1,TRUE)&\"bn; operating cash flow: \"&FIXED(N80/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 reported revenue: 331.8bn; operating cash flow: 182.9bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C77",
+          "formula": "=\"FY2026 debt face value: \"&FIXED(N24/1000,1,TRUE)&\"bn. Discount and issuance costs: \"&FIXED(N25/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 debt face value: 46.1bn. Discount and issuance costs: 1.1bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C78",
+          "formula": "=\"FY2026 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(N15/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 finance lease liabilities: 66.6bn; operating lease liabilities: 21.9bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C79",
+          "formula": "=\"FY2026 capital expenditure payables: \"&FIXED(N23/1000,1,TRUE)&\"bn. These are separate from operating payables in the forecast.\"",
+          "value": "FY2026 capital expenditure payables: 26.7bn. These are separate from operating payables in the forecast."
+        },
+        {
+          "sheet": "Audit",
+          "cell": "C48",
+          "formula": "=\"Largest absolute forecast balance-sheet difference: \"&FIXED(MAX(MAX(O8:S8),-MIN(O8:S8)),6,TRUE)&\" USD millions.\"",
+          "value": "Largest absolute forecast balance-sheet difference: 0.000000 USD millions."
+        },
+        {
+          "sheet": "Audit",
+          "cell": "C49",
+          "formula": "=\"Largest absolute forecast ending-cash difference: \"&FIXED(MAX(MAX(O9:S9),-MIN(O9:S9)),6,TRUE)&\" USD millions.\"",
+          "value": "Largest absolute forecast ending-cash difference: 0.000000 USD millions."
+        }
+      ],
+      "auditChecks": [
+        {
+          "cell": "O8",
+          "value": 0
+        },
+        {
+          "cell": "P8",
+          "value": 0
+        },
+        {
+          "cell": "Q8",
+          "value": 0
+        },
+        {
+          "cell": "R8",
+          "value": 0
+        },
+        {
+          "cell": "S8",
+          "value": 0
+        },
+        {
+          "cell": "O9",
+          "value": 0
+        },
+        {
+          "cell": "P9",
+          "value": 0
+        },
+        {
+          "cell": "Q9",
+          "value": 0
+        },
+        {
+          "cell": "R9",
+          "value": 0
+        },
+        {
+          "cell": "S9",
+          "value": 0
+        },
+        {
+          "cell": "O10",
+          "value": 0
+        },
+        {
+          "cell": "P10",
+          "value": 0
+        },
+        {
+          "cell": "Q10",
+          "value": 0
+        },
+        {
+          "cell": "R10",
+          "value": 0
+        },
+        {
+          "cell": "S10",
+          "value": 0
+        },
+        {
+          "cell": "O11",
+          "value": 0
+        },
+        {
+          "cell": "P11",
+          "value": 0
+        },
+        {
+          "cell": "Q11",
+          "value": 0
+        },
+        {
+          "cell": "R11",
+          "value": 0
+        },
+        {
+          "cell": "S11",
+          "value": 0
+        },
+        {
+          "cell": "O12",
+          "value": 0
+        },
+        {
+          "cell": "P12",
+          "value": 0
+        },
+        {
+          "cell": "Q12",
+          "value": 0
+        },
+        {
+          "cell": "R12",
+          "value": 0
+        },
+        {
+          "cell": "S12",
+          "value": 0
+        },
+        {
+          "cell": "O16",
+          "value": 0
+        },
+        {
+          "cell": "P16",
+          "value": 0
+        },
+        {
+          "cell": "Q16",
+          "value": 0
+        },
+        {
+          "cell": "R16",
+          "value": 0
+        },
+        {
+          "cell": "S16",
+          "value": 0
+        },
+        {
+          "cell": "O17",
+          "value": 0
+        },
+        {
+          "cell": "P17",
+          "value": 0
+        },
+        {
+          "cell": "Q17",
+          "value": 0
+        },
+        {
+          "cell": "R17",
+          "value": 0
+        },
+        {
+          "cell": "S17",
+          "value": 0
+        },
+        {
+          "cell": "O18",
+          "value": 0
+        },
+        {
+          "cell": "P18",
+          "value": 0
+        },
+        {
+          "cell": "Q18",
+          "value": 0
+        },
+        {
+          "cell": "R18",
+          "value": 0
+        },
+        {
+          "cell": "S18",
+          "value": 0
+        },
+        {
+          "cell": "O19",
+          "value": 0
+        },
+        {
+          "cell": "P19",
+          "value": 0
+        },
+        {
+          "cell": "Q19",
+          "value": 0
+        },
+        {
+          "cell": "R19",
+          "value": 0
+        },
+        {
+          "cell": "S19",
+          "value": 0
+        },
+        {
+          "cell": "O20",
+          "value": 0
+        },
+        {
+          "cell": "P20",
+          "value": 0
+        },
+        {
+          "cell": "Q20",
+          "value": 0
+        },
+        {
+          "cell": "R20",
+          "value": 0
+        },
+        {
+          "cell": "S20",
+          "value": 0
+        },
+        {
+          "cell": "O21",
+          "value": 0
+        },
+        {
+          "cell": "P21",
+          "value": 0
+        },
+        {
+          "cell": "Q21",
+          "value": 0
+        },
+        {
+          "cell": "R21",
+          "value": 0
+        },
+        {
+          "cell": "S21",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Upside",
+      "observations": [
+        {
+          "sheet": "Overview",
+          "cell": "C59",
+          "formula": "=\"Selected \"&Assumptions!G4&\" case: FY2031 revenue is \"&FIXED('Income Statement'!S8/1000,1,TRUE)&\"bn and operating margin is \"&(FIXED(('Income Statement'!S20)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "Selected Upside case: FY2031 revenue is 766.4bn and operating margin is 38.8%."
+        },
+        {
+          "sheet": "Overview",
+          "cell": "C60",
+          "formula": "=\"Cash capex falls from \"&(FIXED((-'Cash Flow'!N30/'Income Statement'!N8)*100,1,TRUE)&\"%\")&\" of revenue in FY2026 to \"&(FIXED((-'Cash Flow'!S30/'Income Statement'!S8)*100,1,TRUE)&\"%\")&\" in FY2031.\"",
+          "value": "Cash capex falls from 34.9% of revenue in FY2026 to 23.0% in FY2031."
+        },
+        {
+          "sheet": "Overview",
+          "cell": "C61",
+          "formula": "=\"FY2031 FCF is \"&FIXED('Cash Flow'!S56/1000,1,TRUE)&\"bn; after finance lease principal it is \"&FIXED('Cash Flow'!S57/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 FCF is 283.2bn; after finance lease principal it is 266.2bn."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C43",
+          "formula": "=\"FY2031 operating margin: \"&(FIXED((N12)*100,1,TRUE)&\"%\")&\". FCF margin: \"&(FIXED((N22)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 operating margin: 38.8%. FCF margin: 37.0%."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C44",
+          "formula": "=\"FY2031 finance lease principal reduces FCF by \"&FIXED((N18-N19)/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease principal reduces FCF by 17.0bn."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C45",
+          "formula": "=\"Diluted EPS changes from \"&FIXED(I15,2,TRUE)&\" in FY2026 to \"&FIXED(N15,2,TRUE)&\" in FY2031, using an independent share-count driver.\"",
+          "value": "Diluted EPS changes from 17.95 in FY2026 to 33.03 in FY2031, using an independent share-count driver."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C43",
+          "formula": "=\"FY2031 net debt excluding leases: \"&FIXED(N16/1000,1,TRUE)&\"bn; including finance leases: \"&FIXED(N17/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 net debt excluding leases: -460.8bn; including finance leases: -238.0bn."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C44",
+          "formula": "=\"FY2031 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn. Operating leases: \"&FIXED(N13/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease liabilities: 222.8bn. Operating leases: 38.1bn."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C45",
+          "formula": "=\"FY2031 lease-inclusive debt / earnings proxy: \"&FIXED(N20,2,TRUE)&\"x. The denominator is not reported EBITDA.\"",
+          "value": "FY2031 lease-inclusive debt / earnings proxy: 0.53x. The denominator is not reported EBITDA."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C43",
+          "formula": "=\"FY2031 cash capex: \"&FIXED(N10/1000,1,TRUE)&\"bn; noncash finance lease additions: \"&FIXED(N11/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 cash capex: 176.3bn; noncash finance lease additions: 49.8bn."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C44",
+          "formula": "=\"FY2031 FCF after lease principal: \"&FIXED(N15/1000,1,TRUE)&\"bn; cash conversion on the earnings proxy: \"&(FIXED((N16)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 FCF after lease principal: 266.2bn; cash conversion on the earnings proxy: 55.5%."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C45",
+          "formula": "=\"FY2031 SBC: \"&FIXED(N13/1000,1,TRUE)&\"bn. Assess the cash add-back alongside the independent dilution assumption.\"",
+          "value": "FY2031 SBC: 28.7bn. Assess the cash add-back alongside the independent dilution assumption."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C58",
+          "formula": "=\"FY2027 operating income changes by \"&FIXED((J19-I19)/1000,1,TRUE)&\"bn under the selected case.\"",
+          "value": "FY2027 operating income changes by 37.7bn under the selected case."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C59",
+          "formula": "=\"FY2031 Intelligent Cloud revenue share: \"&(FIXED((N9/SUM(N8:N10))*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 Intelligent Cloud revenue share: 55.6%."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C60",
+          "formula": "=\"PPE depreciation rises from \"&FIXED(I16/1000,1,TRUE)&\"bn in FY2026 to \"&FIXED(N16/1000,1,TRUE)&\"bn in FY2031.\"",
+          "value": "PPE depreciation rises from 34.3bn in FY2026 to 181.3bn in FY2031."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C230",
+          "formula": "=\"FY2031 segment growth: PBP \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S13)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S17)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 segment growth: PBP 12.0%, IC 20.0%, MPC 3.0%."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C231",
+          "formula": "=\"FY2031 cash capex / revenue: \"&(FIXED((S45)*100,1,TRUE)&\"%\")&\". New finance lease assets / revenue: \"&(FIXED((S53)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 cash capex / revenue: 23.0%. New finance lease assets / revenue: 6.5%."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C232",
+          "formula": "=\"FY2031 collection days: \"&FIXED(S69,1,TRUE)&\"; operating payable days: \"&FIXED(S77,1,TRUE)&\". These drivers affect cash conversion.\"",
+          "value": "FY2031 collection days: 89.0; operating payable days: 53.9. These drivers affect cash conversion."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C54",
+          "formula": "=\"FY2026 to FY2031 revenue CAGR: \"&(FIXED(((S8/N8)^(1/5)-1)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2026 to FY2031 revenue CAGR: 18.2%."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C55",
+          "formula": "=\"Operating margin changes from \"&(FIXED((N20)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S20)*100,1,TRUE)&\"%\")&\"; net margin changes from \"&(FIXED((N29)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S29)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "Operating margin changes from 46.8% to 38.8%; net margin changes from 40.3% to 31.3%."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C56",
+          "formula": "=\"FY2031 diluted shares: \"&FIXED(S32,0,FALSE)&\"m. EPS: \"&FIXED(S33,2,TRUE)&\" dollars.\"",
+          "value": "FY2031 diluted shares: 7,269m. EPS: 33.03 dollars."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C67",
+          "formula": "=\"FY2031 net PPE represents \"&(FIXED((S16/S22)*100,1,TRUE)&\"%\")&\" of assets; cash and short-term investments represent \"&(FIXED((S10/S22)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 net PPE represents 40.9% of assets; cash and short-term investments represent 26.8%."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C68",
+          "formula": "=\"FY2031 equity funds \"&(FIXED((S45/S22)*100,1,TRUE)&\"%\")&\" of total assets under the selected payout assumptions.\"",
+          "value": "FY2031 equity funds 62.2% of total assets under the selected payout assumptions."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C69",
+          "formula": "=\"FY2031 current assets / current liabilities: \"&FIXED(S14/S32,2,TRUE)&\"x. Cash remains linked to the cash-flow statement.\"",
+          "value": "FY2031 current assets / current liabilities: 2.24x. Cash remains linked to the cash-flow statement."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C80",
+          "formula": "=\"FY2031 CFO: \"&FIXED(S28/1000,1,TRUE)&\"bn. Cash capex: \"&FIXED(-S30/1000,1,TRUE)&\"bn. FCF: \"&FIXED(S56/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 CFO: 459.5bn. Cash capex: 176.3bn. FCF: 283.2bn."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C81",
+          "formula": "=\"Finance lease principal reduces FY2031 FCF by \"&FIXED((S56-S57)/1000,1,TRUE)&\"bn.\"",
+          "value": "Finance lease principal reduces FY2031 FCF by 17.0bn."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C82",
+          "formula": "=\"FY2031 reserve liquidation: \"&FIXED(S60/1000,1,TRUE)&\"bn; liquidity borrowing requirement: \"&FIXED(S61/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 reserve liquidation: 0.0bn; liquidity borrowing requirement: 0.0bn."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C72",
+          "formula": "=\"FY2031 revenue shares: PBP \"&(FIXED((S8/S51)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S22/S51)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S36/S51)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 revenue shares: PBP 36.1%, IC 55.6%, MPC 8.3%."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C73",
+          "formula": "=\"FY2031 modeled operating margins: PBP \"&(FIXED((S19)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S33)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S47)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 modeled operating margins: PBP 55.7%, IC 35.0%, MPC -8.8%."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C74",
+          "formula": "=\"FY2031 unallocated corporate operating expense: \"&FIXED(S54/1000,1,TRUE)&\"bn. It is deducted after the segment total.\"",
+          "value": "FY2031 unallocated corporate operating expense: 0.0bn. It is deducted after the segment total."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C43",
+          "formula": "=\"FY2031 operating expenses: \"&FIXED(S24/1000,1,TRUE)&\"bn, or \"&(FIXED((S24/S8)*100,1,TRUE)&\"%\")&\" of revenue.\"",
+          "value": "FY2031 operating expenses: 165.7bn, or 21.6% of revenue."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C44",
+          "formula": "=\"FY2031 PPE depreciation: \"&FIXED(S10/1000,1,TRUE)&\"bn; operating lease expense: \"&FIXED(S12/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 PPE depreciation: 181.3bn; operating lease expense: 10.7bn."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C45",
+          "formula": "=\"FY2031 total R&D includes \"&FIXED(SUM(S15:S17)/1000,1,TRUE)&\"bn of allocated D&A and operating lease expense.\"",
+          "value": "FY2031 total R&D includes 28.4bn of allocated D&A and operating lease expense."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C58",
+          "formula": "=\"FY2031 receivable days: \"&FIXED(S9,1,TRUE)&\"; inventory days: \"&FIXED(S11,1,TRUE)&\"; operating payable days: \"&FIXED(S16,1,TRUE)&\".\"",
+          "value": "FY2031 receivable days: 89.0; inventory days: 4.8; operating payable days: 53.9."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C59",
+          "formula": "=\"FY2031 accounts payable: \"&FIXED(S15/1000,1,TRUE)&\"bn, including \"&FIXED(S14/1000,1,TRUE)&\"bn of capital payables.\"",
+          "value": "FY2031 accounts payable: 69.5bn, including 24.7bn of capital payables."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C60",
+          "formula": "=\"FY2031 receivables cash effect: \"&FIXED(S31/1000,1,TRUE)&\"bn; operating payables cash effect: \"&FIXED(S35/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 receivables cash effect: -25.0bn; operating payables cash effect: 7.2bn."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C62",
+          "formula": "=\"FY2031 PPE additions: \"&FIXED(S15/1000,1,TRUE)&\"bn versus depreciation of \"&FIXED(S21/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 PPE additions: 224.2bn versus depreciation of 181.3bn."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C63",
+          "formula": "=\"FY2031 closing net PPE: \"&FIXED(S24/1000,1,TRUE)&\"bn. New finance lease assets contribute \"&FIXED(S14/1000,1,TRUE)&\"bn of annual additions.\"",
+          "value": "FY2031 closing net PPE: 747.6bn. New finance lease assets contribute 49.8bn of annual additions."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C64",
+          "formula": "=\"FY2031 remaining intangible assets: \"&FIXED(S43/1000,1,TRUE)&\"bn, after the disclosed amortization schedule.\"",
+          "value": "FY2031 remaining intangible assets: 8.8bn, after the disclosed amortization schedule."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C116",
+          "formula": "=\"FY2031 debt face value: \"&FIXED(S12/1000,1,TRUE)&\"bn; carrying amount: \"&FIXED(S18/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 debt face value: 34.4bn; carrying amount: 29.4bn."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C117",
+          "formula": "=\"FY2031 finance lease liabilities: \"&FIXED(S42/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(S63/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease liabilities: 222.8bn; operating lease liabilities: 38.1bn."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C118",
+          "formula": "=\"FY2031 liquidity borrowing: \"&FIXED(S11/1000,1,TRUE)&\"bn. The funding sequence uses eligible investment reserves first.\"",
+          "value": "FY2031 liquidity borrowing: 0.0bn. The funding sequence uses eligible investment reserves first."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C55",
+          "formula": "=\"FY2031 effective tax rate: \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\". Income tax expense: \"&FIXED(S10/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 effective tax rate: 20.0%. Income tax expense: 60.0bn."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C56",
+          "formula": "=\"FY2031 dividends and repurchases: \"&FIXED(SUM(S18:S19)/1000,1,TRUE)&\"bn, compared with net income of \"&FIXED(S14/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 dividends and repurchases: 101.7bn, compared with net income of 240.1bn."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C57",
+          "formula": "=\"FY2031 equity: \"&FIXED(S30/1000,1,TRUE)&\"bn. Diluted shares: \"&FIXED(S34,0,FALSE)&\"m.\"",
+          "value": "FY2031 equity: 1137.7bn. Diluted shares: 7,269m."
+        },
+        {
+          "sheet": "Historical Inputs",
+          "cell": "C138",
+          "formula": "=\"FY2026 revenue source report: \"&FIXED(N106,0,TRUE)&\". Balance sheet source report: \"&FIXED(N107,0,TRUE)&\". Cash-flow source report: \"&FIXED(N108,0,TRUE)&\".\"",
+          "value": "FY2026 revenue source report: 2026. Balance sheet source report: 2026. Cash-flow source report: 2026."
+        },
+        {
+          "sheet": "Historical Inputs",
+          "cell": "C139",
+          "formula": "=\"FY2026 reported revenue: \"&FIXED(N9/1000,1,TRUE)&\"bn; operating cash flow: \"&FIXED(N80/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 reported revenue: 331.8bn; operating cash flow: 182.9bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C77",
+          "formula": "=\"FY2026 debt face value: \"&FIXED(N24/1000,1,TRUE)&\"bn. Discount and issuance costs: \"&FIXED(N25/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 debt face value: 46.1bn. Discount and issuance costs: 1.1bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C78",
+          "formula": "=\"FY2026 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(N15/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 finance lease liabilities: 66.6bn; operating lease liabilities: 21.9bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C79",
+          "formula": "=\"FY2026 capital expenditure payables: \"&FIXED(N23/1000,1,TRUE)&\"bn. These are separate from operating payables in the forecast.\"",
+          "value": "FY2026 capital expenditure payables: 26.7bn. These are separate from operating payables in the forecast."
+        },
+        {
+          "sheet": "Audit",
+          "cell": "C48",
+          "formula": "=\"Largest absolute forecast balance-sheet difference: \"&FIXED(MAX(MAX(O8:S8),-MIN(O8:S8)),6,TRUE)&\" USD millions.\"",
+          "value": "Largest absolute forecast balance-sheet difference: 0.000000 USD millions."
+        },
+        {
+          "sheet": "Audit",
+          "cell": "C49",
+          "formula": "=\"Largest absolute forecast ending-cash difference: \"&FIXED(MAX(MAX(O9:S9),-MIN(O9:S9)),6,TRUE)&\" USD millions.\"",
+          "value": "Largest absolute forecast ending-cash difference: 0.000000 USD millions."
+        }
+      ],
+      "auditChecks": [
+        {
+          "cell": "O8",
+          "value": 0
+        },
+        {
+          "cell": "P8",
+          "value": 0
+        },
+        {
+          "cell": "Q8",
+          "value": 0
+        },
+        {
+          "cell": "R8",
+          "value": 0
+        },
+        {
+          "cell": "S8",
+          "value": 0
+        },
+        {
+          "cell": "O9",
+          "value": 0
+        },
+        {
+          "cell": "P9",
+          "value": 0
+        },
+        {
+          "cell": "Q9",
+          "value": 0
+        },
+        {
+          "cell": "R9",
+          "value": 0
+        },
+        {
+          "cell": "S9",
+          "value": 0
+        },
+        {
+          "cell": "O10",
+          "value": 0
+        },
+        {
+          "cell": "P10",
+          "value": 0
+        },
+        {
+          "cell": "Q10",
+          "value": 0
+        },
+        {
+          "cell": "R10",
+          "value": 0
+        },
+        {
+          "cell": "S10",
+          "value": 0
+        },
+        {
+          "cell": "O11",
+          "value": 0
+        },
+        {
+          "cell": "P11",
+          "value": 0
+        },
+        {
+          "cell": "Q11",
+          "value": 0
+        },
+        {
+          "cell": "R11",
+          "value": 0
+        },
+        {
+          "cell": "S11",
+          "value": 0
+        },
+        {
+          "cell": "O12",
+          "value": 0
+        },
+        {
+          "cell": "P12",
+          "value": 0
+        },
+        {
+          "cell": "Q12",
+          "value": 0
+        },
+        {
+          "cell": "R12",
+          "value": 0
+        },
+        {
+          "cell": "S12",
+          "value": 0
+        },
+        {
+          "cell": "O16",
+          "value": 0
+        },
+        {
+          "cell": "P16",
+          "value": 0
+        },
+        {
+          "cell": "Q16",
+          "value": 0
+        },
+        {
+          "cell": "R16",
+          "value": 0
+        },
+        {
+          "cell": "S16",
+          "value": 0
+        },
+        {
+          "cell": "O17",
+          "value": 0
+        },
+        {
+          "cell": "P17",
+          "value": 0
+        },
+        {
+          "cell": "Q17",
+          "value": 0
+        },
+        {
+          "cell": "R17",
+          "value": 0
+        },
+        {
+          "cell": "S17",
+          "value": 0
+        },
+        {
+          "cell": "O18",
+          "value": 0
+        },
+        {
+          "cell": "P18",
+          "value": 0
+        },
+        {
+          "cell": "Q18",
+          "value": 0
+        },
+        {
+          "cell": "R18",
+          "value": 0
+        },
+        {
+          "cell": "S18",
+          "value": 0
+        },
+        {
+          "cell": "O19",
+          "value": 0
+        },
+        {
+          "cell": "P19",
+          "value": 0
+        },
+        {
+          "cell": "Q19",
+          "value": 0
+        },
+        {
+          "cell": "R19",
+          "value": 0
+        },
+        {
+          "cell": "S19",
+          "value": 0
+        },
+        {
+          "cell": "O20",
+          "value": 0
+        },
+        {
+          "cell": "P20",
+          "value": 0
+        },
+        {
+          "cell": "Q20",
+          "value": 0
+        },
+        {
+          "cell": "R20",
+          "value": 0
+        },
+        {
+          "cell": "S20",
+          "value": 0
+        },
+        {
+          "cell": "O21",
+          "value": 0
+        },
+        {
+          "cell": "P21",
+          "value": 0
+        },
+        {
+          "cell": "Q21",
+          "value": 0
+        },
+        {
+          "cell": "R21",
+          "value": 0
+        },
+        {
+          "cell": "S21",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Downside",
+      "observations": [
+        {
+          "sheet": "Overview",
+          "cell": "C59",
+          "formula": "=\"Selected \"&Assumptions!G4&\" case: FY2031 revenue is \"&FIXED('Income Statement'!S8/1000,1,TRUE)&\"bn and operating margin is \"&(FIXED(('Income Statement'!S20)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "Selected Downside case: FY2031 revenue is 473.7bn and operating margin is 21.8%."
+        },
+        {
+          "sheet": "Overview",
+          "cell": "C60",
+          "formula": "=\"Cash capex falls from \"&(FIXED((-'Cash Flow'!N30/'Income Statement'!N8)*100,1,TRUE)&\"%\")&\" of revenue in FY2026 to \"&(FIXED((-'Cash Flow'!S30/'Income Statement'!S8)*100,1,TRUE)&\"%\")&\" in FY2031.\"",
+          "value": "Cash capex falls from 34.9% of revenue in FY2026 to 25.0% in FY2031."
+        },
+        {
+          "sheet": "Overview",
+          "cell": "C61",
+          "formula": "=\"FY2031 FCF is \"&FIXED('Cash Flow'!S56/1000,1,TRUE)&\"bn; after finance lease principal it is \"&FIXED('Cash Flow'!S57/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 FCF is 169.8bn; after finance lease principal it is 158.3bn."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C43",
+          "formula": "=\"FY2031 operating margin: \"&(FIXED((N12)*100,1,TRUE)&\"%\")&\". FCF margin: \"&(FIXED((N22)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 operating margin: 21.8%. FCF margin: 35.8%."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C44",
+          "formula": "=\"FY2031 finance lease principal reduces FCF by \"&FIXED((N18-N19)/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease principal reduces FCF by 11.5bn."
+        },
+        {
+          "sheet": "Equity Research",
+          "cell": "C45",
+          "formula": "=\"Diluted EPS changes from \"&FIXED(I15,2,TRUE)&\" in FY2026 to \"&FIXED(N15,2,TRUE)&\" in FY2031, using an independent share-count driver.\"",
+          "value": "Diluted EPS changes from 17.95 in FY2026 to 11.34 in FY2031, using an independent share-count driver."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C43",
+          "formula": "=\"FY2031 net debt excluding leases: \"&FIXED(N16/1000,1,TRUE)&\"bn; including finance leases: \"&FIXED(N17/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 net debt excluding leases: -368.1bn; including finance leases: -225.8bn."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C44",
+          "formula": "=\"FY2031 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn. Operating leases: \"&FIXED(N13/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease liabilities: 142.3bn. Operating leases: 22.9bn."
+        },
+        {
+          "sheet": "Investment Banking",
+          "cell": "C45",
+          "formula": "=\"FY2031 lease-inclusive debt / earnings proxy: \"&FIXED(N20,2,TRUE)&\"x. The denominator is not reported EBITDA.\"",
+          "value": "FY2031 lease-inclusive debt / earnings proxy: 0.61x. The denominator is not reported EBITDA."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C43",
+          "formula": "=\"FY2031 cash capex: \"&FIXED(N10/1000,1,TRUE)&\"bn; noncash finance lease additions: \"&FIXED(N11/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 cash capex: 118.4bn; noncash finance lease additions: 21.3bn."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C44",
+          "formula": "=\"FY2031 FCF after lease principal: \"&FIXED(N15/1000,1,TRUE)&\"bn; cash conversion on the earnings proxy: \"&(FIXED((N16)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 FCF after lease principal: 158.3bn; cash conversion on the earnings proxy: 56.2%."
+        },
+        {
+          "sheet": "Private Equity",
+          "cell": "C45",
+          "formula": "=\"FY2031 SBC: \"&FIXED(N13/1000,1,TRUE)&\"bn. Assess the cash add-back alongside the independent dilution assumption.\"",
+          "value": "FY2031 SBC: 17.8bn. Assess the cash add-back alongside the independent dilution assumption."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C58",
+          "formula": "=\"FY2027 operating income changes by \"&FIXED((J19-I19)/1000,1,TRUE)&\"bn under the selected case.\"",
+          "value": "FY2027 operating income changes by -9.9bn under the selected case."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C59",
+          "formula": "=\"FY2031 Intelligent Cloud revenue share: \"&(FIXED((N9/SUM(N8:N10))*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 Intelligent Cloud revenue share: 49.0%."
+        },
+        {
+          "sheet": "FP&A",
+          "cell": "C60",
+          "formula": "=\"PPE depreciation rises from \"&FIXED(I16/1000,1,TRUE)&\"bn in FY2026 to \"&FIXED(N16/1000,1,TRUE)&\"bn in FY2031.\"",
+          "value": "PPE depreciation rises from 34.3bn in FY2026 to 177.5bn in FY2031."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C230",
+          "formula": "=\"FY2031 segment growth: PBP \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S13)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S17)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 segment growth: PBP 5.0%, IC 9.0%, MPC 1.0%."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C231",
+          "formula": "=\"FY2031 cash capex / revenue: \"&(FIXED((S45)*100,1,TRUE)&\"%\")&\". New finance lease assets / revenue: \"&(FIXED((S53)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 cash capex / revenue: 25.0%. New finance lease assets / revenue: 4.5%."
+        },
+        {
+          "sheet": "Assumptions",
+          "cell": "C232",
+          "formula": "=\"FY2031 collection days: \"&FIXED(S69,1,TRUE)&\"; operating payable days: \"&FIXED(S77,1,TRUE)&\". These drivers affect cash conversion.\"",
+          "value": "FY2031 collection days: 89.0; operating payable days: 53.9. These drivers affect cash conversion."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C54",
+          "formula": "=\"FY2026 to FY2031 revenue CAGR: \"&(FIXED(((S8/N8)^(1/5)-1)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2026 to FY2031 revenue CAGR: 7.4%."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C55",
+          "formula": "=\"Operating margin changes from \"&(FIXED((N20)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S20)*100,1,TRUE)&\"%\")&\"; net margin changes from \"&(FIXED((N29)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S29)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "Operating margin changes from 46.8% to 21.8%; net margin changes from 40.3% to 18.0%."
+        },
+        {
+          "sheet": "Income Statement",
+          "cell": "C56",
+          "formula": "=\"FY2031 diluted shares: \"&FIXED(S32,0,FALSE)&\"m. EPS: \"&FIXED(S33,2,TRUE)&\" dollars.\"",
+          "value": "FY2031 diluted shares: 7,528m. EPS: 11.34 dollars."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C67",
+          "formula": "=\"FY2031 net PPE represents \"&(FIXED((S16/S22)*100,1,TRUE)&\"%\")&\" of assets; cash and short-term investments represent \"&(FIXED((S10/S22)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 net PPE represents 35.2% of assets; cash and short-term investments represent 30.7%."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C68",
+          "formula": "=\"FY2031 equity funds \"&(FIXED((S45/S22)*100,1,TRUE)&\"%\")&\" of total assets under the selected payout assumptions.\"",
+          "value": "FY2031 equity funds 64.3% of total assets under the selected payout assumptions."
+        },
+        {
+          "sheet": "Balance Sheet",
+          "cell": "C69",
+          "formula": "=\"FY2031 current assets / current liabilities: \"&FIXED(S14/S32,2,TRUE)&\"x. Cash remains linked to the cash-flow statement.\"",
+          "value": "FY2031 current assets / current liabilities: 2.49x. Cash remains linked to the cash-flow statement."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C80",
+          "formula": "=\"FY2031 CFO: \"&FIXED(S28/1000,1,TRUE)&\"bn. Cash capex: \"&FIXED(-S30/1000,1,TRUE)&\"bn. FCF: \"&FIXED(S56/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 CFO: 288.2bn. Cash capex: 118.4bn. FCF: 169.8bn."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C81",
+          "formula": "=\"Finance lease principal reduces FY2031 FCF by \"&FIXED((S56-S57)/1000,1,TRUE)&\"bn.\"",
+          "value": "Finance lease principal reduces FY2031 FCF by 11.5bn."
+        },
+        {
+          "sheet": "Cash Flow",
+          "cell": "C82",
+          "formula": "=\"FY2031 reserve liquidation: \"&FIXED(S60/1000,1,TRUE)&\"bn; liquidity borrowing requirement: \"&FIXED(S61/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 reserve liquidation: 0.0bn; liquidity borrowing requirement: 0.0bn."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C72",
+          "formula": "=\"FY2031 revenue shares: PBP \"&(FIXED((S8/S51)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S22/S51)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S36/S51)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 revenue shares: PBP 40.3%, IC 49.0%, MPC 10.7%."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C73",
+          "formula": "=\"FY2031 modeled operating margins: PBP \"&(FIXED((S19)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S33)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S47)*100,1,TRUE)&\"%\")&\".\"",
+          "value": "FY2031 modeled operating margins: PBP 51.7%, IC 3.6%, MPC -7.7%."
+        },
+        {
+          "sheet": "Segments",
+          "cell": "C74",
+          "formula": "=\"FY2031 unallocated corporate operating expense: \"&FIXED(S54/1000,1,TRUE)&\"bn. It is deducted after the segment total.\"",
+          "value": "FY2031 unallocated corporate operating expense: 0.0bn. It is deducted after the segment total."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C43",
+          "formula": "=\"FY2031 operating expenses: \"&FIXED(S24/1000,1,TRUE)&\"bn, or \"&(FIXED((S24/S8)*100,1,TRUE)&\"%\")&\" of revenue.\"",
+          "value": "FY2031 operating expenses: 118.5bn, or 25.0% of revenue."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C44",
+          "formula": "=\"FY2031 PPE depreciation: \"&FIXED(S10/1000,1,TRUE)&\"bn; operating lease expense: \"&FIXED(S12/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 PPE depreciation: 177.5bn; operating lease expense: 7.7bn."
+        },
+        {
+          "sheet": "Expense Plan",
+          "cell": "C45",
+          "formula": "=\"FY2031 total R&D includes \"&FIXED(SUM(S15:S17)/1000,1,TRUE)&\"bn of allocated D&A and operating lease expense.\"",
+          "value": "FY2031 total R&D includes 27.5bn of allocated D&A and operating lease expense."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C58",
+          "formula": "=\"FY2031 receivable days: \"&FIXED(S9,1,TRUE)&\"; inventory days: \"&FIXED(S11,1,TRUE)&\"; operating payable days: \"&FIXED(S16,1,TRUE)&\".\"",
+          "value": "FY2031 receivable days: 89.0; inventory days: 4.8; operating payable days: 53.9."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C59",
+          "formula": "=\"FY2031 accounts payable: \"&FIXED(S15/1000,1,TRUE)&\"bn, including \"&FIXED(S14/1000,1,TRUE)&\"bn of capital payables.\"",
+          "value": "FY2031 accounts payable: 63.3bn, including 26.1bn of capital payables."
+        },
+        {
+          "sheet": "Working Capital",
+          "cell": "C60",
+          "formula": "=\"FY2031 receivables cash effect: \"&FIXED(S31/1000,1,TRUE)&\"bn; operating payables cash effect: \"&FIXED(S35/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 receivables cash effect: -7.0bn; operating payables cash effect: 4.3bn."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C62",
+          "formula": "=\"FY2031 PPE additions: \"&FIXED(S15/1000,1,TRUE)&\"bn versus depreciation of \"&FIXED(S21/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 PPE additions: 135.9bn versus depreciation of 177.5bn."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C63",
+          "formula": "=\"FY2031 closing net PPE: \"&FIXED(S24/1000,1,TRUE)&\"bn. New finance lease assets contribute \"&FIXED(S14/1000,1,TRUE)&\"bn of annual additions.\"",
+          "value": "FY2031 closing net PPE: 456.5bn. New finance lease assets contribute 21.3bn of annual additions."
+        },
+        {
+          "sheet": "PPE and Intangibles",
+          "cell": "C64",
+          "formula": "=\"FY2031 remaining intangible assets: \"&FIXED(S43/1000,1,TRUE)&\"bn, after the disclosed amortization schedule.\"",
+          "value": "FY2031 remaining intangible assets: 8.8bn, after the disclosed amortization schedule."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C116",
+          "formula": "=\"FY2031 debt face value: \"&FIXED(S12/1000,1,TRUE)&\"bn; carrying amount: \"&FIXED(S18/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 debt face value: 34.4bn; carrying amount: 29.4bn."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C117",
+          "formula": "=\"FY2031 finance lease liabilities: \"&FIXED(S42/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(S63/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 finance lease liabilities: 142.3bn; operating lease liabilities: 22.9bn."
+        },
+        {
+          "sheet": "Debt and Leases",
+          "cell": "C118",
+          "formula": "=\"FY2031 liquidity borrowing: \"&FIXED(S11/1000,1,TRUE)&\"bn. The funding sequence uses eligible investment reserves first.\"",
+          "value": "FY2031 liquidity borrowing: 0.0bn. The funding sequence uses eligible investment reserves first."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C55",
+          "formula": "=\"FY2031 effective tax rate: \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\". Income tax expense: \"&FIXED(S10/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 effective tax rate: 20.0%. Income tax expense: 21.3bn."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C56",
+          "formula": "=\"FY2031 dividends and repurchases: \"&FIXED(SUM(S18:S19)/1000,1,TRUE)&\"bn, compared with net income of \"&FIXED(S14/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2031 dividends and repurchases: 38.4bn, compared with net income of 85.4bn."
+        },
+        {
+          "sheet": "Tax and Equity",
+          "cell": "C57",
+          "formula": "=\"FY2031 equity: \"&FIXED(S30/1000,1,TRUE)&\"bn. Diluted shares: \"&FIXED(S34,0,FALSE)&\"m.\"",
+          "value": "FY2031 equity: 832.9bn. Diluted shares: 7,528m."
+        },
+        {
+          "sheet": "Historical Inputs",
+          "cell": "C138",
+          "formula": "=\"FY2026 revenue source report: \"&FIXED(N106,0,TRUE)&\". Balance sheet source report: \"&FIXED(N107,0,TRUE)&\". Cash-flow source report: \"&FIXED(N108,0,TRUE)&\".\"",
+          "value": "FY2026 revenue source report: 2026. Balance sheet source report: 2026. Cash-flow source report: 2026."
+        },
+        {
+          "sheet": "Historical Inputs",
+          "cell": "C139",
+          "formula": "=\"FY2026 reported revenue: \"&FIXED(N9/1000,1,TRUE)&\"bn; operating cash flow: \"&FIXED(N80/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 reported revenue: 331.8bn; operating cash flow: 182.9bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C77",
+          "formula": "=\"FY2026 debt face value: \"&FIXED(N24/1000,1,TRUE)&\"bn. Discount and issuance costs: \"&FIXED(N25/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 debt face value: 46.1bn. Discount and issuance costs: 1.1bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C78",
+          "formula": "=\"FY2026 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(N15/1000,1,TRUE)&\"bn.\"",
+          "value": "FY2026 finance lease liabilities: 66.6bn; operating lease liabilities: 21.9bn."
+        },
+        {
+          "sheet": "Filing Notes",
+          "cell": "C79",
+          "formula": "=\"FY2026 capital expenditure payables: \"&FIXED(N23/1000,1,TRUE)&\"bn. These are separate from operating payables in the forecast.\"",
+          "value": "FY2026 capital expenditure payables: 26.7bn. These are separate from operating payables in the forecast."
+        },
+        {
+          "sheet": "Audit",
+          "cell": "C48",
+          "formula": "=\"Largest absolute forecast balance-sheet difference: \"&FIXED(MAX(MAX(O8:S8),-MIN(O8:S8)),6,TRUE)&\" USD millions.\"",
+          "value": "Largest absolute forecast balance-sheet difference: 0.000000 USD millions."
+        },
+        {
+          "sheet": "Audit",
+          "cell": "C49",
+          "formula": "=\"Largest absolute forecast ending-cash difference: \"&FIXED(MAX(MAX(O9:S9),-MIN(O9:S9)),6,TRUE)&\" USD millions.\"",
+          "value": "Largest absolute forecast ending-cash difference: 0.000000 USD millions."
+        }
+      ],
+      "auditChecks": [
+        {
+          "cell": "O8",
+          "value": 0
+        },
+        {
+          "cell": "P8",
+          "value": 0
+        },
+        {
+          "cell": "Q8",
+          "value": 0
+        },
+        {
+          "cell": "R8",
+          "value": 0
+        },
+        {
+          "cell": "S8",
+          "value": 0
+        },
+        {
+          "cell": "O9",
+          "value": 0
+        },
+        {
+          "cell": "P9",
+          "value": 0
+        },
+        {
+          "cell": "Q9",
+          "value": 0
+        },
+        {
+          "cell": "R9",
+          "value": 0
+        },
+        {
+          "cell": "S9",
+          "value": 0
+        },
+        {
+          "cell": "O10",
+          "value": 0
+        },
+        {
+          "cell": "P10",
+          "value": 0
+        },
+        {
+          "cell": "Q10",
+          "value": 0
+        },
+        {
+          "cell": "R10",
+          "value": 0
+        },
+        {
+          "cell": "S10",
+          "value": 0
+        },
+        {
+          "cell": "O11",
+          "value": 0
+        },
+        {
+          "cell": "P11",
+          "value": 0
+        },
+        {
+          "cell": "Q11",
+          "value": 0
+        },
+        {
+          "cell": "R11",
+          "value": 0
+        },
+        {
+          "cell": "S11",
+          "value": 0
+        },
+        {
+          "cell": "O12",
+          "value": 0
+        },
+        {
+          "cell": "P12",
+          "value": 0
+        },
+        {
+          "cell": "Q12",
+          "value": 0
+        },
+        {
+          "cell": "R12",
+          "value": 0
+        },
+        {
+          "cell": "S12",
+          "value": 0
+        },
+        {
+          "cell": "O16",
+          "value": 0
+        },
+        {
+          "cell": "P16",
+          "value": 0
+        },
+        {
+          "cell": "Q16",
+          "value": 0
+        },
+        {
+          "cell": "R16",
+          "value": 0
+        },
+        {
+          "cell": "S16",
+          "value": 0
+        },
+        {
+          "cell": "O17",
+          "value": 0
+        },
+        {
+          "cell": "P17",
+          "value": 0
+        },
+        {
+          "cell": "Q17",
+          "value": 0
+        },
+        {
+          "cell": "R17",
+          "value": 0
+        },
+        {
+          "cell": "S17",
+          "value": 0
+        },
+        {
+          "cell": "O18",
+          "value": 0
+        },
+        {
+          "cell": "P18",
+          "value": 0
+        },
+        {
+          "cell": "Q18",
+          "value": 0
+        },
+        {
+          "cell": "R18",
+          "value": 0
+        },
+        {
+          "cell": "S18",
+          "value": 0
+        },
+        {
+          "cell": "O19",
+          "value": 0
+        },
+        {
+          "cell": "P19",
+          "value": 0
+        },
+        {
+          "cell": "Q19",
+          "value": 0
+        },
+        {
+          "cell": "R19",
+          "value": 0
+        },
+        {
+          "cell": "S19",
+          "value": 0
+        },
+        {
+          "cell": "O20",
+          "value": 0
+        },
+        {
+          "cell": "P20",
+          "value": 0
+        },
+        {
+          "cell": "Q20",
+          "value": 0
+        },
+        {
+          "cell": "R20",
+          "value": 0
+        },
+        {
+          "cell": "S20",
+          "value": 0
+        },
+        {
+          "cell": "O21",
+          "value": 0
+        },
+        {
+          "cell": "P21",
+          "value": 0
+        },
+        {
+          "cell": "Q21",
+          "value": 0
+        },
+        {
+          "cell": "R21",
+          "value": 0
+        },
+        {
+          "cell": "S21",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "errorScan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "rowPlans": [
+    {
+      "sheet": "Overview",
+      "ranges": [
+        "C4:W95"
+      ],
+      "firstRow": 4,
+      "lastRow": 95
+    },
+    {
+      "sheet": "Equity Research",
+      "ranges": [
+        "C4:W98"
+      ],
+      "firstRow": 4,
+      "lastRow": 98
+    },
+    {
+      "sheet": "Investment Banking",
+      "ranges": [
+        "C4:W98"
+      ],
+      "firstRow": 4,
+      "lastRow": 98
+    },
+    {
+      "sheet": "Private Equity",
+      "ranges": [
+        "C4:W98"
+      ],
+      "firstRow": 4,
+      "lastRow": 98
+    },
+    {
+      "sheet": "FP&A",
+      "ranges": [
+        "C4:W113"
+      ],
+      "firstRow": 4,
+      "lastRow": 113
+    },
+    {
+      "sheet": "Assumptions",
+      "ranges": [
+        "C4:W280"
+      ],
+      "firstRow": 4,
+      "lastRow": 280
+    },
+    {
+      "sheet": "Income Statement",
+      "ranges": [
+        "C4:W114"
+      ],
+      "firstRow": 4,
+      "lastRow": 114
+    },
+    {
+      "sheet": "Balance Sheet",
+      "ranges": [
+        "C4:W127"
+      ],
+      "firstRow": 4,
+      "lastRow": 127
+    },
+    {
+      "sheet": "Cash Flow",
+      "ranges": [
+        "C4:W140"
+      ],
+      "firstRow": 4,
+      "lastRow": 140
+    },
+    {
+      "sheet": "Segments",
+      "ranges": [
+        "C4:W126"
+      ],
+      "firstRow": 4,
+      "lastRow": 126
+    },
+    {
+      "sheet": "Expense Plan",
+      "ranges": [
+        "C4:W103"
+      ],
+      "firstRow": 4,
+      "lastRow": 103
+    },
+    {
+      "sheet": "Working Capital",
+      "ranges": [
+        "C4:W108"
+      ],
+      "firstRow": 4,
+      "lastRow": 108
+    },
+    {
+      "sheet": "PPE and Intangibles",
+      "ranges": [
+        "C4:W113"
+      ],
+      "firstRow": 4,
+      "lastRow": 113
+    },
+    {
+      "sheet": "Debt and Leases",
+      "ranges": [
+        "C4:W167"
+      ],
+      "firstRow": 4,
+      "lastRow": 167
+    },
+    {
+      "sheet": "Tax and Equity",
+      "ranges": [
+        "C4:W115"
+      ],
+      "firstRow": 4,
+      "lastRow": 115
+    },
+    {
+      "sheet": "Data >>",
+      "ranges": [
+        "C4:W95"
+      ],
+      "firstRow": 4,
+      "lastRow": 95
+    },
+    {
+      "sheet": "Historical Inputs",
+      "ranges": [
+        "C4:W175"
+      ],
+      "firstRow": 4,
+      "lastRow": 175
+    },
+    {
+      "sheet": "Filing Notes",
+      "ranges": [
+        "C4:W126"
+      ],
+      "firstRow": 4,
+      "lastRow": 126
+    },
+    {
+      "sheet": "Audit",
+      "ranges": [
+        "C4:W95"
+      ],
+      "firstRow": 4,
+      "lastRow": 95
+    },
+    {
+      "sheet": "Model Guide",
+      "ranges": [
+        "C4:W76"
+      ],
+      "firstRow": 4,
+      "lastRow": 76
+    },
+    {
+      "sheet": "Financial Modeling",
+      "ranges": [
+        "C4:W159"
+      ],
+      "firstRow": 4,
+      "lastRow": 159
+    }
+  ],
+  "tableRowHeightPoints": 24,
+  "originalCase": 1
+}

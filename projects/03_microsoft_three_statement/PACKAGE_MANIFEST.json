@@ -1,0 +1,272 @@
+{
+  "project": "Microsoft Three Statement Model",
+  "information_cutoff": "2026-10-08",
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {
+      "path": "README.md",
+      "size_bytes": 12737,
+      "sha256": "7a9757a8117a9b798290d5f5107ffab8c6ec3f5c380ed482fbe526c99bf168c2"
+    },
+    {
+      "path": "data/processed/assumptions.json",
+      "size_bytes": 22115,
+      "sha256": "df2d0041af9988246ff9130d91938c5b696668a6010b825fcc51ae1468512b4d"
+    },
+    {
+      "path": "data/processed/forecast_results.json",
+      "size_bytes": 100243,
+      "sha256": "e247a94f1fe3838a9d7df21a944969ddd0d58d519ba74a7d6d7e3356cbb30430"
+    },
+    {
+      "path": "data/processed/forecast_summary.csv",
+      "size_bytes": 3589,
+      "sha256": "270899475df8333a91e44fa84e9d2155d29767d6a2e84a3429f59fecb7eda5d3"
+    },
+    {
+      "path": "data/processed/historical_financials.csv",
+      "size_bytes": 108077,
+      "sha256": "e1a9ced2cce5d3854841d057551746d4218e93f3b0b7059ceb8ff357b0ba3666"
+    },
+    {
+      "path": "data/processed/historical_financials.json",
+      "size_bytes": 67235,
+      "sha256": "3b8c8339d3a18d0f1eb0060ffad484b2d92d0a3dac68d8f07e657c3f155ae609"
+    },
+    {
+      "path": "data/processed/validation_results.json",
+      "size_bytes": 11167,
+      "sha256": "02ca461f02a70b9978971feb95e6a9dedef9b95db4e4cda90cb03ec12439eb91"
+    },
+    {
+      "path": "data/raw/primary_statement_tables.json",
+      "size_bytes": 141168,
+      "sha256": "b8d18bfdf1424f7297db5e60ccc6c921202bd3d8a973aed1a6d4d4592fa7850d"
+    },
+    {
+      "path": "data/raw/selected_sec_facts.json",
+      "size_bytes": 41933,
+      "sha256": "c477523141e2b08be0982faccdfde2ac0c31f320cb3d31d15b79c793562f4333"
+    },
+    {
+      "path": "data/raw/source_manifest.json",
+      "size_bytes": 4270,
+      "sha256": "9e950aa40bc3a5a474e3d4233ff46eff1bb2cb89ce72c093d36eabcaef6fe82f"
+    },
+    {
+      "path": "deliverables/Microsoft_Three_Statement_Model.xlsx",
+      "size_bytes": 626014,
+      "sha256": "0493dcc89f9d7443bdb4ea23af24e1902eb4d53d70efb6daf5d9dd2558cc14e4"
+    },
+    {
+      "path": "deliverables/Microsoft_Three_Statement_Model_Report.docx",
+      "size_bytes": 149101,
+      "sha256": "97a7eb9dacbf91c14ec4f9d7360f38d464af10aa4472d8e8a14b891151cd8918"
+    },
+    {
+      "path": "evidence/enhancement_scenario_verification.json",
+      "size_bytes": 871,
+      "sha256": "dfe2719f5a1607abde2cee277b3d21f21738043d69f3d8f5671dfa11345ef57c"
+    },
+    {
+      "path": "evidence/enhancement_verification.json",
+      "size_bytes": 1154,
+      "sha256": "7f2009d3dcefa898edbd3665cd873342c8b6ef9ebd182ee5fc2ceadedc13c8da"
+    },
+    {
+      "path": "evidence/excel_compatibility_feature_verification.json",
+      "size_bytes": 926,
+      "sha256": "ce025ca8f5052f74a70d876fdc55c605579a9ac128b184d83c4e4183182fa185"
+    },
+    {
+      "path": "evidence/excel_compatibility_native_statement_verification.json",
+      "size_bytes": 103910,
+      "sha256": "e520e5994dfe4707e1c050391aa6e62e95007efad50f124c684979bc7f713ac4"
+    },
+    {
+      "path": "evidence/excel_compatibility_plan.json",
+      "size_bytes": 56724,
+      "sha256": "0e11633b0b74af515d854b8f4a6f5b76c2f160d1fa1c0809d9f4d475e9e351d7"
+    },
+    {
+      "path": "evidence/excel_compatibility_scenarios.json",
+      "size_bytes": 66004,
+      "sha256": "6240079b43f947a50d29d11b40fa195dc6a596df2c3eb163120f9bb3c6650062"
+    },
+    {
+      "path": "evidence/excel_compatibility_style_verification.json",
+      "size_bytes": 114,
+      "sha256": "e06469cd43267a7a95f9b278a5a208b6134e958d263b5c2cc17489a9931cd76a"
+    },
+    {
+      "path": "evidence/excel_compatibility_verification.json",
+      "size_bytes": 670,
+      "sha256": "b18168b877a679c461b60b78786c0bd2e5da624b0d8d0143adfa85a0637ef964"
+    },
+    {
+      "path": "evidence/excel_verification.json",
+      "size_bytes": 38944,
+      "sha256": "bba9cacfb8167b4de22dfc9ccbdc0f9f084cb17fe21e2899fc29d8347327861e"
+    },
+    {
+      "path": "evidence/figures/historical_revenue_and_fcf.png",
+      "size_bytes": 49708,
+      "sha256": "9206fd01778f5abaa71bdd6f3bbb38e1b2a740d60350333ad3536715604bb949"
+    },
+    {
+      "path": "evidence/liquidity_stress.json",
+      "size_bytes": 31513,
+      "sha256": "61cbf9396f38c7dc5b71a3520669f9aada3af166ad2617cb6a2c14d7b3a58abc"
+    },
+    {
+      "path": "evidence/regression/actual_and_fitted_cfo.png",
+      "size_bytes": 55928,
+      "sha256": "8b183f840cb9b35fe463627f37d7cb423df72527dc2fa363f0d19954506d3b45"
+    },
+    {
+      "path": "evidence/regression/changes_diagnostics.csv",
+      "size_bytes": 1202,
+      "sha256": "a5dd06e2514f49ad5fdc901d6f0bbd70ee9288a6b3b77a3102f21dbb94514e49"
+    },
+    {
+      "path": "evidence/regression/coefficients.csv",
+      "size_bytes": 707,
+      "sha256": "5623e418e5a779bbf409e60f3c55cb0cc25d59e7757a0a55b2f1a710643c3d0f"
+    },
+    {
+      "path": "evidence/regression/levels_diagnostics.csv",
+      "size_bytes": 1296,
+      "sha256": "9781a5532fecafa07e878cd9644cde7e5594422eb6a9fe9b7d3bf7ee76b077ff"
+    },
+    {
+      "path": "evidence/regression/regression_input.csv",
+      "size_bytes": 250,
+      "sha256": "fc942c0d31b59071e22053f3b61ac3b89a4c2e0b80e2e7df7236157df8c217ec"
+    },
+    {
+      "path": "evidence/regression/regression_results.json",
+      "size_bytes": 7684,
+      "sha256": "721f127f240c4923c86c18f25c46c35759a9e0cbbf98a9904faa0013081da711"
+    },
+    {
+      "path": "evidence/regression/student_t_critical_values.json",
+      "size_bytes": 1184,
+      "sha256": "70c19234e6af9c71001eec3ae86df06dcff15c3fa3a14f7957620cd638af843b"
+    },
+    {
+      "path": "evidence/saved_workbook_verification.json",
+      "size_bytes": 101344,
+      "sha256": "0d623d13a2db26c96c2265dbd9996c545e7468749a9f2f0b7be34fa013295d4e"
+    },
+    {
+      "path": "evidence/shape_notes.json",
+      "size_bytes": 11027,
+      "sha256": "35debd072c96c87c19b1d7ac75e8ee6ae3d162019648fcdb8186fd9d0c417a1d"
+    },
+    {
+      "path": "evidence/workbook_enhancements.json",
+      "size_bytes": 59021,
+      "sha256": "4f798b7d4637128490f17261754f8a8c2a3a7c9020741fad999e9bcae8272b52"
+    },
+    {
+      "path": "evidence/workbook_layout.json",
+      "size_bytes": 7103,
+      "sha256": "f097288efeb805cb7c4b7414c517cf913b5fd19fac30b5f72bf490affcb66558"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 82,
+      "sha256": "d0ef6e4ed255aa2e8d04d196a10ed988a7ae7253d479a80d4dcbd07746bcb32d"
+    },
+    {
+      "path": "src/build_report.py",
+      "size_bytes": 35846,
+      "sha256": "976b4c108ab3d5ac8d92534503bf0d2f28fa68e3b981d1c99c3aab33c238653f"
+    },
+    {
+      "path": "src/export_excel_assumptions.py",
+      "size_bytes": 1089,
+      "sha256": "e08240170ccb0ab8ec4ee21ee3aff5d96b72eec68de2cc42ed2e5f4101a7af57"
+    },
+    {
+      "path": "src/fetch_sources.py",
+      "size_bytes": 2941,
+      "sha256": "3fb0077fe8e7dcb4abc7440e46a558afe763407926b3e02e69a968b28019f134"
+    },
+    {
+      "path": "src/model.py",
+      "size_bytes": 23971,
+      "sha256": "7ebe8295dfebbe6e3027aed03faeb49dbe1a2329e8f1c1dacf5c22aa777f7b53"
+    },
+    {
+      "path": "src/normalize_filings.py",
+      "size_bytes": 21470,
+      "sha256": "14858b32ed4909a89e58f4369891cad556011747b876fd3d001331d1222b9717"
+    },
+    {
+      "path": "src/package_project.py",
+      "size_bytes": 2253,
+      "sha256": "c4e45aa94d0a461b6082efe8016b787b3001eb55facc189facf3f96c521bca80"
+    },
+    {
+      "path": "src/regression_analysis.py",
+      "size_bytes": 7896,
+      "sha256": "4646ed93e1c8663757d43949ed44025c2bb0b2515907d7e2d404bac6087ce83d"
+    },
+    {
+      "path": "src/update_report.py",
+      "size_bytes": 8473,
+      "sha256": "a2576486edbe72f589c8f1de204aa4df74ae76f349cac79a1c12488ebb592cb3"
+    },
+    {
+      "path": "src/verify_enhancements.py",
+      "size_bytes": 10833,
+      "sha256": "d8e81a4c588fe9c218e45e230d372c8d8ab1c390d34fa2ee0cce40d1a497724a"
+    },
+    {
+      "path": "src/verify_excel_compatibility.py",
+      "size_bytes": 6581,
+      "sha256": "a63e3f05d88f9706e9eee54a211a1d52e85e8c0ce080ba77f01c0c721a954a3d"
+    },
+    {
+      "path": "src/verify_workbook.py",
+      "size_bytes": 6417,
+      "sha256": "8bb4e1feca7103fdc01cfdf3b6108b1f61902f589d3d2a2ac393153d275dceca"
+    },
+    {
+      "path": "src/workbook_io.py",
+      "size_bytes": 4067,
+      "sha256": "774d4de013d55b89fa2dffb4bd420416dbf94adcc6099c1e06bf2de27aceb918"
+    },
+    {
+      "path": "tools/add_shape_text.py",
+      "size_bytes": 4368,
+      "sha256": "a393343123df371b62dcef605d26f9ff6121cd9eec1efe1c35dc28a46e31a3cf"
+    },
+    {
+      "path": "tools/enhance_workbook.mjs",
+      "size_bytes": 66622,
+      "sha256": "e7895cbb1f923488fcf8f88c279ada4a5e3b6120753aeb9d186622cb9405f4e5"
+    },
+    {
+      "path": "tools/expand_analytical_panels.py",
+      "size_bytes": 8530,
+      "sha256": "3e64e3e4bdae2cdc7a26de2adce4bde203169f5238595a534f7afd6697375c8d"
+    },
+    {
+      "path": "tools/finish_labels.mjs",
+      "size_bytes": 5234,
+      "sha256": "074770996337dca9456a092af7dafeed702913ad563ce94773dc4a759aa33cac"
+    },
+    {
+      "path": "tools/fix_excel_compatibility.mjs",
+      "size_bytes": 4854,
+      "sha256": "d8c4afc76190cf21ff0a824c82bf572e45ed2912cefe927934ea12e2a9ce3ca8"
+    },
+    {
+      "path": "tools/preserve_note_updates.py",
+      "size_bytes": 4145,
+      "sha256": "e1031979ed8fd07706ef26e9910ab763d4a5d2bb19f40b01d78ca0e57901371b"
+    }
+  ]
+}

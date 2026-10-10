@@ -1,0 +1,778 @@
+{
+  "tableRowHeightPoints": 24,
+  "originalCase": 1,
+  "observationEdits": [
+    {
+      "sheet": "Overview",
+      "cell": "C59",
+      "oldFormula": "=\"Selected \"&Assumptions!G4&\" case: FY2031 revenue is \"&TEXT('Income Statement'!S8/1000,\"0.0\")&\"bn and operating margin is \"&TEXT('Income Statement'!S20,\"0.0%\")&\".\"",
+      "newFormula": "=\"Selected \"&Assumptions!G4&\" case: FY2031 revenue is \"&FIXED('Income Statement'!S8/1000,1,TRUE)&\"bn and operating margin is \"&(FIXED(('Income Statement'!S20)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "Selected Base case: FY2031 revenue is 648.1bn and operating margin is 37.5%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Selected \"&Assumptions!G4&\" case: FY2031 revenue is \"&TEXT('Income Statement'!S8/1000,\"0.0\")&\"bn and operating margin is \"&TEXT('Income Statement'!S20,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Selected \"&Assumptions!G4&\" case: FY2031 revenue is \"&FIXED('Income Statement'!S8/1000,1,TRUE)&\"bn and operating margin is \"&(FIXED(('Income Statement'!S20)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Overview",
+      "cell": "C60",
+      "oldFormula": "=\"Cash capex falls from \"&TEXT(-'Cash Flow'!N30/'Income Statement'!N8,\"0.0%\")&\" of revenue in FY2026 to \"&TEXT(-'Cash Flow'!S30/'Income Statement'!S8,\"0.0%\")&\" in FY2031.\"",
+      "newFormula": "=\"Cash capex falls from \"&(FIXED((-'Cash Flow'!N30/'Income Statement'!N8)*100,1,TRUE)&\"%\")&\" of revenue in FY2026 to \"&(FIXED((-'Cash Flow'!S30/'Income Statement'!S8)*100,1,TRUE)&\"%\")&\" in FY2031.\"",
+      "oldValue": "Cash capex falls from 34.9% of revenue in FY2026 to 20.0% in FY2031.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Cash capex falls from \"&TEXT(-'Cash Flow'!N30/'Income Statement'!N8,\"0.0%\")&\" of revenue in FY2026 to \"&TEXT(-'Cash Flow'!S30/'Income Statement'!S8,\"0.0%\")&\" in FY2031.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Cash capex falls from \"&(FIXED((-'Cash Flow'!N30/'Income Statement'!N8)*100,1,TRUE)&\"%\")&\" of revenue in FY2026 to \"&(FIXED((-'Cash Flow'!S30/'Income Statement'!S8)*100,1,TRUE)&\"%\")&\" in FY2031.\""
+    },
+    {
+      "sheet": "Overview",
+      "cell": "C61",
+      "oldFormula": "=\"FY2031 FCF is \"&TEXT('Cash Flow'!S56/1000,\"0.0\")&\"bn; after finance lease principal it is \"&TEXT('Cash Flow'!S57/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 FCF is \"&FIXED('Cash Flow'!S56/1000,1,TRUE)&\"bn; after finance lease principal it is \"&FIXED('Cash Flow'!S57/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 FCF is 255.7bn; after finance lease principal it is 241.5bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 FCF is \"&TEXT('Cash Flow'!S56/1000,\"0.0\")&\"bn; after finance lease principal it is \"&TEXT('Cash Flow'!S57/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 FCF is \"&FIXED('Cash Flow'!S56/1000,1,TRUE)&\"bn; after finance lease principal it is \"&FIXED('Cash Flow'!S57/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Equity Research",
+      "cell": "C43",
+      "oldFormula": "=\"FY2031 operating margin: \"&TEXT(N12,\"0.0%\")&\". FCF margin: \"&TEXT(N22,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 operating margin: \"&(FIXED((N12)*100,1,TRUE)&\"%\")&\". FCF margin: \"&(FIXED((N22)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 operating margin: 37.5%. FCF margin: 39.4%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 operating margin: \"&TEXT(N12,\"0.0%\")&\". FCF margin: \"&TEXT(N22,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 operating margin: \"&(FIXED((N12)*100,1,TRUE)&\"%\")&\". FCF margin: \"&(FIXED((N22)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Equity Research",
+      "cell": "C44",
+      "oldFormula": "=\"FY2031 finance lease principal reduces FCF by \"&TEXT((N18-N19)/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 finance lease principal reduces FCF by \"&FIXED((N18-N19)/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 finance lease principal reduces FCF by 14.1bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 finance lease principal reduces FCF by \"&TEXT((N18-N19)/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 finance lease principal reduces FCF by \"&FIXED((N18-N19)/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Equity Research",
+      "cell": "C45",
+      "oldFormula": "=\"Diluted EPS changes from \"&TEXT(I15,\"0.00\")&\" in FY2026 to \"&TEXT(N15,\"0.00\")&\" in FY2031, using an independent share-count driver.\"",
+      "newFormula": "=\"Diluted EPS changes from \"&FIXED(I15,2,TRUE)&\" in FY2026 to \"&FIXED(N15,2,TRUE)&\" in FY2031, using an independent share-count driver.\"",
+      "oldValue": "Diluted EPS changes from 17.95 in FY2026 to 27.00 in FY2031, using an independent share-count driver.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Diluted EPS changes from \"&TEXT(I15,\"0.00\")&\" in FY2026 to \"&TEXT(N15,\"0.00\")&\" in FY2031, using an independent share-count driver.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Diluted EPS changes from \"&FIXED(I15,2,TRUE)&\" in FY2026 to \"&FIXED(N15,2,TRUE)&\" in FY2031, using an independent share-count driver.\""
+    },
+    {
+      "sheet": "Investment Banking",
+      "cell": "C43",
+      "oldFormula": "=\"FY2031 net debt excluding leases: \"&TEXT(N16/1000,\"0.0\")&\"bn; including finance leases: \"&TEXT(N17/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 net debt excluding leases: \"&FIXED(N16/1000,1,TRUE)&\"bn; including finance leases: \"&FIXED(N17/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 net debt excluding leases: -483.9bn; including finance leases: -302.6bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 net debt excluding leases: \"&TEXT(N16/1000,\"0.0\")&\"bn; including finance leases: \"&TEXT(N17/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 net debt excluding leases: \"&FIXED(N16/1000,1,TRUE)&\"bn; including finance leases: \"&FIXED(N17/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Investment Banking",
+      "cell": "C44",
+      "oldFormula": "=\"FY2031 finance lease liabilities: \"&TEXT(N12/1000,\"0.0\")&\"bn. Operating leases: \"&TEXT(N13/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn. Operating leases: \"&FIXED(N13/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 finance lease liabilities: 181.3bn. Operating leases: 32.5bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 finance lease liabilities: \"&TEXT(N12/1000,\"0.0\")&\"bn. Operating leases: \"&TEXT(N13/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn. Operating leases: \"&FIXED(N13/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Investment Banking",
+      "cell": "C45",
+      "oldFormula": "=\"FY2031 lease-inclusive debt / earnings proxy: \"&TEXT(N20,\"0.00\")&\"x. The denominator is not reported EBITDA.\"",
+      "newFormula": "=\"FY2031 lease-inclusive debt / earnings proxy: \"&FIXED(N20,2,TRUE)&\"x. The denominator is not reported EBITDA.\"",
+      "oldValue": "FY2031 lease-inclusive debt / earnings proxy: 0.53x. The denominator is not reported EBITDA.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 lease-inclusive debt / earnings proxy: \"&TEXT(N20,\"0.00\")&\"x. The denominator is not reported EBITDA.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 lease-inclusive debt / earnings proxy: \"&FIXED(N20,2,TRUE)&\"x. The denominator is not reported EBITDA.\""
+    },
+    {
+      "sheet": "Private Equity",
+      "cell": "C43",
+      "oldFormula": "=\"FY2031 cash capex: \"&TEXT(N10/1000,\"0.0\")&\"bn; noncash finance lease additions: \"&TEXT(N11/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 cash capex: \"&FIXED(N10/1000,1,TRUE)&\"bn; noncash finance lease additions: \"&FIXED(N11/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 cash capex: 129.6bn; noncash finance lease additions: 35.6bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 cash capex: \"&TEXT(N10/1000,\"0.0\")&\"bn; noncash finance lease additions: \"&TEXT(N11/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 cash capex: \"&FIXED(N10/1000,1,TRUE)&\"bn; noncash finance lease additions: \"&FIXED(N11/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Private Equity",
+      "cell": "C44",
+      "oldFormula": "=\"FY2031 FCF after lease principal: \"&TEXT(N15/1000,\"0.0\")&\"bn; cash conversion on the earnings proxy: \"&TEXT(N16,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 FCF after lease principal: \"&FIXED(N15/1000,1,TRUE)&\"bn; cash conversion on the earnings proxy: \"&(FIXED((N16)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 FCF after lease principal: 241.5bn; cash conversion on the earnings proxy: 60.6%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 FCF after lease principal: \"&TEXT(N15/1000,\"0.0\")&\"bn; cash conversion on the earnings proxy: \"&TEXT(N16,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 FCF after lease principal: \"&FIXED(N15/1000,1,TRUE)&\"bn; cash conversion on the earnings proxy: \"&(FIXED((N16)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Private Equity",
+      "cell": "C45",
+      "oldFormula": "=\"FY2031 SBC: \"&TEXT(N13/1000,\"0.0\")&\"bn. Assess the cash add-back alongside the independent dilution assumption.\"",
+      "newFormula": "=\"FY2031 SBC: \"&FIXED(N13/1000,1,TRUE)&\"bn. Assess the cash add-back alongside the independent dilution assumption.\"",
+      "oldValue": "FY2031 SBC: 24.3bn. Assess the cash add-back alongside the independent dilution assumption.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 SBC: \"&TEXT(N13/1000,\"0.0\")&\"bn. Assess the cash add-back alongside the independent dilution assumption.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 SBC: \"&FIXED(N13/1000,1,TRUE)&\"bn. Assess the cash add-back alongside the independent dilution assumption.\""
+    },
+    {
+      "sheet": "FP&A",
+      "cell": "C58",
+      "oldFormula": "=\"FY2027 operating income changes by \"&TEXT((J19-I19)/1000,\"0.0\")&\"bn under the selected case.\"",
+      "newFormula": "=\"FY2027 operating income changes by \"&FIXED((J19-I19)/1000,1,TRUE)&\"bn under the selected case.\"",
+      "oldValue": "FY2027 operating income changes by 20.5bn under the selected case.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2027 operating income changes by \"&TEXT((J19-I19)/1000,\"0.0\")&\"bn under the selected case.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2027 operating income changes by \"&FIXED((J19-I19)/1000,1,TRUE)&\"bn under the selected case.\""
+    },
+    {
+      "sheet": "FP&A",
+      "cell": "C59",
+      "oldFormula": "=\"FY2031 Intelligent Cloud revenue share: \"&TEXT(N9/SUM(N8:N10),\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 Intelligent Cloud revenue share: \"&(FIXED((N9/SUM(N8:N10))*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 Intelligent Cloud revenue share: 52.8%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 Intelligent Cloud revenue share: \"&TEXT(N9/SUM(N8:N10),\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 Intelligent Cloud revenue share: \"&(FIXED((N9/SUM(N8:N10))*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "FP&A",
+      "cell": "C60",
+      "oldFormula": "=\"PPE depreciation rises from \"&TEXT(I16/1000,\"0.0\")&\"bn in FY2026 to \"&TEXT(N16/1000,\"0.0\")&\"bn in FY2031.\"",
+      "newFormula": "=\"PPE depreciation rises from \"&FIXED(I16/1000,1,TRUE)&\"bn in FY2026 to \"&FIXED(N16/1000,1,TRUE)&\"bn in FY2031.\"",
+      "oldValue": "PPE depreciation rises from 34.3bn in FY2026 to 154.9bn in FY2031.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"PPE depreciation rises from \"&TEXT(I16/1000,\"0.0\")&\"bn in FY2026 to \"&TEXT(N16/1000,\"0.0\")&\"bn in FY2031.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"PPE depreciation rises from \"&FIXED(I16/1000,1,TRUE)&\"bn in FY2026 to \"&FIXED(N16/1000,1,TRUE)&\"bn in FY2031.\""
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "C230",
+      "oldFormula": "=\"FY2031 segment growth: PBP \"&TEXT(S9,\"0.0%\")&\", IC \"&TEXT(S13,\"0.0%\")&\", MPC \"&TEXT(S17,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 segment growth: PBP \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S13)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S17)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 segment growth: PBP 10.0%, IC 16.0%, MPC 2.0%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 segment growth: PBP \"&TEXT(S9,\"0.0%\")&\", IC \"&TEXT(S13,\"0.0%\")&\", MPC \"&TEXT(S17,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 segment growth: PBP \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S13)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S17)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "C231",
+      "oldFormula": "=\"FY2031 cash capex / revenue: \"&TEXT(S45,\"0.0%\")&\". New finance lease assets / revenue: \"&TEXT(S53,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 cash capex / revenue: \"&(FIXED((S45)*100,1,TRUE)&\"%\")&\". New finance lease assets / revenue: \"&(FIXED((S53)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 cash capex / revenue: 20.0%. New finance lease assets / revenue: 5.5%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 cash capex / revenue: \"&TEXT(S45,\"0.0%\")&\". New finance lease assets / revenue: \"&TEXT(S53,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 cash capex / revenue: \"&(FIXED((S45)*100,1,TRUE)&\"%\")&\". New finance lease assets / revenue: \"&(FIXED((S53)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "C232",
+      "oldFormula": "=\"FY2031 collection days: \"&TEXT(S69,\"0.0\")&\"; operating payable days: \"&TEXT(S77,\"0.0\")&\". These drivers affect cash conversion.\"",
+      "newFormula": "=\"FY2031 collection days: \"&FIXED(S69,1,TRUE)&\"; operating payable days: \"&FIXED(S77,1,TRUE)&\". These drivers affect cash conversion.\"",
+      "oldValue": "FY2031 collection days: 89.0; operating payable days: 53.9. These drivers affect cash conversion.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 collection days: \"&TEXT(S69,\"0.0\")&\"; operating payable days: \"&TEXT(S77,\"0.0\")&\". These drivers affect cash conversion.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 collection days: \"&FIXED(S69,1,TRUE)&\"; operating payable days: \"&FIXED(S77,1,TRUE)&\". These drivers affect cash conversion.\""
+    },
+    {
+      "sheet": "Income Statement",
+      "cell": "C54",
+      "oldFormula": "=\"FY2026 to FY2031 revenue CAGR: \"&TEXT((S8/N8)^(1/5)-1,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2026 to FY2031 revenue CAGR: \"&(FIXED(((S8/N8)^(1/5)-1)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2026 to FY2031 revenue CAGR: 14.3%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 to FY2031 revenue CAGR: \"&TEXT((S8/N8)^(1/5)-1,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 to FY2031 revenue CAGR: \"&(FIXED(((S8/N8)^(1/5)-1)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Income Statement",
+      "cell": "C55",
+      "oldFormula": "=\"Operating margin changes from \"&TEXT(N20,\"0.0%\")&\" to \"&TEXT(S20,\"0.0%\")&\"; net margin changes from \"&TEXT(N29,\"0.0%\")&\" to \"&TEXT(S29,\"0.0%\")&\".\"",
+      "newFormula": "=\"Operating margin changes from \"&(FIXED((N20)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S20)*100,1,TRUE)&\"%\")&\"; net margin changes from \"&(FIXED((N29)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S29)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "Operating margin changes from 46.8% to 37.5%; net margin changes from 40.3% to 30.6%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Operating margin changes from \"&TEXT(N20,\"0.0%\")&\" to \"&TEXT(S20,\"0.0%\")&\"; net margin changes from \"&TEXT(N29,\"0.0%\")&\" to \"&TEXT(S29,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Operating margin changes from \"&(FIXED((N20)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S20)*100,1,TRUE)&\"%\")&\"; net margin changes from \"&(FIXED((N29)*100,1,TRUE)&\"%\")&\" to \"&(FIXED((S29)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Income Statement",
+      "cell": "C56",
+      "oldFormula": "=\"FY2031 diluted shares: \"&TEXT(S32,\"#,##0\")&\"m. EPS: \"&TEXT(S33,\"0.00\")&\" dollars.\"",
+      "newFormula": "=\"FY2031 diluted shares: \"&FIXED(S32,0,FALSE)&\"m. EPS: \"&FIXED(S33,2,TRUE)&\" dollars.\"",
+      "oldValue": "FY2031 diluted shares: 7,342m. EPS: 27.00 dollars.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 diluted shares: \"&TEXT(S32,\"#,##0\")&\"m. EPS: \"&TEXT(S33,\"0.00\")&\" dollars.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 diluted shares: \"&FIXED(S32,0,FALSE)&\"m. EPS: \"&FIXED(S33,2,TRUE)&\" dollars.\""
+    },
+    {
+      "sheet": "Balance Sheet",
+      "cell": "C67",
+      "oldFormula": "=\"FY2031 net PPE represents \"&TEXT(S16/S22,\"0.0%\")&\" of assets; cash and short-term investments represent \"&TEXT(S10/S22,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 net PPE represents \"&(FIXED((S16/S22)*100,1,TRUE)&\"%\")&\" of assets; cash and short-term investments represent \"&(FIXED((S10/S22)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 net PPE represents 36.0% of assets; cash and short-term investments represent 31.5%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 net PPE represents \"&TEXT(S16/S22,\"0.0%\")&\" of assets; cash and short-term investments represent \"&TEXT(S10/S22,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 net PPE represents \"&(FIXED((S16/S22)*100,1,TRUE)&\"%\")&\" of assets; cash and short-term investments represent \"&(FIXED((S10/S22)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Balance Sheet",
+      "cell": "C68",
+      "oldFormula": "=\"FY2031 equity funds \"&TEXT(S45/S22,\"0.0%\")&\" of total assets under the selected payout assumptions.\"",
+      "newFormula": "=\"FY2031 equity funds \"&(FIXED((S45/S22)*100,1,TRUE)&\"%\")&\" of total assets under the selected payout assumptions.\"",
+      "oldValue": "FY2031 equity funds 64.5% of total assets under the selected payout assumptions.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 equity funds \"&TEXT(S45/S22,\"0.0%\")&\" of total assets under the selected payout assumptions.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 equity funds \"&(FIXED((S45/S22)*100,1,TRUE)&\"%\")&\" of total assets under the selected payout assumptions.\""
+    },
+    {
+      "sheet": "Balance Sheet",
+      "cell": "C69",
+      "oldFormula": "=\"FY2031 current assets / current liabilities: \"&TEXT(S14/S32,\"0.00\")&\"x. Cash remains linked to the cash-flow statement.\"",
+      "newFormula": "=\"FY2031 current assets / current liabilities: \"&FIXED(S14/S32,2,TRUE)&\"x. Cash remains linked to the cash-flow statement.\"",
+      "oldValue": "FY2031 current assets / current liabilities: 2.64x. Cash remains linked to the cash-flow statement.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 current assets / current liabilities: \"&TEXT(S14/S32,\"0.00\")&\"x. Cash remains linked to the cash-flow statement.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 current assets / current liabilities: \"&FIXED(S14/S32,2,TRUE)&\"x. Cash remains linked to the cash-flow statement.\""
+    },
+    {
+      "sheet": "Cash Flow",
+      "cell": "C80",
+      "oldFormula": "=\"FY2031 CFO: \"&TEXT(S28/1000,\"0.0\")&\"bn. Cash capex: \"&TEXT(-S30/1000,\"0.0\")&\"bn. FCF: \"&TEXT(S56/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 CFO: \"&FIXED(S28/1000,1,TRUE)&\"bn. Cash capex: \"&FIXED(-S30/1000,1,TRUE)&\"bn. FCF: \"&FIXED(S56/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 CFO: 385.3bn. Cash capex: 129.6bn. FCF: 255.7bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 CFO: \"&TEXT(S28/1000,\"0.0\")&\"bn. Cash capex: \"&TEXT(-S30/1000,\"0.0\")&\"bn. FCF: \"&TEXT(S56/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 CFO: \"&FIXED(S28/1000,1,TRUE)&\"bn. Cash capex: \"&FIXED(-S30/1000,1,TRUE)&\"bn. FCF: \"&FIXED(S56/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Cash Flow",
+      "cell": "C81",
+      "oldFormula": "=\"Finance lease principal reduces FY2031 FCF by \"&TEXT((S56-S57)/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"Finance lease principal reduces FY2031 FCF by \"&FIXED((S56-S57)/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "Finance lease principal reduces FY2031 FCF by 14.1bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Finance lease principal reduces FY2031 FCF by \"&TEXT((S56-S57)/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Finance lease principal reduces FY2031 FCF by \"&FIXED((S56-S57)/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Cash Flow",
+      "cell": "C82",
+      "oldFormula": "=\"FY2031 reserve liquidation: \"&TEXT(S60/1000,\"0.0\")&\"bn; liquidity borrowing requirement: \"&TEXT(S61/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 reserve liquidation: \"&FIXED(S60/1000,1,TRUE)&\"bn; liquidity borrowing requirement: \"&FIXED(S61/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 reserve liquidation: 0.0bn; liquidity borrowing requirement: 0.0bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 reserve liquidation: \"&TEXT(S60/1000,\"0.0\")&\"bn; liquidity borrowing requirement: \"&TEXT(S61/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 reserve liquidation: \"&FIXED(S60/1000,1,TRUE)&\"bn; liquidity borrowing requirement: \"&FIXED(S61/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Segments",
+      "cell": "C72",
+      "oldFormula": "=\"FY2031 revenue shares: PBP \"&TEXT(S8/S51,\"0.0%\")&\", IC \"&TEXT(S22/S51,\"0.0%\")&\", MPC \"&TEXT(S36/S51,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 revenue shares: PBP \"&(FIXED((S8/S51)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S22/S51)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S36/S51)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 revenue shares: PBP 38.1%, IC 52.8%, MPC 9.1%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 revenue shares: PBP \"&TEXT(S8/S51,\"0.0%\")&\", IC \"&TEXT(S22/S51,\"0.0%\")&\", MPC \"&TEXT(S36/S51,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 revenue shares: PBP \"&(FIXED((S8/S51)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S22/S51)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S36/S51)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Segments",
+      "cell": "C73",
+      "oldFormula": "=\"FY2031 modeled operating margins: PBP \"&TEXT(S19,\"0.0%\")&\", IC \"&TEXT(S33,\"0.0%\")&\", MPC \"&TEXT(S47,\"0.0%\")&\".\"",
+      "newFormula": "=\"FY2031 modeled operating margins: PBP \"&(FIXED((S19)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S33)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S47)*100,1,TRUE)&\"%\")&\".\"",
+      "oldValue": "FY2031 modeled operating margins: PBP 56.0%, IC 31.3%, MPC -4.5%.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 modeled operating margins: PBP \"&TEXT(S19,\"0.0%\")&\", IC \"&TEXT(S33,\"0.0%\")&\", MPC \"&TEXT(S47,\"0.0%\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 modeled operating margins: PBP \"&(FIXED((S19)*100,1,TRUE)&\"%\")&\", IC \"&(FIXED((S33)*100,1,TRUE)&\"%\")&\", MPC \"&(FIXED((S47)*100,1,TRUE)&\"%\")&\".\""
+    },
+    {
+      "sheet": "Segments",
+      "cell": "C74",
+      "oldFormula": "=\"FY2031 unallocated corporate operating expense: \"&TEXT(S54/1000,\"0.0\")&\"bn. It is deducted after the segment total.\"",
+      "newFormula": "=\"FY2031 unallocated corporate operating expense: \"&FIXED(S54/1000,1,TRUE)&\"bn. It is deducted after the segment total.\"",
+      "oldValue": "FY2031 unallocated corporate operating expense: 0.0bn. It is deducted after the segment total.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 unallocated corporate operating expense: \"&TEXT(S54/1000,\"0.0\")&\"bn. It is deducted after the segment total.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 unallocated corporate operating expense: \"&FIXED(S54/1000,1,TRUE)&\"bn. It is deducted after the segment total.\""
+    },
+    {
+      "sheet": "Expense Plan",
+      "cell": "C43",
+      "oldFormula": "=\"FY2031 operating expenses: \"&TEXT(S24/1000,\"0.0\")&\"bn, or \"&TEXT(S24/S8,\"0.0%\")&\" of revenue.\"",
+      "newFormula": "=\"FY2031 operating expenses: \"&FIXED(S24/1000,1,TRUE)&\"bn, or \"&(FIXED((S24/S8)*100,1,TRUE)&\"%\")&\" of revenue.\"",
+      "oldValue": "FY2031 operating expenses: 143.6bn, or 22.2% of revenue.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 operating expenses: \"&TEXT(S24/1000,\"0.0\")&\"bn, or \"&TEXT(S24/S8,\"0.0%\")&\" of revenue.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 operating expenses: \"&FIXED(S24/1000,1,TRUE)&\"bn, or \"&(FIXED((S24/S8)*100,1,TRUE)&\"%\")&\" of revenue.\""
+    },
+    {
+      "sheet": "Expense Plan",
+      "cell": "C44",
+      "oldFormula": "=\"FY2031 PPE depreciation: \"&TEXT(S10/1000,\"0.0\")&\"bn; operating lease expense: \"&TEXT(S12/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 PPE depreciation: \"&FIXED(S10/1000,1,TRUE)&\"bn; operating lease expense: \"&FIXED(S12/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 PPE depreciation: 154.9bn; operating lease expense: 9.6bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 PPE depreciation: \"&TEXT(S10/1000,\"0.0\")&\"bn; operating lease expense: \"&TEXT(S12/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 PPE depreciation: \"&FIXED(S10/1000,1,TRUE)&\"bn; operating lease expense: \"&FIXED(S12/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Expense Plan",
+      "cell": "C45",
+      "oldFormula": "=\"FY2031 total R&D includes \"&TEXT(SUM(S15:S17)/1000,\"0.0\")&\"bn of allocated D&A and operating lease expense.\"",
+      "newFormula": "=\"FY2031 total R&D includes \"&FIXED(SUM(S15:S17)/1000,1,TRUE)&\"bn of allocated D&A and operating lease expense.\"",
+      "oldValue": "FY2031 total R&D includes 24.3bn of allocated D&A and operating lease expense.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 total R&D includes \"&TEXT(SUM(S15:S17)/1000,\"0.0\")&\"bn of allocated D&A and operating lease expense.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 total R&D includes \"&FIXED(SUM(S15:S17)/1000,1,TRUE)&\"bn of allocated D&A and operating lease expense.\""
+    },
+    {
+      "sheet": "Working Capital",
+      "cell": "C58",
+      "oldFormula": "=\"FY2031 receivable days: \"&TEXT(S9,\"0.0\")&\"; inventory days: \"&TEXT(S11,\"0.0\")&\"; operating payable days: \"&TEXT(S16,\"0.0\")&\".\"",
+      "newFormula": "=\"FY2031 receivable days: \"&FIXED(S9,1,TRUE)&\"; inventory days: \"&FIXED(S11,1,TRUE)&\"; operating payable days: \"&FIXED(S16,1,TRUE)&\".\"",
+      "oldValue": "FY2031 receivable days: 89.0; inventory days: 4.8; operating payable days: 53.9.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 receivable days: \"&TEXT(S9,\"0.0\")&\"; inventory days: \"&TEXT(S11,\"0.0\")&\"; operating payable days: \"&TEXT(S16,\"0.0\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 receivable days: \"&FIXED(S9,1,TRUE)&\"; inventory days: \"&FIXED(S11,1,TRUE)&\"; operating payable days: \"&FIXED(S16,1,TRUE)&\".\""
+    },
+    {
+      "sheet": "Working Capital",
+      "cell": "C59",
+      "oldFormula": "=\"FY2031 accounts payable: \"&TEXT(S15/1000,\"0.0\")&\"bn, including \"&TEXT(S14/1000,\"0.0\")&\"bn of capital payables.\"",
+      "newFormula": "=\"FY2031 accounts payable: \"&FIXED(S15/1000,1,TRUE)&\"bn, including \"&FIXED(S14/1000,1,TRUE)&\"bn of capital payables.\"",
+      "oldValue": "FY2031 accounts payable: 54.2bn, including 15.6bn of capital payables.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 accounts payable: \"&TEXT(S15/1000,\"0.0\")&\"bn, including \"&TEXT(S14/1000,\"0.0\")&\"bn of capital payables.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 accounts payable: \"&FIXED(S15/1000,1,TRUE)&\"bn, including \"&FIXED(S14/1000,1,TRUE)&\"bn of capital payables.\""
+    },
+    {
+      "sheet": "Working Capital",
+      "cell": "C60",
+      "oldFormula": "=\"FY2031 receivables cash effect: \"&TEXT(S31/1000,\"0.0\")&\"bn; operating payables cash effect: \"&TEXT(S35/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 receivables cash effect: \"&FIXED(S31/1000,1,TRUE)&\"bn; operating payables cash effect: \"&FIXED(S35/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 receivables cash effect: -17.3bn; operating payables cash effect: 5.2bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 receivables cash effect: \"&TEXT(S31/1000,\"0.0\")&\"bn; operating payables cash effect: \"&TEXT(S35/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 receivables cash effect: \"&FIXED(S31/1000,1,TRUE)&\"bn; operating payables cash effect: \"&FIXED(S35/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "PPE and Intangibles",
+      "cell": "C62",
+      "oldFormula": "=\"FY2031 PPE additions: \"&TEXT(S15/1000,\"0.0\")&\"bn versus depreciation of \"&TEXT(S21/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 PPE additions: \"&FIXED(S15/1000,1,TRUE)&\"bn versus depreciation of \"&FIXED(S21/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 PPE additions: 163.0bn versus depreciation of 154.9bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 PPE additions: \"&TEXT(S15/1000,\"0.0\")&\"bn versus depreciation of \"&TEXT(S21/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 PPE additions: \"&FIXED(S15/1000,1,TRUE)&\"bn versus depreciation of \"&FIXED(S21/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "PPE and Intangibles",
+      "cell": "C63",
+      "oldFormula": "=\"FY2031 closing net PPE: \"&TEXT(S24/1000,\"0.0\")&\"bn. New finance lease assets contribute \"&TEXT(S14/1000,\"0.0\")&\"bn of annual additions.\"",
+      "newFormula": "=\"FY2031 closing net PPE: \"&FIXED(S24/1000,1,TRUE)&\"bn. New finance lease assets contribute \"&FIXED(S14/1000,1,TRUE)&\"bn of annual additions.\"",
+      "oldValue": "FY2031 closing net PPE: 586.5bn. New finance lease assets contribute 35.6bn of annual additions.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 closing net PPE: \"&TEXT(S24/1000,\"0.0\")&\"bn. New finance lease assets contribute \"&TEXT(S14/1000,\"0.0\")&\"bn of annual additions.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 closing net PPE: \"&FIXED(S24/1000,1,TRUE)&\"bn. New finance lease assets contribute \"&FIXED(S14/1000,1,TRUE)&\"bn of annual additions.\""
+    },
+    {
+      "sheet": "PPE and Intangibles",
+      "cell": "C64",
+      "oldFormula": "=\"FY2031 remaining intangible assets: \"&TEXT(S43/1000,\"0.0\")&\"bn, after the disclosed amortization schedule.\"",
+      "newFormula": "=\"FY2031 remaining intangible assets: \"&FIXED(S43/1000,1,TRUE)&\"bn, after the disclosed amortization schedule.\"",
+      "oldValue": "FY2031 remaining intangible assets: 8.8bn, after the disclosed amortization schedule.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 remaining intangible assets: \"&TEXT(S43/1000,\"0.0\")&\"bn, after the disclosed amortization schedule.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 remaining intangible assets: \"&FIXED(S43/1000,1,TRUE)&\"bn, after the disclosed amortization schedule.\""
+    },
+    {
+      "sheet": "Debt and Leases",
+      "cell": "C116",
+      "oldFormula": "=\"FY2031 debt face value: \"&TEXT(S12/1000,\"0.0\")&\"bn; carrying amount: \"&TEXT(S18/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 debt face value: \"&FIXED(S12/1000,1,TRUE)&\"bn; carrying amount: \"&FIXED(S18/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 debt face value: 34.4bn; carrying amount: 29.4bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 debt face value: \"&TEXT(S12/1000,\"0.0\")&\"bn; carrying amount: \"&TEXT(S18/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 debt face value: \"&FIXED(S12/1000,1,TRUE)&\"bn; carrying amount: \"&FIXED(S18/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Debt and Leases",
+      "cell": "C117",
+      "oldFormula": "=\"FY2031 finance lease liabilities: \"&TEXT(S42/1000,\"0.0\")&\"bn; operating lease liabilities: \"&TEXT(S63/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 finance lease liabilities: \"&FIXED(S42/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(S63/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 finance lease liabilities: 181.3bn; operating lease liabilities: 32.5bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 finance lease liabilities: \"&TEXT(S42/1000,\"0.0\")&\"bn; operating lease liabilities: \"&TEXT(S63/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 finance lease liabilities: \"&FIXED(S42/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(S63/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Debt and Leases",
+      "cell": "C118",
+      "oldFormula": "=\"FY2031 liquidity borrowing: \"&TEXT(S11/1000,\"0.0\")&\"bn. The funding sequence uses eligible investment reserves first.\"",
+      "newFormula": "=\"FY2031 liquidity borrowing: \"&FIXED(S11/1000,1,TRUE)&\"bn. The funding sequence uses eligible investment reserves first.\"",
+      "oldValue": "FY2031 liquidity borrowing: 0.0bn. The funding sequence uses eligible investment reserves first.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 liquidity borrowing: \"&TEXT(S11/1000,\"0.0\")&\"bn. The funding sequence uses eligible investment reserves first.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 liquidity borrowing: \"&FIXED(S11/1000,1,TRUE)&\"bn. The funding sequence uses eligible investment reserves first.\""
+    },
+    {
+      "sheet": "Tax and Equity",
+      "cell": "C55",
+      "oldFormula": "=\"FY2031 effective tax rate: \"&TEXT(S9,\"0.0%\")&\". Income tax expense: \"&TEXT(S10/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 effective tax rate: \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\". Income tax expense: \"&FIXED(S10/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 effective tax rate: 20.0%. Income tax expense: 49.6bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 effective tax rate: \"&TEXT(S9,\"0.0%\")&\". Income tax expense: \"&TEXT(S10/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 effective tax rate: \"&(FIXED((S9)*100,1,TRUE)&\"%\")&\". Income tax expense: \"&FIXED(S10/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Tax and Equity",
+      "cell": "C56",
+      "oldFormula": "=\"FY2031 dividends and repurchases: \"&TEXT(SUM(S18:S19)/1000,\"0.0\")&\"bn, compared with net income of \"&TEXT(S14/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2031 dividends and repurchases: \"&FIXED(SUM(S18:S19)/1000,1,TRUE)&\"bn, compared with net income of \"&FIXED(S14/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2031 dividends and repurchases: 81.8bn, compared with net income of 198.2bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 dividends and repurchases: \"&TEXT(SUM(S18:S19)/1000,\"0.0\")&\"bn, compared with net income of \"&TEXT(S14/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 dividends and repurchases: \"&FIXED(SUM(S18:S19)/1000,1,TRUE)&\"bn, compared with net income of \"&FIXED(S14/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Tax and Equity",
+      "cell": "C57",
+      "oldFormula": "=\"FY2031 equity: \"&TEXT(S30/1000,\"0.0\")&\"bn. Diluted shares: \"&TEXT(S34,\"#,##0\")&\"m.\"",
+      "newFormula": "=\"FY2031 equity: \"&FIXED(S30/1000,1,TRUE)&\"bn. Diluted shares: \"&FIXED(S34,0,FALSE)&\"m.\"",
+      "oldValue": "FY2031 equity: 1051.5bn. Diluted shares: 7,342m.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 equity: \"&TEXT(S30/1000,\"0.0\")&\"bn. Diluted shares: \"&TEXT(S34,\"#,##0\")&\"m.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2031 equity: \"&FIXED(S30/1000,1,TRUE)&\"bn. Diluted shares: \"&FIXED(S34,0,FALSE)&\"m.\""
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "C138",
+      "oldFormula": "=\"FY2026 revenue source report: \"&TEXT(N106,\"0\")&\". Balance sheet source report: \"&TEXT(N107,\"0\")&\". Cash-flow source report: \"&TEXT(N108,\"0\")&\".\"",
+      "newFormula": "=\"FY2026 revenue source report: \"&FIXED(N106,0,TRUE)&\". Balance sheet source report: \"&FIXED(N107,0,TRUE)&\". Cash-flow source report: \"&FIXED(N108,0,TRUE)&\".\"",
+      "oldValue": "FY2026 revenue source report: 2026. Balance sheet source report: 2026. Cash-flow source report: 2026.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 revenue source report: \"&TEXT(N106,\"0\")&\". Balance sheet source report: \"&TEXT(N107,\"0\")&\". Cash-flow source report: \"&TEXT(N108,\"0\")&\".\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 revenue source report: \"&FIXED(N106,0,TRUE)&\". Balance sheet source report: \"&FIXED(N107,0,TRUE)&\". Cash-flow source report: \"&FIXED(N108,0,TRUE)&\".\""
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "C139",
+      "oldFormula": "=\"FY2026 reported revenue: \"&TEXT(N9/1000,\"0.0\")&\"bn; operating cash flow: \"&TEXT(N80/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2026 reported revenue: \"&FIXED(N9/1000,1,TRUE)&\"bn; operating cash flow: \"&FIXED(N80/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2026 reported revenue: 331.8bn; operating cash flow: 182.9bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 reported revenue: \"&TEXT(N9/1000,\"0.0\")&\"bn; operating cash flow: \"&TEXT(N80/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 reported revenue: \"&FIXED(N9/1000,1,TRUE)&\"bn; operating cash flow: \"&FIXED(N80/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Filing Notes",
+      "cell": "C77",
+      "oldFormula": "=\"FY2026 debt face value: \"&TEXT(N24/1000,\"0.0\")&\"bn. Discount and issuance costs: \"&TEXT(N25/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2026 debt face value: \"&FIXED(N24/1000,1,TRUE)&\"bn. Discount and issuance costs: \"&FIXED(N25/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2026 debt face value: 46.1bn. Discount and issuance costs: 1.1bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 debt face value: \"&TEXT(N24/1000,\"0.0\")&\"bn. Discount and issuance costs: \"&TEXT(N25/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 debt face value: \"&FIXED(N24/1000,1,TRUE)&\"bn. Discount and issuance costs: \"&FIXED(N25/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Filing Notes",
+      "cell": "C78",
+      "oldFormula": "=\"FY2026 finance lease liabilities: \"&TEXT(N12/1000,\"0.0\")&\"bn; operating lease liabilities: \"&TEXT(N15/1000,\"0.0\")&\"bn.\"",
+      "newFormula": "=\"FY2026 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(N15/1000,1,TRUE)&\"bn.\"",
+      "oldValue": "FY2026 finance lease liabilities: 66.6bn; operating lease liabilities: 21.9bn.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 finance lease liabilities: \"&TEXT(N12/1000,\"0.0\")&\"bn; operating lease liabilities: \"&TEXT(N15/1000,\"0.0\")&\"bn.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 finance lease liabilities: \"&FIXED(N12/1000,1,TRUE)&\"bn; operating lease liabilities: \"&FIXED(N15/1000,1,TRUE)&\"bn.\""
+    },
+    {
+      "sheet": "Filing Notes",
+      "cell": "C79",
+      "oldFormula": "=\"FY2026 capital expenditure payables: \"&TEXT(N23/1000,\"0.0\")&\"bn. These are separate from operating payables in the forecast.\"",
+      "newFormula": "=\"FY2026 capital expenditure payables: \"&FIXED(N23/1000,1,TRUE)&\"bn. These are separate from operating payables in the forecast.\"",
+      "oldValue": "FY2026 capital expenditure payables: 26.7bn. These are separate from operating payables in the forecast.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 capital expenditure payables: \"&TEXT(N23/1000,\"0.0\")&\"bn. These are separate from operating payables in the forecast.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"FY2026 capital expenditure payables: \"&FIXED(N23/1000,1,TRUE)&\"bn. These are separate from operating payables in the forecast.\""
+    },
+    {
+      "sheet": "Audit",
+      "cell": "C48",
+      "oldFormula": "=\"Largest absolute forecast balance-sheet difference: \"&TEXT(MAX(MAX(O8:S8),-MIN(O8:S8)),\"0.000000\")&\" USD millions.\"",
+      "newFormula": "=\"Largest absolute forecast balance-sheet difference: \"&FIXED(MAX(MAX(O8:S8),-MIN(O8:S8)),6,TRUE)&\" USD millions.\"",
+      "oldValue": "Largest absolute forecast balance-sheet difference: 0.000000 USD millions.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Largest absolute forecast balance-sheet difference: \"&TEXT(MAX(MAX(O8:S8),-MIN(O8:S8)),\"0.000000\")&\" USD millions.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Largest absolute forecast balance-sheet difference: \"&FIXED(MAX(MAX(O8:S8),-MIN(O8:S8)),6,TRUE)&\" USD millions.\""
+    },
+    {
+      "sheet": "Audit",
+      "cell": "C49",
+      "oldFormula": "=\"Largest absolute forecast ending-cash difference: \"&TEXT(MAX(MAX(O9:S9),-MIN(O9:S9)),\"0.000000\")&\" USD millions.\"",
+      "newFormula": "=\"Largest absolute forecast ending-cash difference: \"&FIXED(MAX(MAX(O9:S9),-MIN(O9:S9)),6,TRUE)&\" USD millions.\"",
+      "oldValue": "Largest absolute forecast ending-cash difference: 0.000000 USD millions.",
+      "oldNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Largest absolute forecast ending-cash difference: \"&TEXT(MAX(MAX(O9:S9),-MIN(O9:S9)),\"0.000000\")&\" USD millions.\"",
+      "newNote": "Live analytical observation. This formula reads the existing statement or schedule and updates with the selected case. =\"Largest absolute forecast ending-cash difference: \"&FIXED(MAX(MAX(O9:S9),-MIN(O9:S9)),6,TRUE)&\" USD millions.\""
+    }
+  ],
+  "textCallsReplaced": 96,
+  "rowPlans": [
+    {
+      "sheet": "Overview",
+      "ranges": [
+        "C4:W95"
+      ],
+      "firstRow": 4,
+      "lastRow": 95
+    },
+    {
+      "sheet": "Equity Research",
+      "ranges": [
+        "C4:W98"
+      ],
+      "firstRow": 4,
+      "lastRow": 98
+    },
+    {
+      "sheet": "Investment Banking",
+      "ranges": [
+        "C4:W98"
+      ],
+      "firstRow": 4,
+      "lastRow": 98
+    },
+    {
+      "sheet": "Private Equity",
+      "ranges": [
+        "C4:W98"
+      ],
+      "firstRow": 4,
+      "lastRow": 98
+    },
+    {
+      "sheet": "FP&A",
+      "ranges": [
+        "C4:W113"
+      ],
+      "firstRow": 4,
+      "lastRow": 113
+    },
+    {
+      "sheet": "Assumptions",
+      "ranges": [
+        "C4:W280"
+      ],
+      "firstRow": 4,
+      "lastRow": 280
+    },
+    {
+      "sheet": "Income Statement",
+      "ranges": [
+        "C4:W114"
+      ],
+      "firstRow": 4,
+      "lastRow": 114
+    },
+    {
+      "sheet": "Balance Sheet",
+      "ranges": [
+        "C4:W127"
+      ],
+      "firstRow": 4,
+      "lastRow": 127
+    },
+    {
+      "sheet": "Cash Flow",
+      "ranges": [
+        "C4:W140"
+      ],
+      "firstRow": 4,
+      "lastRow": 140
+    },
+    {
+      "sheet": "Segments",
+      "ranges": [
+        "C4:W126"
+      ],
+      "firstRow": 4,
+      "lastRow": 126
+    },
+    {
+      "sheet": "Expense Plan",
+      "ranges": [
+        "C4:W103"
+      ],
+      "firstRow": 4,
+      "lastRow": 103
+    },
+    {
+      "sheet": "Working Capital",
+      "ranges": [
+        "C4:W108"
+      ],
+      "firstRow": 4,
+      "lastRow": 108
+    },
+    {
+      "sheet": "PPE and Intangibles",
+      "ranges": [
+        "C4:W113"
+      ],
+      "firstRow": 4,
+      "lastRow": 113
+    },
+    {
+      "sheet": "Debt and Leases",
+      "ranges": [
+        "C4:W167"
+      ],
+      "firstRow": 4,
+      "lastRow": 167
+    },
+    {
+      "sheet": "Tax and Equity",
+      "ranges": [
+        "C4:W115"
+      ],
+      "firstRow": 4,
+      "lastRow": 115
+    },
+    {
+      "sheet": "Data >>",
+      "ranges": [
+        "C4:W95"
+      ],
+      "firstRow": 4,
+      "lastRow": 95
+    },
+    {
+      "sheet": "Historical Inputs",
+      "ranges": [
+        "C4:W175"
+      ],
+      "firstRow": 4,
+      "lastRow": 175
+    },
+    {
+      "sheet": "Filing Notes",
+      "ranges": [
+        "C4:W126"
+      ],
+      "firstRow": 4,
+      "lastRow": 126
+    },
+    {
+      "sheet": "Audit",
+      "ranges": [
+        "C4:W95"
+      ],
+      "firstRow": 4,
+      "lastRow": 95
+    },
+    {
+      "sheet": "Model Guide",
+      "ranges": [
+        "C4:W76"
+      ],
+      "firstRow": 4,
+      "lastRow": 76
+    },
+    {
+      "sheet": "Financial Modeling",
+      "ranges": [
+        "C4:W159"
+      ],
+      "firstRow": 4,
+      "lastRow": 159
+    }
+  ],
+  "previewRanges": [
+    [
+      "Income Statement",
+      "C7:S35",
+      "income_statement"
+    ],
+    [
+      "Working Capital",
+      "C24:S39",
+      "working_capital"
+    ],
+    [
+      "Assumptions",
+      "C105:S112",
+      "assumptions_long_labels"
+    ],
+    [
+      "Financial Modeling",
+      "C11:T21",
+      "regression_table"
+    ],
+    [
+      "Financial Modeling",
+      "C83:T92",
+      "growth_regression_table"
+    ],
+    [
+      "Income Statement",
+      "C53:S56",
+      "income_observations"
+    ],
+    [
+      "Audit",
+      "C47:S50",
+      "audit_observations"
+    ],
+    [
+      "Overview",
+      "C7:H14",
+      "table_overview"
+    ],
+    [
+      "Equity Research",
+      "C7:H14",
+      "table_equity_research"
+    ],
+    [
+      "Investment Banking",
+      "C7:H14",
+      "table_investment_banking"
+    ],
+    [
+      "Private Equity",
+      "C7:H14",
+      "table_private_equity"
+    ],
+    [
+      "FP&A",
+      "C7:H14",
+      "table_fp_a"
+    ],
+    [
+      "Assumptions",
+      "C7:H14",
+      "table_assumptions"
+    ],
+    [
+      "Income Statement",
+      "C7:H14",
+      "table_income_statement"
+    ],
+    [
+      "Balance Sheet",
+      "C7:H14",
+      "table_balance_sheet"
+    ],
+    [
+      "Cash Flow",
+      "C7:H14",
+      "table_cash_flow"
+    ],
+    [
+      "Segments",
+      "C7:H14",
+      "table_segments"
+    ],
+    [
+      "Expense Plan",
+      "C7:H14",
+      "table_expense_plan"
+    ],
+    [
+      "Working Capital",
+      "C7:H14",
+      "table_working_capital"
+    ],
+    [
+      "PPE and Intangibles",
+      "C7:H14",
+      "table_ppe_and_intangibles"
+    ],
+    [
+      "Debt and Leases",
+      "C7:H14",
+      "table_debt_and_leases"
+    ],
+    [
+      "Tax and Equity",
+      "C7:H14",
+      "table_tax_and_equity"
+    ],
+    [
+      "Historical Inputs",
+      "C7:H14",
+      "table_historical_inputs"
+    ],
+    [
+      "Filing Notes",
+      "C7:H14",
+      "table_filing_notes"
+    ],
+    [
+      "Audit",
+      "C7:H14",
+      "table_audit"
+    ],
+    [
+      "Financial Modeling",
+      "C27:H34",
+      "table_financial_modeling"
+    ]
+  ],
+  "sourceSha256": "e22eb2795046110d6b6dc0d85be6f89a7dad0c47cdb45f57faf7a579634764fc"
+}

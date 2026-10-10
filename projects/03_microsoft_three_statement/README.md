@@ -14,6 +14,10 @@ Blue numbers are editable inputs, green working-sheet numbers link to another sh
 
 The revision dated **10 October 2026** adds **35 native charts**, bringing the workbook to **37 charts on 21 worksheets**, **32 expanded analytical panels**, and **8,600 cell Notes**. Hover over a cell with a Note indicator to see definitions, calculation relationships and the exact formula. In current Excel versions these are **Notes**, available under **Review > Notes**. The operating charts and analytical observations follow the existing scenario selector. Historical-only charts retain actual data. Segment charts begin FY2023 on the current segment definition. Chart axes show USD billions while the underlying cells retain USD millions.
 
+The compatibility update on **10 October 2026** replaces `TEXT` format-mask expressions in **52 live observations** with `FIXED` and numeric decimal arguments. This avoids interpreting English decimal and thousands masks when Excel recalculates under another regional setting. The 52 existing hover Notes show the updated formulas. Table rows have a common **24 pt** height on all 21 worksheets; titles and the separate Python code block keep their existing spacing. Financial inputs, statement formulas, regression calculations and the Word report are unchanged.
+
+All 52 observations were recalculated in Base, Upside and Downside, with **165** forecast reconciliation checks. The saved file passes **1,120** independent statement comparisons, common-height checks for **2,558** rows and preservation checks for **10,392** untouched populated cells. A disposable LibreOffice Calc check clears the formula caches before reopening and recalculation. Microsoft desktop Excel is unavailable in the verification environment. See `evidence/excel_compatibility_verification.json`, `evidence/excel_compatibility_scenarios.json` and `evidence/excel_compatibility_feature_verification.json`.
+
 ## Scope and interpretation
 
 The Base case grows revenue to approximately **$648.1 billion** in FY2031. Operating margin falls as the depreciation burden of new infrastructure increases. Free cash flow depends materially on the assumed decline in cash capex intensity. Forecasts are research assumptions, not Microsoft guidance.
@@ -40,6 +44,7 @@ Python 3.10 or later is sufficient for the forecast and saved-workbook checks. T
 ```bash
 python src/model.py --case Base
 python src/verify_workbook.py
+python src/verify_excel_compatibility.py
 ```
 
 `model.py` recalculates **all three cases** every time. `--case` changes only the scenario printed to the terminal. It writes forecast JSON/CSV and validation results. To change Python drivers, edit `data/processed/assumptions.json`.
