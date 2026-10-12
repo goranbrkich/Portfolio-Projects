@@ -1,0 +1,181 @@
+{
+  "reports": [
+    {
+      "report_year": 2017,
+      "used_pdf_pages": [
+        51
+      ],
+      "value_and_label_annotations": 5,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "b963e1a5674c56b1223df6c4f6d66fc677e2141288c935589a1c1a45426c1e5a",
+      "highlighted_sha256": "7cde97c927ce511ff9200233a4f8cbac4549f6780b11da6dd2577a2769bf0ca7"
+    },
+    {
+      "report_year": 2018,
+      "used_pdf_pages": [
+        53,
+        75,
+        87
+      ],
+      "value_and_label_annotations": 168,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "77c61516a168909b62672fb0f06fb197647c68513932feb3813bcf03f75580df",
+      "highlighted_sha256": "c91af891fb792d9069d24f94e9ca7803ab89967aee4be4eb3ab28289369037ea"
+    },
+    {
+      "report_year": 2019,
+      "used_pdf_pages": [
+        51,
+        53,
+        54,
+        72,
+        76,
+        82,
+        83,
+        90
+      ],
+      "value_and_label_annotations": 448,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "988125b50b8b8ee306a07831f4f46b2042bf9261c8fb7152ae5232251bc43fd9",
+      "highlighted_sha256": "480c10c52954729d81141c50b6c65b70404c20ef082c3ba04f6a60a8739ded74"
+    },
+    {
+      "report_year": 2020,
+      "used_pdf_pages": [
+        55,
+        57,
+        58,
+        75,
+        77,
+        83,
+        84,
+        91
+      ],
+      "value_and_label_annotations": 454,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "4e96b8ff8dc97712a167a39db5725a6bb3cab959151e0e5f33831d02c8c12b57",
+      "highlighted_sha256": "08c0e147a136ec9105286db66f44295c6efe99450311ba02d0483bdbbe6370b1"
+    },
+    {
+      "report_year": 2021,
+      "used_pdf_pages": [
+        57,
+        59,
+        60,
+        77,
+        80,
+        86,
+        87,
+        94
+      ],
+      "value_and_label_annotations": 436,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "b54bca858992012d6382106f2af667d8a983ced1e2cb48988720396b809b4a2e",
+      "highlighted_sha256": "da951a68c7d2575b8dd5960623ef37408facf32fa5b98a31ba54e2df88888a6f"
+    },
+    {
+      "report_year": 2022,
+      "used_pdf_pages": [
+        57,
+        59,
+        60,
+        77,
+        80,
+        86,
+        87,
+        94
+      ],
+      "value_and_label_annotations": 424,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "561d30b6cfcb5ef2e673d8ae7d5e4264c432e62b972c94233c3569f9f5395212",
+      "highlighted_sha256": "ebcd3ff054fbf2bf860fa847a0837d7c0209b324eced264bcf600b9c2c3d7a10"
+    },
+    {
+      "report_year": 2023,
+      "used_pdf_pages": [
+        58,
+        60,
+        61,
+        78,
+        80,
+        86,
+        87,
+        94
+      ],
+      "value_and_label_annotations": 442,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "25258c41146af61ca0c7e50ea60b3d85cda56987b9eca3f3f49c4fb5ea111d0a",
+      "highlighted_sha256": "4ae87937e5fb5f636230dc4219383b37c983d3b87a13df874c30c0b222826939"
+    },
+    {
+      "report_year": 2024,
+      "used_pdf_pages": [
+        56,
+        58,
+        59,
+        76,
+        79,
+        85,
+        92
+      ],
+      "value_and_label_annotations": 439,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "0627f4b836ec187868c4bc1b03c58a11cd35fa6815aa0b615be0ad96a5097408",
+      "highlighted_sha256": "32833bda864efb94715242da5191ebea897b0b86c95221354f753c407ddd02c1"
+    },
+    {
+      "report_year": 2025,
+      "used_pdf_pages": [
+        50,
+        52,
+        53,
+        62,
+        69,
+        72,
+        77,
+        78,
+        84
+      ],
+      "value_and_label_annotations": 430,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "1d13a76168650bb5efb42f29c6da81aa673e44217d082357ec0815afc70abf2e",
+      "highlighted_sha256": "c6976e97e20e25ace3c769cdf4b0ff1486852953a6a998f288ba1a3908760eee"
+    },
+    {
+      "report_year": 2026,
+      "used_pdf_pages": [
+        44,
+        50,
+        52,
+        53,
+        62,
+        69,
+        71,
+        72,
+        73,
+        77,
+        78,
+        84
+      ],
+      "value_and_label_annotations": 660,
+      "source_text_and_page_count_preserved": true,
+      "original_sha256": "5e0d85dad7aa97d1146f064f6ebbe3454efe7fcb950d4e9437748bcfc73863ac",
+      "highlighted_sha256": "7ad5c054888de60fef3804ab7bc016249e9851ae34f48ac38feab5674fd19bca"
+    }
+  ],
+  "source_records": 1101,
+  "status_counts": {
+    "reported": 968,
+    "normalized_absence": 58,
+    "calculated_residual": 10,
+    "reported_billion_to_million": 22,
+    "reported_magnitude": 17,
+    "calculated_aggregate": 4,
+    "reported_contractual_schedule": 21,
+    "opening_balance_context": 1
+  },
+  "original_workbook_sha256": "0493dcc89f9d7443bdb4ea23af24e1902eb4d53d70efb6daf5d9dd2558cc14e4",
+  "model_cells_modified": false,
+  "original_report_bytes_preserved": true,
+  "object_stream_compression_preserves_annotations": true
+}

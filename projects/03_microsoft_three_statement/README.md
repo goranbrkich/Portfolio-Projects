@@ -84,6 +84,33 @@ A disposable calculation checked **805 chart-helper values per scenario** in Bas
 
 These regressions describe historical association. Trending levels can overstate fit; the growth specification has only nine observations and a high-leverage fiscal year. HC3 does not correct serial correlation or structural changes. `EXP(fitted ln CFO)` is a fitted conditional median, without a mean-bias correction. The regression does not feed or replace the integrated operating forecast. Word sections 13 and 14 explain the results and reproduction steps.
 
+## Raw reports and source review
+
+The source package added **12 October 2026** contains **10 complete native Form 10-K PDFs**, separate color-highlighted copies and **13 raw HTML/JSON snapshots**. Open `docs/Microsoft_Source_Guide.pdf` for the color legend, report index and examples. `docs/source_crosswalk.csv` contains **1,101** links between model inputs and source evidence. Import the CSV as UTF-8 with a comma delimiter if Excel does not separate the columns automatically.
+
+- `data/raw/reports/originals`: unmodified filing PDFs from Microsoft's linked investor-relations provider.
+- `data/raw/reports/highlighted`: review copies with **3,906** native value/label highlights, margin marks and bookmarks across **72** used pages.
+- `data/raw/source_snapshots`: complete issuer HTML and SEC API responses, dated separately from the frozen model extracts.
+- `data/raw/raw_materials_manifest.json`: source URLs, filing accessions, retrieval times and SHA-256 hashes.
+
+Green identifies income-statement data, blue balance-sheet data, yellow cash-flow data, and purple segment and note disclosures. PDF annotation text includes the source ID, fiscal year, metric, value, unit and Excel cells. The crosswalk identifies sign/magnitude conventions, billion-to-million conversion, normalized missing rows, contractual schedules and calculated cash-flow aggregates or residuals. A normalized zero is not labeled as an explicitly reported company figure. Original PDF page counts and text are retained.
+
+The exact comparative presentation is preserved: FY2017 revenue, for example, comes from the FY2019 filing. FY2016 opening cash is context for the FY2017 cash-flow opening balance. The initially supplied source manifest and frozen selected XBRL facts remain unchanged. The fresh `ar26.html` capture differs in bytes from the original capture, so it has a separate hash record. The PDF links were checked against the workbook's existing input values.
+
+The Excel and Word files are unchanged in this source-document update. Standing requirements for subsequent comparable cases are included in `docs/PROJECT_STANDARDS.md` and the portfolio root `PROJECT_STANDARDS.md` and `AGENTS.md`.
+
+To reproduce the raw materials and annotations from the supplied model:
+
+```bash
+python -m pip install -r requirements.txt
+python src/fetch_raw_materials.py
+python src/annotate_sources.py --plan-only
+python src/annotate_sources.py --resume
+python src/build_source_guide.py
+```
+
+The annotation utility checks each mapped workbook input before editing review copies. It retains evidence conventions and verifies source text and pagination. Review and resolve any `needs_review` record before creating the PDFs. Snapshot downloads do not alter financial data or the model's cutoff.
+
 ## Primary source reproduction
 
 Source extracts are included and the forecast runs offline. Full original annual-report HTML and SEC API responses are retrieved when a complete normalization rerun is needed:
@@ -108,6 +135,14 @@ The downloadable `Microsoft_Three_Statement_Project03.zip` contains the Excel an
 ```bash
 python src/package_project.py --output Microsoft_Three_Statement_Project03.zip
 ```
+
+The complete ZIP remains a single download in Google Drive and the file attachments. GitHub stores it in verified parts because the connected upload service limits request size. The repository's `archive_parts` directory contains the parts and `ARCHIVE_PARTS.json`. To restore the identical complete ZIP after downloading the repository:
+
+```bash
+python src/reassemble_archive.py
+```
+
+The utility validates every part and the combined SHA-256 hash. The individual project files and complete raw source materials are also present directly in the repository. The archive-parts directory is excluded when rebuilding the portable ZIP to avoid including an archive inside itself.
 
 The packaging script excludes Python caches and existing ZIP archives, then verifies the archive CRC and each included file hash. The full original annual-report HTML is retrieved separately with `fetch_sources.py`.
 

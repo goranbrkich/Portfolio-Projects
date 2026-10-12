@@ -1,0 +1,27 @@
+{
+  "archive_file": "Microsoft_Three_Statement_Project03.zip",
+  "archive_size_bytes": 29416816,
+  "archive_sha256": "129835dba061386af87b5a5741438526e8502a3c98dfcf6f7f1e63878a267263",
+  "parts": [
+    {
+      "file": "Microsoft_Three_Statement_Project03.zip.part001",
+      "size_bytes": 8388608,
+      "sha256": "1d9eae84834acbd1eb79c076c3b5f6fa0f4325f35542882ef48e419cb2755bbe"
+    },
+    {
+      "file": "Microsoft_Three_Statement_Project03.zip.part002",
+      "size_bytes": 8388608,
+      "sha256": "f29524852245640acbaba761861775f32c4a608ff192d8898a87ecd54a200e31"
+    },
+    {
+      "file": "Microsoft_Three_Statement_Project03.zip.part003",
+      "size_bytes": 8388608,
+      "sha256": "3c94cc6e26e0426a5cbeaa6f10bde45d2c9378aada7936e3d4ea8f2eeaa4822e"
+    },
+    {
+      "file": "Microsoft_Three_Statement_Project03.zip.part004",
+      "size_bytes": 4250992,
+      "sha256": "a6f5f2e7e6e9bd41a6de4b797c18a7704b9d78b3dc4b4f71aebe2b7a7d1701b7"
+    }
+  ]
+}

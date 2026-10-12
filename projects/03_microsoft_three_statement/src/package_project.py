@@ -21,6 +21,7 @@ def main():
         if path.is_file()
         and not any(part.startswith(".") or part == "__pycache__"
                     for part in path.relative_to(ROOT).parts)
+        and "archive_parts" not in path.relative_to(ROOT).parts
         and path.suffix not in {".pyc", ".zip"}
         and path.name != "PACKAGE_MANIFEST.json"
     )

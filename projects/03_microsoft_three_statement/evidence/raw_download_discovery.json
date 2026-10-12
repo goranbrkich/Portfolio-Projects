@@ -1,0 +1,74 @@
+[
+  {
+    "year": 2016,
+    "download_page": "https://www.microsoft.com/investor/reports/ar16/download-center/index.html",
+    "links": [
+      {
+        "text": "Download",
+        "url": "https://www.microsoft.com/investor/reports/ar16/docs/2016_Annual_Report.docx"
+      },
+      {
+        "text": "Download",
+        "url": "https://www.microsoft.com/investor/reports/ar16/docs/MSFT_FY16Q4_10K.docx"
+      },
+      {
+        "text": "Download",
+        "url": "https://www.microsoft.com/investor/reports/ar16/docs/2016_Shareholder_Letter.docx"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "download_page": "https://www.microsoft.com/investor/reports/ar17/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2018,
+    "download_page": "https://www.microsoft.com/investor/reports/ar18/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2019,
+    "download_page": "https://www.microsoft.com/investor/reports/ar19/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2020,
+    "download_page": "https://www.microsoft.com/investor/reports/ar20/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2021,
+    "download_page": "https://www.microsoft.com/investor/reports/ar21/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2022,
+    "download_page": "https://www.microsoft.com/investor/reports/ar22/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2023,
+    "download_page": "https://www.microsoft.com/investor/reports/ar23/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2024,
+    "download_page": "https://www.microsoft.com/investor/reports/ar24/download-center/index.html",
+    "links": []
+  },
+  {
+    "year": 2025,
+    "download_page": "https://www.microsoft.com/investor/reports/ar25/download-center/index.html",
+    "links": [
+      {
+        "text": "Download",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/2025_AnnualReport.docx"
+      },
+      {
+        "text": "Download",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/2025_Shareholder_Letter.docx"
+      }
+    ]
+  }
+]

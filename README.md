@@ -21,6 +21,8 @@ Use real primary datasets from leading American or European companies. Russian c
 
 Deliverables are in English; collaboration and explanations to the owner are in Russian. Every project must have a portable archive suitable for Google Drive or Yandex Drive. Before each new project, ask five substantive scoping questions and recommend relevant plugins.
 
+Standing requirements for future similar projects are recorded in [PROJECT_STANDARDS.md](PROJECT_STANDARDS.md): uniform 24 pt table rows, explanatory charts and expanded analysis, native hover Notes, and complete raw materials with separate color-highlighted PDFs and a cell-to-source crosswalk. [AGENTS.md](AGENTS.md) makes these requirements part of the repository workflow.
+
 ## Scope decisions
 
 - Projects 02 and 25 are separate DCF cases on two different companies in adjacent industries.
