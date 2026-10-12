@@ -4,7 +4,9 @@ A portfolio of financial, investment and technical work for employment and gradu
 
 ## Current project
 
-[03 Microsoft Three Statement Model](projects/03_microsoft_three_statement/README.md) — in progress.
+**02 DCF and Reverse DCF Model** — scope being defined.
+
+Completed: [03 Microsoft Three Statement Model](projects/03_microsoft_three_statement/README.md).
 
 The agreed historical period is **FY2017–FY2026**, exactly ten fiscal years, with forecasts for FY2027–FY2031. FY2016 is an opening-balance reference only.
 
@@ -36,8 +38,8 @@ Standing requirements for future similar projects are recorded in [PROJECT_STAND
 | No. | Project | Status |
 |---:|---|---|
 | 01 | Equity Research Initiation with a Variant View | Planned |
-| 02 | DCF and Reverse DCF Model | Planned |
-| 03 | Three Statement Model from Primary Filings | In progress |
+| 02 | DCF and Reverse DCF Model | Scoping |
+| 03 | Three Statement Model from Primary Filings | Completed |
 | 04 | Systematic Strategy Backtest | Planned |
 | 05 | LBO Model Builder | Planned |
 | 06 | PE Deal Screener | Planned |
