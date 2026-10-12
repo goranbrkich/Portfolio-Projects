@@ -1,0 +1,2049 @@
+{
+  "cells": [
+    {
+      "sheet": "Market Inputs",
+      "cell": "E9",
+      "key": [
+        "market",
+        "price"
+      ]
+    },
+    {
+      "sheet": "Market Inputs",
+      "cell": "E10",
+      "key": [
+        "market",
+        "riskfree"
+      ]
+    },
+    {
+      "sheet": "Market Inputs",
+      "cell": "E11",
+      "key": [
+        "controls",
+        "point_shares"
+      ]
+    },
+    {
+      "sheet": "Market Inputs",
+      "cell": "E12",
+      "key": [
+        "market",
+        "erp"
+      ]
+    },
+    {
+      "sheet": "Market Inputs",
+      "cell": "E13",
+      "key": [
+        "market",
+        "debt_spread"
+      ]
+    },
+    {
+      "sheet": "Market Inputs",
+      "cell": "E14",
+      "key": [
+        "controls",
+        "debt_fair_value"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N35",
+      "key": [
+        "controls",
+        "finance_lease_liability"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N21",
+      "key": [
+        "controls",
+        "equity_investments"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N9",
+      "key": [
+        "historical_inputs",
+        "revenue"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N10",
+      "key": [
+        "historical_inputs",
+        "operating_income"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N11",
+      "key": [
+        "historical_inputs",
+        "income_tax"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N12",
+      "key": [
+        "historical_inputs",
+        "pretax_income"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N13",
+      "key": [
+        "historical_inputs",
+        "shares_basic"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N14",
+      "key": [
+        "historical_inputs",
+        "shares_diluted"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N15",
+      "key": [
+        "historical_inputs",
+        "da_other"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N16",
+      "key": [
+        "historical_inputs",
+        "cfo"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N17",
+      "key": [
+        "historical_inputs",
+        "capex"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N18",
+      "key": [
+        "historical_inputs",
+        "sbc"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N19",
+      "key": [
+        "historical_inputs",
+        "cash"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N20",
+      "key": [
+        "historical_inputs",
+        "st_investments"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N21",
+      "key": [
+        "historical_inputs",
+        "equity_investments"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N22",
+      "key": [
+        "historical_inputs",
+        "receivables"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N23",
+      "key": [
+        "historical_inputs",
+        "inventory"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N24",
+      "key": [
+        "historical_inputs",
+        "other_current_assets"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N25",
+      "key": [
+        "historical_inputs",
+        "payables"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N26",
+      "key": [
+        "historical_inputs",
+        "compensation"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N27",
+      "key": [
+        "historical_inputs",
+        "current_deferred_rev"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N28",
+      "key": [
+        "historical_inputs",
+        "other_current_liab"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N29",
+      "key": [
+        "historical_inputs",
+        "current_debt"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N30",
+      "key": [
+        "historical_inputs",
+        "st_debt"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N31",
+      "key": [
+        "historical_inputs",
+        "long_debt"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N32",
+      "key": [
+        "historical_inputs",
+        "ppe"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N33",
+      "key": [
+        "historical_inputs",
+        "ppe_depreciation"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N34",
+      "key": [
+        "historical_inputs",
+        "intangible_amortization"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N35",
+      "key": [
+        "historical_inputs",
+        "finance_lease_liab"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N36",
+      "key": [
+        "historical_inputs",
+        "finance_lease_additions"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N37",
+      "key": [
+        "historical_inputs",
+        "finance_lease_principal"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N38",
+      "key": [
+        "historical_inputs",
+        "capex_payables"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N39",
+      "key": [
+        "historical_inputs",
+        "op_lease_current"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N40",
+      "key": [
+        "historical_inputs",
+        "finance_lease_current"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N41",
+      "key": [
+        "historical_inputs",
+        "operating_lease_liab"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N42",
+      "key": [
+        "historical_inputs",
+        "operating_lease_cost"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N43",
+      "key": [
+        "historical_inputs",
+        "debt_face"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N44",
+      "key": [
+        "historical_inputs",
+        "interest_expense"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N45",
+      "key": [
+        "historical_inputs",
+        "land"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N46",
+      "key": [
+        "historical_inputs",
+        "pbp_revenue"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N47",
+      "key": [
+        "historical_inputs",
+        "ic_revenue"
+      ]
+    },
+    {
+      "sheet": "Historical Inputs",
+      "cell": "N48",
+      "key": [
+        "historical_inputs",
+        "mpc_revenue"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E8",
+      "key": [
+        "controls",
+        "timing_mode"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E9",
+      "key": [
+        "controls",
+        "beta_mode"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E10",
+      "key": [
+        "controls",
+        "manual_beta"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E11",
+      "key": [
+        "controls",
+        "incremental_share_proxy"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E12",
+      "key": [
+        "controls",
+        "operating_cash_reserve"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E13",
+      "key": [
+        "controls",
+        "investment_haircut_factor"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E14",
+      "key": [
+        "controls",
+        "marginal_tax"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E15",
+      "key": [
+        "controls",
+        "terminal_tax"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E16",
+      "key": [
+        "controls",
+        "wacc_override"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E23",
+      "key": [
+        "cases",
+        "Base",
+        "pbp_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F23",
+      "key": [
+        "cases",
+        "Base",
+        "pbp_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G23",
+      "key": [
+        "cases",
+        "Base",
+        "pbp_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H23",
+      "key": [
+        "cases",
+        "Base",
+        "pbp_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I23",
+      "key": [
+        "cases",
+        "Base",
+        "pbp_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E24",
+      "key": [
+        "cases",
+        "Upside",
+        "pbp_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F24",
+      "key": [
+        "cases",
+        "Upside",
+        "pbp_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G24",
+      "key": [
+        "cases",
+        "Upside",
+        "pbp_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H24",
+      "key": [
+        "cases",
+        "Upside",
+        "pbp_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I24",
+      "key": [
+        "cases",
+        "Upside",
+        "pbp_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E25",
+      "key": [
+        "cases",
+        "Downside",
+        "pbp_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F25",
+      "key": [
+        "cases",
+        "Downside",
+        "pbp_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G25",
+      "key": [
+        "cases",
+        "Downside",
+        "pbp_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H25",
+      "key": [
+        "cases",
+        "Downside",
+        "pbp_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I25",
+      "key": [
+        "cases",
+        "Downside",
+        "pbp_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E28",
+      "key": [
+        "cases",
+        "Base",
+        "ic_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F28",
+      "key": [
+        "cases",
+        "Base",
+        "ic_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G28",
+      "key": [
+        "cases",
+        "Base",
+        "ic_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H28",
+      "key": [
+        "cases",
+        "Base",
+        "ic_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I28",
+      "key": [
+        "cases",
+        "Base",
+        "ic_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E29",
+      "key": [
+        "cases",
+        "Upside",
+        "ic_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F29",
+      "key": [
+        "cases",
+        "Upside",
+        "ic_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G29",
+      "key": [
+        "cases",
+        "Upside",
+        "ic_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H29",
+      "key": [
+        "cases",
+        "Upside",
+        "ic_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I29",
+      "key": [
+        "cases",
+        "Upside",
+        "ic_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E30",
+      "key": [
+        "cases",
+        "Downside",
+        "ic_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F30",
+      "key": [
+        "cases",
+        "Downside",
+        "ic_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G30",
+      "key": [
+        "cases",
+        "Downside",
+        "ic_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H30",
+      "key": [
+        "cases",
+        "Downside",
+        "ic_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I30",
+      "key": [
+        "cases",
+        "Downside",
+        "ic_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E33",
+      "key": [
+        "cases",
+        "Base",
+        "mpc_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F33",
+      "key": [
+        "cases",
+        "Base",
+        "mpc_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G33",
+      "key": [
+        "cases",
+        "Base",
+        "mpc_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H33",
+      "key": [
+        "cases",
+        "Base",
+        "mpc_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I33",
+      "key": [
+        "cases",
+        "Base",
+        "mpc_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E34",
+      "key": [
+        "cases",
+        "Upside",
+        "mpc_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F34",
+      "key": [
+        "cases",
+        "Upside",
+        "mpc_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G34",
+      "key": [
+        "cases",
+        "Upside",
+        "mpc_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H34",
+      "key": [
+        "cases",
+        "Upside",
+        "mpc_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I34",
+      "key": [
+        "cases",
+        "Upside",
+        "mpc_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E35",
+      "key": [
+        "cases",
+        "Downside",
+        "mpc_growth",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F35",
+      "key": [
+        "cases",
+        "Downside",
+        "mpc_growth",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G35",
+      "key": [
+        "cases",
+        "Downside",
+        "mpc_growth",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H35",
+      "key": [
+        "cases",
+        "Downside",
+        "mpc_growth",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I35",
+      "key": [
+        "cases",
+        "Downside",
+        "mpc_growth",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E38",
+      "key": [
+        "cases",
+        "Base",
+        "ebit_margin",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F38",
+      "key": [
+        "cases",
+        "Base",
+        "ebit_margin",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G38",
+      "key": [
+        "cases",
+        "Base",
+        "ebit_margin",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H38",
+      "key": [
+        "cases",
+        "Base",
+        "ebit_margin",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I38",
+      "key": [
+        "cases",
+        "Base",
+        "ebit_margin",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E39",
+      "key": [
+        "cases",
+        "Upside",
+        "ebit_margin",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F39",
+      "key": [
+        "cases",
+        "Upside",
+        "ebit_margin",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G39",
+      "key": [
+        "cases",
+        "Upside",
+        "ebit_margin",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H39",
+      "key": [
+        "cases",
+        "Upside",
+        "ebit_margin",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I39",
+      "key": [
+        "cases",
+        "Upside",
+        "ebit_margin",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E40",
+      "key": [
+        "cases",
+        "Downside",
+        "ebit_margin",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F40",
+      "key": [
+        "cases",
+        "Downside",
+        "ebit_margin",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G40",
+      "key": [
+        "cases",
+        "Downside",
+        "ebit_margin",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H40",
+      "key": [
+        "cases",
+        "Downside",
+        "ebit_margin",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I40",
+      "key": [
+        "cases",
+        "Downside",
+        "ebit_margin",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E43",
+      "key": [
+        "cases",
+        "Base",
+        "tax_rate",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F43",
+      "key": [
+        "cases",
+        "Base",
+        "tax_rate",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G43",
+      "key": [
+        "cases",
+        "Base",
+        "tax_rate",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H43",
+      "key": [
+        "cases",
+        "Base",
+        "tax_rate",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I43",
+      "key": [
+        "cases",
+        "Base",
+        "tax_rate",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E44",
+      "key": [
+        "cases",
+        "Upside",
+        "tax_rate",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F44",
+      "key": [
+        "cases",
+        "Upside",
+        "tax_rate",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G44",
+      "key": [
+        "cases",
+        "Upside",
+        "tax_rate",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H44",
+      "key": [
+        "cases",
+        "Upside",
+        "tax_rate",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I44",
+      "key": [
+        "cases",
+        "Upside",
+        "tax_rate",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E45",
+      "key": [
+        "cases",
+        "Downside",
+        "tax_rate",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F45",
+      "key": [
+        "cases",
+        "Downside",
+        "tax_rate",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G45",
+      "key": [
+        "cases",
+        "Downside",
+        "tax_rate",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H45",
+      "key": [
+        "cases",
+        "Downside",
+        "tax_rate",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I45",
+      "key": [
+        "cases",
+        "Downside",
+        "tax_rate",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E48",
+      "key": [
+        "cases",
+        "Base",
+        "da_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F48",
+      "key": [
+        "cases",
+        "Base",
+        "da_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G48",
+      "key": [
+        "cases",
+        "Base",
+        "da_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H48",
+      "key": [
+        "cases",
+        "Base",
+        "da_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I48",
+      "key": [
+        "cases",
+        "Base",
+        "da_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E49",
+      "key": [
+        "cases",
+        "Upside",
+        "da_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F49",
+      "key": [
+        "cases",
+        "Upside",
+        "da_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G49",
+      "key": [
+        "cases",
+        "Upside",
+        "da_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H49",
+      "key": [
+        "cases",
+        "Upside",
+        "da_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I49",
+      "key": [
+        "cases",
+        "Upside",
+        "da_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E50",
+      "key": [
+        "cases",
+        "Downside",
+        "da_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F50",
+      "key": [
+        "cases",
+        "Downside",
+        "da_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G50",
+      "key": [
+        "cases",
+        "Downside",
+        "da_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H50",
+      "key": [
+        "cases",
+        "Downside",
+        "da_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I50",
+      "key": [
+        "cases",
+        "Downside",
+        "da_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E53",
+      "key": [
+        "cases",
+        "Base",
+        "cash_capex_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F53",
+      "key": [
+        "cases",
+        "Base",
+        "cash_capex_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G53",
+      "key": [
+        "cases",
+        "Base",
+        "cash_capex_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H53",
+      "key": [
+        "cases",
+        "Base",
+        "cash_capex_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I53",
+      "key": [
+        "cases",
+        "Base",
+        "cash_capex_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E54",
+      "key": [
+        "cases",
+        "Upside",
+        "cash_capex_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F54",
+      "key": [
+        "cases",
+        "Upside",
+        "cash_capex_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G54",
+      "key": [
+        "cases",
+        "Upside",
+        "cash_capex_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H54",
+      "key": [
+        "cases",
+        "Upside",
+        "cash_capex_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I54",
+      "key": [
+        "cases",
+        "Upside",
+        "cash_capex_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E55",
+      "key": [
+        "cases",
+        "Downside",
+        "cash_capex_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F55",
+      "key": [
+        "cases",
+        "Downside",
+        "cash_capex_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G55",
+      "key": [
+        "cases",
+        "Downside",
+        "cash_capex_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H55",
+      "key": [
+        "cases",
+        "Downside",
+        "cash_capex_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I55",
+      "key": [
+        "cases",
+        "Downside",
+        "cash_capex_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E58",
+      "key": [
+        "cases",
+        "Base",
+        "capitalized_interest_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F58",
+      "key": [
+        "cases",
+        "Base",
+        "capitalized_interest_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G58",
+      "key": [
+        "cases",
+        "Base",
+        "capitalized_interest_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H58",
+      "key": [
+        "cases",
+        "Base",
+        "capitalized_interest_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I58",
+      "key": [
+        "cases",
+        "Base",
+        "capitalized_interest_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E59",
+      "key": [
+        "cases",
+        "Upside",
+        "capitalized_interest_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F59",
+      "key": [
+        "cases",
+        "Upside",
+        "capitalized_interest_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G59",
+      "key": [
+        "cases",
+        "Upside",
+        "capitalized_interest_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H59",
+      "key": [
+        "cases",
+        "Upside",
+        "capitalized_interest_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I59",
+      "key": [
+        "cases",
+        "Upside",
+        "capitalized_interest_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E60",
+      "key": [
+        "cases",
+        "Downside",
+        "capitalized_interest_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F60",
+      "key": [
+        "cases",
+        "Downside",
+        "capitalized_interest_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G60",
+      "key": [
+        "cases",
+        "Downside",
+        "capitalized_interest_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H60",
+      "key": [
+        "cases",
+        "Downside",
+        "capitalized_interest_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I60",
+      "key": [
+        "cases",
+        "Downside",
+        "capitalized_interest_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E63",
+      "key": [
+        "cases",
+        "Base",
+        "finance_lease_add_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F63",
+      "key": [
+        "cases",
+        "Base",
+        "finance_lease_add_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G63",
+      "key": [
+        "cases",
+        "Base",
+        "finance_lease_add_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H63",
+      "key": [
+        "cases",
+        "Base",
+        "finance_lease_add_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I63",
+      "key": [
+        "cases",
+        "Base",
+        "finance_lease_add_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E64",
+      "key": [
+        "cases",
+        "Upside",
+        "finance_lease_add_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F64",
+      "key": [
+        "cases",
+        "Upside",
+        "finance_lease_add_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G64",
+      "key": [
+        "cases",
+        "Upside",
+        "finance_lease_add_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H64",
+      "key": [
+        "cases",
+        "Upside",
+        "finance_lease_add_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I64",
+      "key": [
+        "cases",
+        "Upside",
+        "finance_lease_add_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E65",
+      "key": [
+        "cases",
+        "Downside",
+        "finance_lease_add_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F65",
+      "key": [
+        "cases",
+        "Downside",
+        "finance_lease_add_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G65",
+      "key": [
+        "cases",
+        "Downside",
+        "finance_lease_add_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H65",
+      "key": [
+        "cases",
+        "Downside",
+        "finance_lease_add_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I65",
+      "key": [
+        "cases",
+        "Downside",
+        "finance_lease_add_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E68",
+      "key": [
+        "cases",
+        "Base",
+        "nwc_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F68",
+      "key": [
+        "cases",
+        "Base",
+        "nwc_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G68",
+      "key": [
+        "cases",
+        "Base",
+        "nwc_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H68",
+      "key": [
+        "cases",
+        "Base",
+        "nwc_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I68",
+      "key": [
+        "cases",
+        "Base",
+        "nwc_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E69",
+      "key": [
+        "cases",
+        "Upside",
+        "nwc_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F69",
+      "key": [
+        "cases",
+        "Upside",
+        "nwc_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G69",
+      "key": [
+        "cases",
+        "Upside",
+        "nwc_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H69",
+      "key": [
+        "cases",
+        "Upside",
+        "nwc_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I69",
+      "key": [
+        "cases",
+        "Upside",
+        "nwc_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E70",
+      "key": [
+        "cases",
+        "Downside",
+        "nwc_ratio",
+        "0"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "F70",
+      "key": [
+        "cases",
+        "Downside",
+        "nwc_ratio",
+        "1"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "G70",
+      "key": [
+        "cases",
+        "Downside",
+        "nwc_ratio",
+        "2"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "H70",
+      "key": [
+        "cases",
+        "Downside",
+        "nwc_ratio",
+        "3"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "I70",
+      "key": [
+        "cases",
+        "Downside",
+        "nwc_ratio",
+        "4"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E75",
+      "key": [
+        "cases",
+        "Base",
+        "terminal_growth"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E76",
+      "key": [
+        "cases",
+        "Upside",
+        "terminal_growth"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E77",
+      "key": [
+        "cases",
+        "Downside",
+        "terminal_growth"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E80",
+      "key": [
+        "cases",
+        "Base",
+        "terminal_roic"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E81",
+      "key": [
+        "cases",
+        "Upside",
+        "terminal_roic"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E82",
+      "key": [
+        "cases",
+        "Downside",
+        "terminal_roic"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E85",
+      "key": [
+        "cases",
+        "Base",
+        "terminal_margin"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E86",
+      "key": [
+        "cases",
+        "Upside",
+        "terminal_margin"
+      ]
+    },
+    {
+      "sheet": "Assumptions",
+      "cell": "E87",
+      "key": [
+        "cases",
+        "Downside",
+        "terminal_margin"
+      ]
+    },
+    {
+      "sheet": "DCF",
+      "cell": "E5",
+      "key": [
+        "controls",
+        "case_number"
+      ]
+    }
+  ]
+}

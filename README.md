@@ -4,7 +4,9 @@ A portfolio of financial, investment and technical work for employment and gradu
 
 ## Current project
 
-**02 DCF and Reverse DCF Model** — scope being defined.
+**02 Microsoft DCF and Reverse DCF Model** — completed.
+
+[Open project 02](projects/02_microsoft_dcf/README.md). Valuation cutoff 8 October 2026, forecasts FY2027–FY2031, formula-based Excel and copyable Python.
 
 Completed: [03 Microsoft Three Statement Model](projects/03_microsoft_three_statement/README.md).
 
@@ -38,7 +40,7 @@ Standing requirements for future similar projects are recorded in [PROJECT_STAND
 | No. | Project | Status |
 |---:|---|---|
 | 01 | Equity Research Initiation with a Variant View | Planned |
-| 02 | DCF and Reverse DCF Model | Scoping |
+| 02 | DCF and Reverse DCF Model | Completed |
 | 03 | Three Statement Model from Primary Filings | Completed |
 | 04 | Systematic Strategy Backtest | Planned |
 | 05 | LBO Model Builder | Planned |
@@ -82,3 +84,4 @@ Standing requirements for future similar projects are recorded in [PROJECT_STAND
 | 43 | Credit Analyst Case | Scope to be agreed |
 | 44 | Risk and Compliance Analyst Case | Scope to be agreed |
 | 45 | Structured Finance Analyst Case | Scope to be agreed |
+

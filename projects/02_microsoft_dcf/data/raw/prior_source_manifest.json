@@ -1,0 +1,110 @@
+{
+  "information_cutoff": "2026-10-08",
+  "company": "Microsoft Corporation",
+  "sources": [
+    {
+      "file": "companyfacts.json",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
+      "bytes": 4881196,
+      "sha256": "f8aae2965b20ad0df44bdf7ccbedf797d275b6b8dc030154a7a311361bb7246f",
+      "retrieved_at": "2026-10-08T13:14:19.982886+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "submissions.json",
+      "url": "https://data.sec.gov/submissions/CIK0000789019.json",
+      "bytes": 185250,
+      "sha256": "2484a2a3b5677d892a1b25af573ce4eda7b6f449f5eda41bac6b3f106dc3139c",
+      "retrieved_at": "2026-10-08T13:14:24.935952+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar26.html",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "bytes": 8585610,
+      "sha256": "ace2aa8408b1e40c239fc5b222ce8e1b93acbfead28d0c86c4bb69f79b08eda7",
+      "retrieved_at": "2026-10-08T13:14:19.990765+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar16.html",
+      "url": "https://www.microsoft.com/investor/reports/ar16/index.html",
+      "bytes": 796344,
+      "sha256": "b88080e109816f78186c8d6eec7034546086d5e14722afe80f9514bf43b1c7a9",
+      "retrieved_at": "2026-10-08T13:14:28.658949+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar17.html",
+      "url": "https://www.microsoft.com/investor/reports/ar17/index.html",
+      "bytes": 761880,
+      "sha256": "59103b8e7b23f0549b282c6d16572afc95ce5705352f0361de8e1983c4d09ce0",
+      "retrieved_at": "2026-10-08T13:14:28.575514+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar18.html",
+      "url": "https://www.microsoft.com/investor/reports/ar18/index.html",
+      "bytes": 754504,
+      "sha256": "f87bdac0d22dbe6118b27b71336828c4c65d3ee943ae90b26ce4be9bc58d3065",
+      "retrieved_at": "2026-10-08T13:14:28.722092+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar19.html",
+      "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+      "bytes": 732858,
+      "sha256": "8e095dabef9ee77b5f35d2ccf53e391b38eec3776c8d7d2805223c8c73ef6fc3",
+      "retrieved_at": "2026-10-08T13:14:28.565373+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar20.html",
+      "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+      "bytes": 494373,
+      "sha256": "b939782ac1746c2400ef35fe2cb8660de3a75231bc8e263f735fe04196741eaa",
+      "retrieved_at": "2026-10-08T13:14:35.923615+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar21.html",
+      "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+      "bytes": 486756,
+      "sha256": "1b6db1bd35aa5c5f6fb5867fb525a951d04844fa49f726af354b70e02b026e2a",
+      "retrieved_at": "2026-10-08T13:14:36.036281+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar22.html",
+      "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+      "bytes": 654921,
+      "sha256": "929b24a9bf4faaa417610223e13b1e72ac28976faec016f7f307425e829491f2",
+      "retrieved_at": "2026-10-08T13:14:35.989487+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar23.html",
+      "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+      "bytes": 486646,
+      "sha256": "5a136f3681efc2136e99ce39add47bc0ae21623b36924ef9e86c9436e8647b2f",
+      "retrieved_at": "2026-10-08T13:14:36.206180+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar24.html",
+      "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+      "bytes": 486883,
+      "sha256": "2b49e38b25f3bea8634b603ad5db64ba0803f27e27f93cc406884e6990974065",
+      "retrieved_at": "2026-10-08T13:14:44.194577+00:00",
+      "source_type": "primary filing"
+    },
+    {
+      "file": "ar25.html",
+      "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "bytes": 601259,
+      "sha256": "564154a15ac28c0f7f72f304ae26b74c29cfca9f3eafe8d59595776769d621ca",
+      "retrieved_at": "2026-10-08T13:14:35.990237+00:00",
+      "source_type": "primary filing"
+    }
+  ]
+}

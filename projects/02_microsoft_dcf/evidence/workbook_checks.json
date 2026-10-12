@@ -1,0 +1,380 @@
+{
+  "values": {
+    "DCF": [
+      [
+        1
+      ],
+      [
+        0.09814036929102632
+      ],
+      [
+        0.03
+      ],
+      [
+        null
+      ],
+      [
+        1
+      ],
+      [
+        "FY:27"
+      ],
+      [
+        46199.5314984688
+      ],
+      [
+        0.726027397260274
+      ],
+      [
+        0.363013698630137
+      ],
+      [
+        1.0345687572786528
+      ],
+      [
+        32421.359501235205
+      ],
+      [
+        null
+      ],
+      [
+        null
+      ],
+      [
+        436118.6238862739
+      ],
+      [
+        4.726027397260274
+      ],
+      [
+        1.5565036621629422
+      ],
+      [
+        181573.69942244413
+      ],
+      [
+        2664700.8419773313
+      ],
+      [
+        1711978.523888868
+      ],
+      [
+        2148097.147775142
+      ],
+      [
+        -14903
+      ],
+      [
+        2133194.147775142
+      ],
+      [
+        7449.545491
+      ],
+      [
+        286.35225469155296
+      ],
+      [
+        522.61
+      ],
+      [
+        -0.4520727603919692
+      ],
+      [
+        0.7969744411522649
+      ],
+      [
+        3908109.96905151
+      ]
+    ],
+    "Beta HC3": [
+      [
+        1255
+      ],
+      [
+        0.0005639476176604394
+      ],
+      [
+        0.0006451581414629308
+      ],
+      [
+        0.1462320736571288
+      ],
+      [
+        1.127811734110487
+      ],
+      [
+        0.000009131400841832821
+      ],
+      [
+        0.20847796740613705
+      ],
+      [
+        0.3944792145635782
+      ],
+      [
+        0.4715108940865713
+      ],
+      [
+        1253
+      ],
+      [
+        0.0337313115043708
+      ],
+      [
+        0.039593033765066295
+      ],
+      [
+        0.0003631734194680229
+      ],
+      [
+        4.18243790142492e-7
+      ],
+      [
+        -1.6460705684648895
+      ],
+      [
+        1.1929846617073991
+      ],
+      [
+        1.0626388065135748
+      ],
+      [
+        1.0852078227403246
+      ],
+      [
+        2.006555808138616
+      ],
+      [
+        0.9340360493820792
+      ],
+      [
+        null
+      ],
+      [
+        0.050192817381092394
+      ]
+    ],
+    "Audit": [
+      [
+        "Check",
+        "Residual or observation",
+        "Status"
+      ],
+      [
+        "Actual segment sum",
+        0,
+        "PASS"
+      ],
+      [
+        "Enterprise to equity",
+        0,
+        "PASS"
+      ],
+      [
+        "Native WACC/g centre",
+        0,
+        "PASS"
+      ],
+      [
+        "Base native scenario to independent Python",
+        6.821210263296962e-13,
+        "PASS"
+      ],
+      [
+        "Upside native scenario to independent Python",
+        1.0231815394945443e-12,
+        "PASS"
+      ],
+      [
+        "Downside native scenario to independent Python",
+        3.410605131648481e-13,
+        "PASS"
+      ],
+      [
+        "OLS beta to independent NumPy",
+        -3.552713678800501e-15,
+        "PASS"
+      ],
+      [
+        "HC3 beta standard error to independent NumPy",
+        -1.5959455978986625e-16,
+        "PASS"
+      ],
+      [
+        "HAC beta standard error to independent NumPy",
+        -3.3306690738754696e-16,
+        "PASS"
+      ],
+      [
+        "Reverse growth residual",
+        -4.6566128730773926e-9,
+        "PASS"
+      ],
+      [
+        "Reverse WACC residual",
+        -8.102506399154663e-8,
+        "PASS"
+      ],
+      [
+        "Reverse stable growth residual",
+        0,
+        "PASS"
+      ],
+      [
+        "Reverse margin residual",
+        0,
+        "PASS"
+      ],
+      [
+        "Reverse cash capex residual",
+        0,
+        "PASS"
+      ],
+      [
+        "Reverse NWC residual",
+        0,
+        "PASS"
+      ],
+      [
+        "Reverse tax residual",
+        0,
+        "PASS"
+      ],
+      [
+        "Reverse lease residual",
+        0,
+        "PASS"
+      ],
+      [
+        "MC first draw to independent Python",
+        4.547473508864641e-13,
+        "PASS"
+      ],
+      [
+        "MC median to independent Python",
+        3.410605131648481e-13,
+        "PASS"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "Reported source records",
+        null,
+        344
+      ],
+      [
+        "Unavailable prior disclosures",
+        null,
+        51
+      ],
+      [
+        "Valid terminal economics",
+        null,
+        "PASS"
+      ],
+      [
+        "Model data last observation",
+        null,
+        "2026-10-08T00:00:00.000Z"
+      ]
+    ],
+    "Overview": [
+      [
+        "Observed MSFT close",
+        null,
+        522.61
+      ],
+      [
+        "Selected DCF value",
+        null,
+        286.35225469155296
+      ],
+      [
+        "Conditional value / close minus one",
+        null,
+        -0.4520727603919692
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "Selected cost of capital",
+        null,
+        0.09814036929102632
+      ],
+      [
+        "Stable growth",
+        null,
+        0.03
+      ],
+      [
+        "Stable ROIC",
+        null,
+        0.2
+      ],
+      [
+        "Stable share of enterprise value",
+        null,
+        0.7969744411522649
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "Required uniform five year revenue CAGR",
+        null,
+        0.29776359901443183
+      ],
+      [
+        "Required WACC at other base inputs",
+        null,
+        0.06860366329986324
+      ],
+      [
+        "Required stable growth",
+        null,
+        0.07176903297964167
+      ]
+    ],
+    "Monte Carlo": [
+      [
+        224.1506158372279
+      ],
+      [
+        258.6831653045649
+      ],
+      [
+        283.91610118358716
+      ],
+      [
+        312.7493791508626
+      ],
+      [
+        362.827429582768
+      ],
+      [
+        0
+      ]
+    ]
+  },
+  "formula_errors": [],
+  "notes": 3371,
+  "worksheet_count": 34
+}

@@ -1,0 +1,27 @@
+{
+  "archive_name": "Microsoft_DCF_ReverseDCF_Project02.zip",
+  "archive_bytes": 31328449,
+  "archive_sha256": "77280b4d603794486f1d82e49f210b215551c9ae78becd8885b577f5c5b54206",
+  "parts": [
+    {
+      "name": "Microsoft_DCF_ReverseDCF_Project02.zip.part001",
+      "bytes": 8388608,
+      "sha256": "008359b1368e5d7d0f94167d93e128de7a41060d824d0cfd9893a26b282582bf"
+    },
+    {
+      "name": "Microsoft_DCF_ReverseDCF_Project02.zip.part002",
+      "bytes": 8388608,
+      "sha256": "ebebd447612c1d1f23d0b8a0bf7263cd20e88f7a16d89d98fd50b710773c4af8"
+    },
+    {
+      "name": "Microsoft_DCF_ReverseDCF_Project02.zip.part003",
+      "bytes": 8388608,
+      "sha256": "a02eef95d724754dac0faa9265008514b9a71a61b551bd9c9a7cb9766091754d"
+    },
+    {
+      "name": "Microsoft_DCF_ReverseDCF_Project02.zip.part004",
+      "bytes": 6162625,
+      "sha256": "bab0be13bf79e8de581fe8ce480353415b6f1e04c58fa1fba7502298fb853915"
+    }
+  ]
+}

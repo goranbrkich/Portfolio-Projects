@@ -1,0 +1,250 @@
+{
+  "information_cutoff": "2026-10-08",
+  "files": [
+    {
+      "path": "data/raw/market/ERPOct26.xlsx",
+      "sha256": "54c311b7908d9d91ee04810ce29a0d6dffe82d73a90ebe17352510091db72f0b",
+      "bytes": 1509431
+    },
+    {
+      "path": "data/raw/market/ERPbymonth.xlsx",
+      "sha256": "56605b608bad9fb49b24206954b3b38eedb364ebee0cc2663e5020e28449cc9f",
+      "bytes": 47530
+    },
+    {
+      "path": "data/raw/market/damodaran_home.html",
+      "sha256": "755ad4d972431c7852bc0a723630d86cbfc84b14febb259858d1938458c0e0c7",
+      "bytes": 17069
+    },
+    {
+      "path": "data/raw/market/damodaran_ratings_jan2026.html",
+      "sha256": "71d5dba40bd0659b7d6fe6f0e2d25036442d66b3c5e309480d0c9b48b2c3ba63",
+      "bytes": 49398
+    },
+    {
+      "path": "data/raw/market/hc3_method.html",
+      "sha256": "2708796b332c9e3ea386d05e5f9929416ddb10d06ede8e1743a352db72bc50b2",
+      "bytes": 47782
+    },
+    {
+      "path": "data/raw/market/market_source_manifest.json",
+      "sha256": "7fff7209f846707b073079bd86b8f9c52d964a0bc0f11f2ee2c436ae60a6e6ca",
+      "bytes": 4623
+    },
+    {
+      "path": "data/raw/market/microsoft_stock_lookup.html",
+      "sha256": "f7f4c9782e822a08c0a7c1fd7cf147b7c9cf82d4de34273878a25c74310780c6",
+      "bytes": 19719
+    },
+    {
+      "path": "data/raw/market/microsoft_stock_lookup_oct8.html",
+      "sha256": "ab29f4cceea99d4f408fdc968129061edf3aada17ae65f07e6bbeb70b7a78352",
+      "bytes": 20076
+    },
+    {
+      "path": "data/raw/market/msft_prices.json",
+      "sha256": "382d36c2febb771b450dd451e7634ad2b83345803b0455ca4c517443bef12ad1",
+      "bytes": 137344
+    },
+    {
+      "path": "data/raw/market/spy_prices.json",
+      "sha256": "b9c06232c9cc5d06435ebe41d395e3f19ea5277544431b5619da0057a244630f",
+      "bytes": 137430
+    },
+    {
+      "path": "data/raw/market/treasury_oct2026.csv",
+      "sha256": "c1e7943ebde94dd4033fe450b15a495d97df504d109666684af589641198c881",
+      "bytes": 677
+    },
+    {
+      "path": "data/raw/market/treasury_oct2026.html",
+      "sha256": "81ce2745ae04883f2acfb6c373aad9c9ea81f97a85aeb5337d49f4653a4a6361",
+      "bytes": 171304
+    },
+    {
+      "path": "data/raw/prior_primary_statement_tables.json",
+      "sha256": "b8d18bfdf1424f7297db5e60ccc6c921202bd3d8a973aed1a6d4d4592fa7850d",
+      "bytes": 141168
+    },
+    {
+      "path": "data/raw/prior_raw_materials_manifest.json",
+      "sha256": "1d344bade50be64b811d8643544a946968e4634cce4205f2cdc418834f8c003e",
+      "bytes": 13166
+    },
+    {
+      "path": "data/raw/prior_selected_sec_facts.json",
+      "sha256": "c477523141e2b08be0982faccdfde2ac0c31f320cb3d31d15b79c793562f4333",
+      "bytes": 41933
+    },
+    {
+      "path": "data/raw/prior_source_manifest.json",
+      "sha256": "9e950aa40bc3a5a474e3d4233ff46eff1bb2cb89ce72c093d36eabcaef6fe82f",
+      "bytes": 4270
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2017_10K_highlighted.pdf",
+      "sha256": "33822d2f9b2a659b098a7fe085e9041bcb438886fb20fbda48a6d6707863e4b6",
+      "bytes": 870613
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2018_10K_highlighted.pdf",
+      "sha256": "021cb858bb8cf0485c994498c74cd4ff49aa6d76b956ef993bf3030dc2a102ea",
+      "bytes": 976805
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2019_10K_highlighted.pdf",
+      "sha256": "77a1e322edc2d9f19fc0969b8565b721e72cdb8c020f90dcc1bf14aed79214cf",
+      "bytes": 1109643
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2020_10K_highlighted.pdf",
+      "sha256": "1ccbb67626dd3258ed7c5b159fbf20a0ed9e9bdad2135caf74c20fe4ee548c9f",
+      "bytes": 908310
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2021_10K_highlighted.pdf",
+      "sha256": "67cb7c073cabf7941b705a755d60f24730a8f4bc054cc320849a0a6bf2d38066",
+      "bytes": 888779
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2022_10K_highlighted.pdf",
+      "sha256": "442d18493a15de1deb236adaace6fc7b556994199d622d0004c1adeba5967ada",
+      "bytes": 885157
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2023_10K_highlighted.pdf",
+      "sha256": "47e76a6c05bfd94b47a11bfe22db74606ad384c9ece7287edd5f9f3f51e0d0b2",
+      "bytes": 698812
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2024_10K_highlighted.pdf",
+      "sha256": "526b752a2590f455230e5bd111cbfc97b7ed840c81ef35acf3dc4ad5d1cb31c2",
+      "bytes": 3044955
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2025_10K_highlighted.pdf",
+      "sha256": "dccbd109c0c7a66d7fc3e035722e7c96660cd68a049928017d994b5c415aaa99",
+      "bytes": 2853331
+    },
+    {
+      "path": "data/raw/reports/highlighted/Microsoft_FY2026_10K_highlighted.pdf",
+      "sha256": "d0628e41713268b60943165ec63f89a63e7c419cac3beaad8ad6b868f16bfbbe",
+      "bytes": 2701044
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2017_10K.pdf",
+      "sha256": "b963e1a5674c56b1223df6c4f6d66fc677e2141288c935589a1c1a45426c1e5a",
+      "bytes": 924558
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2018_10K.pdf",
+      "sha256": "77c61516a168909b62672fb0f06fb197647c68513932feb3813bcf03f75580df",
+      "bytes": 1007036
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2019_10K.pdf",
+      "sha256": "988125b50b8b8ee306a07831f4f46b2042bf9261c8fb7152ae5232251bc43fd9",
+      "bytes": 1111773
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2020_10K.pdf",
+      "sha256": "4e96b8ff8dc97712a167a39db5725a6bb3cab959151e0e5f33831d02c8c12b57",
+      "bytes": 902353
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2021_10K.pdf",
+      "sha256": "b54bca858992012d6382106f2af667d8a983ced1e2cb48988720396b809b4a2e",
+      "bytes": 880287
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2022_10K.pdf",
+      "sha256": "561d30b6cfcb5ef2e673d8ae7d5e4264c432e62b972c94233c3569f9f5395212",
+      "bytes": 877980
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2023_10K.pdf",
+      "sha256": "25258c41146af61ca0c7e50ea60b3d85cda56987b9eca3f3f49c4fb5ea111d0a",
+      "bytes": 713064
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2024_10K.pdf",
+      "sha256": "0627f4b836ec187868c4bc1b03c58a11cd35fa6815aa0b615be0ad96a5097408",
+      "bytes": 3229181
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2025_10K.pdf",
+      "sha256": "1d13a76168650bb5efb42f29c6da81aa673e44217d082357ec0815afc70abf2e",
+      "bytes": 3024506
+    },
+    {
+      "path": "data/raw/reports/originals/Microsoft_FY2026_10K.pdf",
+      "sha256": "5e0d85dad7aa97d1146f064f6ebbe3454efe7fcb950d4e9437748bcfc73863ac",
+      "bytes": 2852059
+    },
+    {
+      "path": "data/raw/source_snapshots/ar16.html",
+      "sha256": "b88080e109816f78186c8d6eec7034546086d5e14722afe80f9514bf43b1c7a9",
+      "bytes": 796344
+    },
+    {
+      "path": "data/raw/source_snapshots/ar17.html",
+      "sha256": "59103b8e7b23f0549b282c6d16572afc95ce5705352f0361de8e1983c4d09ce0",
+      "bytes": 761880
+    },
+    {
+      "path": "data/raw/source_snapshots/ar18.html",
+      "sha256": "f87bdac0d22dbe6118b27b71336828c4c65d3ee943ae90b26ce4be9bc58d3065",
+      "bytes": 754504
+    },
+    {
+      "path": "data/raw/source_snapshots/ar19.html",
+      "sha256": "8e095dabef9ee77b5f35d2ccf53e391b38eec3776c8d7d2805223c8c73ef6fc3",
+      "bytes": 732858
+    },
+    {
+      "path": "data/raw/source_snapshots/ar20.html",
+      "sha256": "b939782ac1746c2400ef35fe2cb8660de3a75231bc8e263f735fe04196741eaa",
+      "bytes": 494373
+    },
+    {
+      "path": "data/raw/source_snapshots/ar21.html",
+      "sha256": "1b6db1bd35aa5c5f6fb5867fb525a951d04844fa49f726af354b70e02b026e2a",
+      "bytes": 486756
+    },
+    {
+      "path": "data/raw/source_snapshots/ar22.html",
+      "sha256": "929b24a9bf4faaa417610223e13b1e72ac28976faec016f7f307425e829491f2",
+      "bytes": 654921
+    },
+    {
+      "path": "data/raw/source_snapshots/ar23.html",
+      "sha256": "5a136f3681efc2136e99ce39add47bc0ae21623b36924ef9e86c9436e8647b2f",
+      "bytes": 486646
+    },
+    {
+      "path": "data/raw/source_snapshots/ar24.html",
+      "sha256": "2b49e38b25f3bea8634b603ad5db64ba0803f27e27f93cc406884e6990974065",
+      "bytes": 486883
+    },
+    {
+      "path": "data/raw/source_snapshots/ar25.html",
+      "sha256": "564154a15ac28c0f7f72f304ae26b74c29cfca9f3eafe8d59595776769d621ca",
+      "bytes": 601259
+    },
+    {
+      "path": "data/raw/source_snapshots/ar26.html",
+      "sha256": "c5a1adab275f377e5ef2635db066ef47bf415800c41e7ccb880baf3326d08429",
+      "bytes": 8585612
+    },
+    {
+      "path": "data/raw/source_snapshots/companyfacts.json",
+      "sha256": "f8aae2965b20ad0df44bdf7ccbedf797d275b6b8dc030154a7a311361bb7246f",
+      "bytes": 4881196
+    },
+    {
+      "path": "data/raw/source_snapshots/submissions.json",
+      "sha256": "2484a2a3b5677d892a1b25af573ce4eda7b6f449f5eda41bac6b3f106dc3139c",
+      "bytes": 185250
+    }
+  ]
+}

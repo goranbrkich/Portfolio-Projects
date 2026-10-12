@@ -1,0 +1,1099 @@
+{
+  "forecast_years": [
+    2027,
+    2028,
+    2029,
+    2030,
+    2031
+  ],
+  "cases": {
+    "Base": {
+      "dso": [
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266
+      ],
+      "inventory_days": [
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708
+      ],
+      "dpo": [
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777
+      ],
+      "comp_ratio": [
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496
+      ],
+      "deferred_rev_ratio": [
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817
+      ],
+      "other_cl_ratio": [
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684
+      ],
+      "other_lta_ratio": [
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371
+      ],
+      "long_tax_ratio": [
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485
+      ],
+      "long_deferred_rev_ratio": [
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453
+      ],
+      "other_ltl_ratio": [
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122
+      ],
+      "dtl_ratio": [
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918
+      ],
+      "min_cash": [
+        25000,
+        25000,
+        25000,
+        25000,
+        25000
+      ],
+      "min_st_investments": [
+        20000,
+        20000,
+        20000,
+        20000,
+        20000
+      ],
+      "debt_coupon": [
+        0.035,
+        0.035,
+        0.035,
+        0.035,
+        0.035
+      ],
+      "investment_yield": [
+        0.035,
+        0.035,
+        0.035,
+        0.035,
+        0.035
+      ],
+      "capitalized_interest_share": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "debt_contra_amort_rate": [
+        0.03,
+        0.03,
+        0.03,
+        0.03,
+        0.03
+      ],
+      "fin_lease_rate": [
+        0.045,
+        0.045,
+        0.045,
+        0.045,
+        0.045
+      ],
+      "op_lease_rate": [
+        0.037,
+        0.037,
+        0.037,
+        0.037,
+        0.037
+      ],
+      "new_finance_lease_term": [
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "new_op_lease_term": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "legacy_op_rou_life": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "extra_debt": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "st_investment_growth": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equity_investment_ratio": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "stock_issue_ratio": [
+        0.006,
+        0.006,
+        0.006,
+        0.006,
+        0.006
+      ],
+      "sbc_ratio": [
+        0.0375,
+        0.0375,
+        0.0375,
+        0.0375,
+        0.0375
+      ],
+      "buyback_retained_share": [
+        0.75,
+        0.75,
+        0.75,
+        0.75,
+        0.75
+      ],
+      "dividend_payout": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "tax_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "pbp_growth": [
+        0.14,
+        0.13,
+        0.12,
+        0.11,
+        0.1
+      ],
+      "ic_growth": [
+        0.24,
+        0.22,
+        0.2,
+        0.18,
+        0.16
+      ],
+      "mpc_growth": [
+        0.01,
+        0.02,
+        0.02,
+        0.02,
+        0.02
+      ],
+      "cash_capex_ratio": [
+        0.32,
+        0.28,
+        0.25,
+        0.22,
+        0.2
+      ],
+      "capex_ap_ratio": [
+        0.2,
+        0.18,
+        0.16,
+        0.14,
+        0.12
+      ],
+      "finance_lease_add_ratio": [
+        0.075,
+        0.07,
+        0.065,
+        0.06,
+        0.055
+      ],
+      "op_lease_add_ratio": [
+        0.015,
+        0.015,
+        0.015,
+        0.015,
+        0.015
+      ],
+      "legacy_ppe_life": [
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "new_ppe_life": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "other_ca_ratio": [
+        0.135,
+        0.125,
+        0.12,
+        0.115,
+        0.11
+      ],
+      "buyback_ratio": [
+        0.065,
+        0.065,
+        0.065,
+        0.065,
+        0.065
+      ],
+      "diluted_share_growth": [
+        -0.003,
+        -0.003,
+        -0.003,
+        -0.003,
+        -0.003
+      ],
+      "pbp_cost_rate": [
+        0.14977856510186005,
+        0.14777856510186005,
+        0.14577856510186005,
+        0.14377856510186005,
+        0.14177856510186004
+      ],
+      "ic_cost_rate": [
+        0.20128455414359428,
+        0.19928455414359428,
+        0.19728455414359428,
+        0.19528455414359427,
+        0.19328455414359427
+      ],
+      "mpc_cost_rate": [
+        0.33327536446384964,
+        0.33127536446384964,
+        0.32927536446384964,
+        0.32727536446384964,
+        0.32527536446384964
+      ],
+      "rd_rate": [
+        0.0881457574305612,
+        0.0876457574305612,
+        0.0871457574305612,
+        0.0866457574305612,
+        0.0861457574305612
+      ],
+      "sm_rate": [
+        0.08,
+        0.079,
+        0.078,
+        0.077,
+        0.076
+      ],
+      "ga_rate": [
+        0.024,
+        0.0235,
+        0.023,
+        0.0225,
+        0.022
+      ]
+    },
+    "Upside": {
+      "dso": [
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266
+      ],
+      "inventory_days": [
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708
+      ],
+      "dpo": [
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777
+      ],
+      "comp_ratio": [
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496
+      ],
+      "deferred_rev_ratio": [
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817
+      ],
+      "other_cl_ratio": [
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684
+      ],
+      "other_lta_ratio": [
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371
+      ],
+      "long_tax_ratio": [
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485
+      ],
+      "long_deferred_rev_ratio": [
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453
+      ],
+      "other_ltl_ratio": [
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122
+      ],
+      "dtl_ratio": [
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918
+      ],
+      "min_cash": [
+        25000,
+        25000,
+        25000,
+        25000,
+        25000
+      ],
+      "min_st_investments": [
+        20000,
+        20000,
+        20000,
+        20000,
+        20000
+      ],
+      "debt_coupon": [
+        0.035,
+        0.035,
+        0.035,
+        0.035,
+        0.035
+      ],
+      "investment_yield": [
+        0.035,
+        0.035,
+        0.035,
+        0.035,
+        0.035
+      ],
+      "capitalized_interest_share": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "debt_contra_amort_rate": [
+        0.03,
+        0.03,
+        0.03,
+        0.03,
+        0.03
+      ],
+      "fin_lease_rate": [
+        0.045,
+        0.045,
+        0.045,
+        0.045,
+        0.045
+      ],
+      "op_lease_rate": [
+        0.037,
+        0.037,
+        0.037,
+        0.037,
+        0.037
+      ],
+      "new_finance_lease_term": [
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "new_op_lease_term": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "legacy_op_rou_life": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "extra_debt": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "st_investment_growth": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equity_investment_ratio": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "stock_issue_ratio": [
+        0.006,
+        0.006,
+        0.006,
+        0.006,
+        0.006
+      ],
+      "sbc_ratio": [
+        0.0375,
+        0.0375,
+        0.0375,
+        0.0375,
+        0.0375
+      ],
+      "buyback_retained_share": [
+        0.75,
+        0.75,
+        0.75,
+        0.75,
+        0.75
+      ],
+      "dividend_payout": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "tax_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "pbp_growth": [
+        0.18,
+        0.16,
+        0.14,
+        0.13,
+        0.12
+      ],
+      "ic_growth": [
+        0.32,
+        0.28,
+        0.25,
+        0.22,
+        0.2
+      ],
+      "mpc_growth": [
+        0.04,
+        0.04,
+        0.03,
+        0.03,
+        0.03
+      ],
+      "cash_capex_ratio": [
+        0.34,
+        0.31,
+        0.28,
+        0.25,
+        0.23
+      ],
+      "capex_ap_ratio": [
+        0.22,
+        0.2,
+        0.18,
+        0.16,
+        0.14
+      ],
+      "finance_lease_add_ratio": [
+        0.085,
+        0.08,
+        0.075,
+        0.07,
+        0.065
+      ],
+      "op_lease_add_ratio": [
+        0.016,
+        0.016,
+        0.016,
+        0.016,
+        0.016
+      ],
+      "legacy_ppe_life": [
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "new_ppe_life": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "other_ca_ratio": [
+        0.13,
+        0.12,
+        0.115,
+        0.11,
+        0.105
+      ],
+      "buyback_ratio": [
+        0.07,
+        0.07,
+        0.07,
+        0.07,
+        0.07
+      ],
+      "diluted_share_growth": [
+        -0.005,
+        -0.005,
+        -0.005,
+        -0.005,
+        -0.005
+      ],
+      "pbp_cost_rate": [
+        0.14477856510186005,
+        0.14277856510186004,
+        0.14077856510186004,
+        0.13877856510186004,
+        0.13677856510186004
+      ],
+      "ic_cost_rate": [
+        0.19628455414359428,
+        0.19428455414359427,
+        0.19228455414359427,
+        0.19028455414359427,
+        0.18828455414359427
+      ],
+      "mpc_cost_rate": [
+        0.32827536446384964,
+        0.32627536446384964,
+        0.32427536446384964,
+        0.32227536446384963,
+        0.32027536446384963
+      ],
+      "rd_rate": [
+        0.0871457574305612,
+        0.0866457574305612,
+        0.0861457574305612,
+        0.0856457574305612,
+        0.0851457574305612
+      ],
+      "sm_rate": [
+        0.077,
+        0.076,
+        0.075,
+        0.074,
+        0.073
+      ],
+      "ga_rate": [
+        0.023,
+        0.0225,
+        0.022,
+        0.0215,
+        0.020999999999999998
+      ]
+    },
+    "Downside": {
+      "dso": [
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266,
+        88.95801879827266
+      ],
+      "inventory_days": [
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708,
+        4.793511572376708
+      ],
+      "dpo": [
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777,
+        53.92614736683777
+      ],
+      "comp_ratio": [
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496,
+        0.045036900424603496
+      ],
+      "deferred_rev_ratio": [
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817,
+        0.2198807252914817
+      ],
+      "other_cl_ratio": [
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684,
+        0.051395405603319684
+      ],
+      "other_lta_ratio": [
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371,
+        0.11693923860667371
+      ],
+      "long_tax_ratio": [
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485,
+        0.08632800846193485
+      ],
+      "long_deferred_rev_ratio": [
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453,
+        0.00827811077058453
+      ],
+      "other_ltl_ratio": [
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122,
+        0.008477002401767122
+      ],
+      "dtl_ratio": [
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918,
+        0.009203258206539918
+      ],
+      "min_cash": [
+        25000,
+        25000,
+        25000,
+        25000,
+        25000
+      ],
+      "min_st_investments": [
+        20000,
+        20000,
+        20000,
+        20000,
+        20000
+      ],
+      "debt_coupon": [
+        0.035,
+        0.035,
+        0.035,
+        0.035,
+        0.035
+      ],
+      "investment_yield": [
+        0.035,
+        0.035,
+        0.035,
+        0.035,
+        0.035
+      ],
+      "capitalized_interest_share": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "debt_contra_amort_rate": [
+        0.03,
+        0.03,
+        0.03,
+        0.03,
+        0.03
+      ],
+      "fin_lease_rate": [
+        0.045,
+        0.045,
+        0.045,
+        0.045,
+        0.045
+      ],
+      "op_lease_rate": [
+        0.037,
+        0.037,
+        0.037,
+        0.037,
+        0.037
+      ],
+      "new_finance_lease_term": [
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "new_op_lease_term": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "legacy_op_rou_life": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "extra_debt": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "st_investment_growth": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equity_investment_ratio": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "stock_issue_ratio": [
+        0.006,
+        0.006,
+        0.006,
+        0.006,
+        0.006
+      ],
+      "sbc_ratio": [
+        0.0375,
+        0.0375,
+        0.0375,
+        0.0375,
+        0.0375
+      ],
+      "buyback_retained_share": [
+        0.75,
+        0.75,
+        0.75,
+        0.75,
+        0.75
+      ],
+      "dividend_payout": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "tax_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "pbp_growth": [
+        0.08,
+        0.07,
+        0.06,
+        0.06,
+        0.05
+      ],
+      "ic_growth": [
+        0.14,
+        0.12,
+        0.1,
+        0.1,
+        0.09
+      ],
+      "mpc_growth": [
+        -0.05,
+        -0.03,
+        0,
+        0.01,
+        0.01
+      ],
+      "cash_capex_ratio": [
+        0.35,
+        0.33,
+        0.3,
+        0.28,
+        0.25
+      ],
+      "capex_ap_ratio": [
+        0.25,
+        0.25,
+        0.24,
+        0.24,
+        0.22
+      ],
+      "finance_lease_add_ratio": [
+        0.075,
+        0.065,
+        0.055,
+        0.05,
+        0.045
+      ],
+      "op_lease_add_ratio": [
+        0.012,
+        0.012,
+        0.012,
+        0.012,
+        0.012
+      ],
+      "legacy_ppe_life": [
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "new_ppe_life": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "other_ca_ratio": [
+        0.146,
+        0.145,
+        0.14,
+        0.135,
+        0.13
+      ],
+      "buyback_ratio": [
+        0.045,
+        0.045,
+        0.045,
+        0.045,
+        0.045
+      ],
+      "diluted_share_growth": [
+        0.002,
+        0.002,
+        0.002,
+        0.002,
+        0.002
+      ],
+      "pbp_cost_rate": [
+        0.15977856510186006,
+        0.15777856510186006,
+        0.15577856510186006,
+        0.15377856510186005,
+        0.15177856510186005
+      ],
+      "ic_cost_rate": [
+        0.2112845541435943,
+        0.2092845541435943,
+        0.20728455414359429,
+        0.20528455414359428,
+        0.20328455414359428
+      ],
+      "mpc_cost_rate": [
+        0.34327536446384965,
+        0.34127536446384965,
+        0.33927536446384965,
+        0.33727536446384965,
+        0.33527536446384965
+      ],
+      "rd_rate": [
+        0.0911457574305612,
+        0.0906457574305612,
+        0.0901457574305612,
+        0.0896457574305612,
+        0.0891457574305612
+      ],
+      "sm_rate": [
+        0.083,
+        0.082,
+        0.081,
+        0.08,
+        0.079
+      ],
+      "ga_rate": [
+        0.026000000000000002,
+        0.025500000000000002,
+        0.025,
+        0.0245,
+        0.024
+      ]
+    }
+  },
+  "driver_names": {
+    "pbp_growth": "Productivity and Business Processes revenue growth",
+    "ic_growth": "Intelligent Cloud revenue growth",
+    "mpc_growth": "More Personal Computing revenue growth",
+    "pbp_cost_rate": "PBP cost excluding allocated D&A and operating leases",
+    "ic_cost_rate": "IC cost excluding allocated D&A and operating leases",
+    "mpc_cost_rate": "MPC cost excluding allocated D&A and operating leases",
+    "rd_rate": "R&D excluding allocated D&A and operating leases / revenue",
+    "sm_rate": "Sales and marketing / revenue",
+    "ga_rate": "General and administrative / revenue",
+    "cash_capex_ratio": "Cash capex including capitalized interest / revenue",
+    "capex_ap_ratio": "Capital expenditure payables / cash capex",
+    "finance_lease_add_ratio": "New finance lease assets / revenue",
+    "op_lease_add_ratio": "New operating lease assets / revenue",
+    "legacy_ppe_life": "Legacy depreciable net PPE remaining life in years",
+    "new_ppe_life": "New PPE useful life in years",
+    "dso": "Receivable days on revenue",
+    "inventory_days": "Inventory days on cost of revenue",
+    "dpo": "Operating payable days on cost of revenue",
+    "other_ca_ratio": "Other current assets / revenue",
+    "comp_ratio": "Accrued compensation / revenue",
+    "deferred_rev_ratio": "Current unearned revenue / revenue",
+    "other_cl_ratio": "Other current liabilities excluding leases / revenue",
+    "other_lta_ratio": "Other long-term assets / revenue",
+    "long_tax_ratio": "Long-term income tax liabilities / revenue",
+    "long_deferred_rev_ratio": "Long-term unearned revenue / revenue",
+    "other_ltl_ratio": "Other long-term liabilities excluding finance leases / revenue",
+    "dtl_ratio": "Deferred tax liabilities / revenue",
+    "min_cash": "Minimum cash balance",
+    "min_st_investments": "Minimum short-term investment reserve",
+    "debt_coupon": "Cash coupon rate on opening debt face value",
+    "investment_yield": "Yield on opening cash and short-term investments",
+    "capitalized_interest_share": "Cash interest capitalized within the capex budget",
+    "debt_contra_amort_rate": "Annual amortization of debt accounting adjustments",
+    "fin_lease_rate": "Finance lease interest rate",
+    "op_lease_rate": "Operating lease interest rate",
+    "new_finance_lease_term": "New finance lease principal term in years",
+    "new_op_lease_term": "New operating lease term in years",
+    "legacy_op_rou_life": "Legacy operating ROU remaining life in years",
+    "extra_debt": "Planned new debt face value",
+    "st_investment_growth": "Planned short-term investment balance growth",
+    "equity_investment_ratio": "Cash purchases of equity investments / revenue",
+    "stock_issue_ratio": "Cash proceeds from employee share issuance / revenue",
+    "sbc_ratio": "Stock-based compensation / revenue",
+    "buyback_retained_share": "Share of buybacks charged to retained earnings",
+    "dividend_payout": "Dividends as share of positive net income",
+    "tax_rate": "Effective income tax rate",
+    "buyback_ratio": "Cash share repurchases / revenue",
+    "diluted_share_growth": "Net change in diluted weighted average shares"
+  },
+  "allocation": {
+    "ppe": [
+      0.05,
+      0.75,
+      0.05,
+      0.15
+    ],
+    "intangibles": [
+      0.2,
+      0.05,
+      0.65,
+      0.1
+    ],
+    "operating_leases": [
+      0.2,
+      0.6,
+      0.1,
+      0.1
+    ]
+  },
+  "fy2032_debt_maturity_assumption": 0,
+  "fy2032_legacy_finance_lease_payment_assumption": 6500,
+  "fy2032_legacy_operating_lease_payment_assumption": 2000,
+  "assumption_basis": "Research assumptions dated 8 October 2026. Contractual FY2027\u2013FY2031 payments come from FY2026 notes."
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "test": "Scenario Upside",
+    "actual": 390.99452467720926,
+    "expected": 390.99452467720823
+  },
+  {
+    "test": "Scenario Downside",
+    "actual": 169.9114012991664,
+    "expected": 169.91140129916607
+  },
+  {
+    "test": "FY2029 IC growth +2 pp",
+    "price": 288.75554803104137,
+    "baseline": 286.3522546915523
+  }
+]

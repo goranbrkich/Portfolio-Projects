@@ -1,0 +1,37 @@
+{
+  "formula_error_count": 0,
+  "formula_errors": [],
+  "native_tables": [
+    {
+      "t": "dataTable",
+      "ref": "F41:L47",
+      "dt2D": "1",
+      "r1": "E6",
+      "r2": "E7"
+    },
+    {
+      "t": "dataTable",
+      "ref": "F53:H55",
+      "dt2D": "1",
+      "r1": "E5",
+      "r2": "E7"
+    }
+  ],
+  "native_note_count": 3371,
+  "chart_count": 31,
+  "table_row_height_exceptions": [],
+  "overview_cached_values": {
+    "E9": "286.35225469155296",
+    "D24": "286.35225469155296",
+    "D25": "390.99452467720926",
+    "D26": "169.9114012991664",
+    "C39": "Selected value USD 286.35 versus close USD 522.61. Stable value supplies 79.7% of enterprise value. The valuation uses an 8 October 2026 information cutoff, ten historical fiscal years and five explicit forecasts FY2027 to FY2031. FY2027 remaining cash flow is shortened to 265 days."
+  },
+  "python_code_exact_match": true,
+  "libreoffice_baseline_recalculation": {
+    "tested": true,
+    "case_prices_match": true,
+    "formula_errors": 0
+  },
+  "desktop_microsoft_excel_tested": false
+}

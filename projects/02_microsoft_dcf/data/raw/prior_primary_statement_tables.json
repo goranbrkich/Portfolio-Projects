@@ -1,0 +1,8741 @@
+[
+  {
+    "report_year": 2016,
+    "statement": "income",
+    "years": [
+      2016,
+      2015,
+      2014
+    ],
+    "table_index": 16,
+    "url": "https://www.microsoft.com/investor/reports/ar16/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2016.0,
+          2015.0,
+          2014.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          61502.0,
+          75956.0,
+          72948.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          23818.0,
+          17624.0,
+          13885.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          85320.0,
+          93580.0,
+          86833.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          17880.0,
+          21410.0,
+          16681.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          14900.0,
+          11628.0,
+          10397.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          32780.0,
+          33038.0,
+          27078.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          52540.0,
+          60542.0,
+          59755.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          11988.0,
+          12046.0,
+          11381.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          14697.0,
+          15713.0,
+          15811.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          4563.0,
+          4611.0,
+          4677.0
+        ]
+      ],
+      [
+        "Impairment, integration, and restructuring",
+        [
+          1110.0,
+          10011.0,
+          127.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          20182.0,
+          18161.0,
+          27759.0
+        ]
+      ],
+      [
+        "Other income (expense), net",
+        [
+          -431.0,
+          346.0,
+          61.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          19751.0,
+          18507.0,
+          27820.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          2953.0,
+          6314.0,
+          5746.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          16798.0,
+          12193.0,
+          22074.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          2.12,
+          1.49,
+          2.66
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          2.1,
+          1.48,
+          2.63
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7925.0,
+          8177.0,
+          8299.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          8013.0,
+          8254.0,
+          8399.0
+        ]
+      ],
+      [
+        "Cash dividends declared per common share",
+        [
+          1.44,
+          1.24,
+          1.12
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2016,
+    "statement": "balance",
+    "years": [
+      2016,
+      2015
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar16/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2016.0,
+          2015.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          6510.0,
+          5595.0
+        ]
+      ],
+      [
+        "Short-term investments (including securities loaned of $204 and $75)",
+        [
+          106730.0,
+          90931.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          113240.0,
+          96526.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $426 and $335",
+        [
+          18277.0,
+          17908.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          2251.0,
+          2902.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          5892.0,
+          5461.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          139660.0,
+          122797.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $19,800 and $17,606",
+        [
+          18356.0,
+          14731.0
+        ]
+      ],
+      [
+        "Equity and other investments",
+        [
+          10431.0,
+          12053.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          17872.0,
+          16939.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          3733.0,
+          4835.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          3642.0,
+          3117.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          193694.0,
+          174472.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          6898.0,
+          6591.0
+        ]
+      ],
+      [
+        "Short-term debt",
+        [
+          12904.0,
+          4985.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          0.0,
+          2499.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          5264.0,
+          5096.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          580.0,
+          606.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          27468.0,
+          23223.0
+        ]
+      ],
+      [
+        "Securities lending payable",
+        [
+          294.0,
+          92.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          5949.0,
+          6555.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          59357.0,
+          49647.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          40783.0,
+          27808.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          6441.0,
+          2095.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          1476.0,
+          1295.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          13640.0,
+          13544.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          121697.0,
+          94389.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,808 and 8,027",
+        [
+          68178.0,
+          68465.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          2282.0,
+          9096.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive income",
+        [
+          1537.0,
+          2522.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          71997.0,
+          80083.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          193694.0,
+          174472.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2016,
+    "statement": "cashflow",
+    "years": [
+      2016,
+      2015,
+      2014
+    ],
+    "table_index": 19,
+    "url": "https://www.microsoft.com/investor/reports/ar16/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2016.0,
+          2015.0,
+          2014.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          16798.0,
+          12193.0,
+          22074.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Goodwill and asset impairments",
+        [
+          630.0,
+          7498.0,
+          0.0
+        ]
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          6622.0,
+          5957.0,
+          5212.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          2668.0,
+          2574.0,
+          2446.0
+        ]
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        [
+          -223.0,
+          -443.0,
+          -109.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          322.0,
+          224.0,
+          -331.0
+        ]
+      ],
+      [
+        "Deferral of unearned revenue",
+        [
+          57072.0,
+          45072.0,
+          44325.0
+        ]
+      ],
+      [
+        "Recognition of unearned revenue",
+        [
+          -48498.0,
+          -44920.0,
+          -41739.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -530.0,
+          1456.0,
+          -1120.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          600.0,
+          -272.0,
+          -161.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -1167.0,
+          62.0,
+          -29.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -41.0,
+          346.0,
+          -628.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          88.0,
+          -1054.0,
+          473.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          -260.0,
+          -624.0,
+          1075.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          -766.0,
+          1599.0,
+          1014.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          33325.0,
+          29668.0,
+          32502.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Proceeds from issuance of short-term debt, maturities of 90 days or less, net",
+        [
+          7195.0,
+          4481.0,
+          500.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          13884.0,
+          10680.0,
+          10350.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -2796.0,
+          -1500.0,
+          -3888.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          668.0,
+          634.0,
+          607.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -15969.0,
+          -14443.0,
+          -7316.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -11006.0,
+          -9882.0,
+          -8879.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          -369.0,
+          362.0,
+          -39.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -8393.0,
+          -9668.0,
+          -8665.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -8343.0,
+          -5944.0,
+          -5485.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -1393.0,
+          -3723.0,
+          -5937.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -129758.0,
+          -98729.0,
+          -72690.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          22054.0,
+          15013.0,
+          5272.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          93287.0,
+          70848.0,
+          60094.0
+        ]
+      ],
+      [
+        "Securities lending payable",
+        [
+          203.0,
+          -466.0,
+          -87.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -23950.0,
+          -23001.0,
+          -18833.0
+        ]
+      ],
+      [
+        "Effect of exchange rates on cash and cash equivalents",
+        [
+          -67.0,
+          -73.0,
+          -139.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          915.0,
+          -3074.0,
+          4865.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          5595.0,
+          8669.0,
+          3804.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          6510.0,
+          5595.0,
+          8669.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2017,
+    "statement": "income",
+    "years": [
+      2017,
+      2016,
+      2015
+    ],
+    "table_index": 16,
+    "url": "https://www.microsoft.com/investor/reports/ar17/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2017.0,
+          2016.0,
+          2015.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          57190.0,
+          61502.0,
+          75956.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          32760.0,
+          23818.0,
+          17624.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          89950.0,
+          85320.0,
+          93580.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          15175.0,
+          17880.0,
+          21410.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          19086.0,
+          14900.0,
+          11628.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          34261.0,
+          32780.0,
+          33038.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          55689.0,
+          52540.0,
+          60542.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          13037.0,
+          11988.0,
+          12046.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          15539.0,
+          14697.0,
+          15713.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          4481.0,
+          4563.0,
+          4611.0
+        ]
+      ],
+      [
+        "Impairment, integration, and restructuring",
+        [
+          306.0,
+          1110.0,
+          10011.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          22326.0,
+          20182.0,
+          18161.0
+        ]
+      ],
+      [
+        "Other income (expense), net",
+        [
+          823.0,
+          -431.0,
+          346.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          23149.0,
+          19751.0,
+          18507.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          1945.0,
+          2953.0,
+          6314.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          21204.0,
+          16798.0,
+          12193.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          2.74,
+          2.12,
+          1.49
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          2.71,
+          2.1,
+          1.48
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7746.0,
+          7925.0,
+          8177.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7832.0,
+          8013.0,
+          8254.0
+        ]
+      ],
+      [
+        "Cash dividends declared per common share",
+        [
+          1.56,
+          1.44,
+          1.24
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2017,
+    "statement": "balance",
+    "years": [
+      2017,
+      2016
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar17/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2017.0,
+          2016.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          7663.0,
+          6510.0
+        ]
+      ],
+      [
+        "Short-term investments (including securities loaned of $3,694 and $204)",
+        [
+          125318.0,
+          106730.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          132981.0,
+          113240.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $405 and $426",
+        [
+          19792.0,
+          18277.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          2181.0,
+          2251.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          4897.0,
+          5892.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          159851.0,
+          139660.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $24,179 and $19,800",
+        [
+          23734.0,
+          18356.0
+        ]
+      ],
+      [
+        "Equity and other investments",
+        [
+          6023.0,
+          10431.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          35122.0,
+          17872.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          10106.0,
+          3733.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          6250.0,
+          3416.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          241086.0,
+          193468.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          7390.0,
+          6898.0
+        ]
+      ],
+      [
+        "Short-term debt",
+        [
+          9072.0,
+          12904.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          1049.0,
+          0.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          5819.0,
+          5264.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          718.0,
+          580.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          34102.0,
+          27468.0
+        ]
+      ],
+      [
+        "Securities lending payable",
+        [
+          97.0,
+          294.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          6280.0,
+          5949.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          64527.0,
+          59357.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          76073.0,
+          40557.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          10377.0,
+          6441.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          531.0,
+          1476.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          17184.0,
+          13640.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          168692.0,
+          121471.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,708 and 7,808",
+        [
+          69315.0,
+          68178.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          2648.0,
+          2282.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive income",
+        [
+          431.0,
+          1537.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          72394.0,
+          71997.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          241086.0,
+          193468.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2017,
+    "statement": "cashflow",
+    "years": [
+      2017,
+      2016,
+      2015
+    ],
+    "table_index": 19,
+    "url": "https://www.microsoft.com/investor/reports/ar17/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2017.0,
+          2016.0,
+          2015.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          21204.0,
+          16798.0,
+          12193.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Goodwill and asset impairments",
+        [
+          0.0,
+          630.0,
+          7498.0
+        ]
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          8778.0,
+          6622.0,
+          5957.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          3266.0,
+          2668.0,
+          2574.0
+        ]
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        [
+          -2073.0,
+          -223.0,
+          -443.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -3296.0,
+          332.0,
+          224.0
+        ]
+      ],
+      [
+        "Deferral of unearned revenue",
+        [
+          67711.0,
+          57072.0,
+          45072.0
+        ]
+      ],
+      [
+        "Recognition of unearned revenue",
+        [
+          -57735.0,
+          -48498.0,
+          -44920.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -925.0,
+          -530.0,
+          1456.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          50.0,
+          600.0,
+          -272.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          1066.0,
+          -1167.0,
+          62.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -539.0,
+          -41.0,
+          346.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          81.0,
+          88.0,
+          -1054.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          386.0,
+          -260.0,
+          -624.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          1533.0,
+          -766.0,
+          1599.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          39507.0,
+          33325.0,
+          29668.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Proceeds from issuance (repayments) of short-term debt, maturities of 90 days or less, net",
+        [
+          -4963.0,
+          7195.0,
+          4481.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          44344.0,
+          13884.0,
+          10680.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -7922.0,
+          -2796.0,
+          -1500.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          772.0,
+          668.0,
+          634.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -11788.0,
+          -15969.0,
+          -14443.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -11845.0,
+          -11006.0,
+          -9882.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -190.0,
+          -369.0,
+          362.0
+        ]
+      ],
+      [
+        "Net cash from (used in) financing",
+        [
+          8408.0,
+          -8393.0,
+          -9668.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -8129.0,
+          -8343.0,
+          -5944.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -25944.0,
+          -1393.0,
+          -3723.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -176905.0,
+          -129758.0,
+          -98729.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          28044.0,
+          22054.0,
+          15013.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          136350.0,
+          93287.0,
+          70848.0
+        ]
+      ],
+      [
+        "Securities lending payable",
+        [
+          -197.0,
+          203.0,
+          -466.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -46781.0,
+          -23950.0,
+          -23001.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          19.0,
+          -67.0,
+          -73.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          1153.0,
+          915.0,
+          -3074.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          6510.0,
+          5595.0,
+          8669.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          7663.0,
+          6510.0,
+          5595.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2018,
+    "statement": "income",
+    "years": [
+      2018,
+      2017,
+      2016
+    ],
+    "table_index": 15,
+    "url": "https://www.microsoft.com/investor/reports/ar18/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2018.0,
+          2017.0,
+          2016.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          64497.0,
+          63811.0,
+          67336.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          45863.0,
+          32760.0,
+          23818.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          110360.0,
+          96571.0,
+          91154.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          15420.0,
+          15175.0,
+          17880.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          22933.0,
+          19086.0,
+          14900.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          38353.0,
+          34261.0,
+          32780.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          72007.0,
+          62310.0,
+          58374.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          14726.0,
+          13037.0,
+          11988.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          17469.0,
+          15461.0,
+          14635.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          4754.0,
+          4481.0,
+          4563.0
+        ]
+      ],
+      [
+        "Impairment and restructuring",
+        [
+          0.0,
+          306.0,
+          1110.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          35058.0,
+          29025.0,
+          26078.0
+        ]
+      ],
+      [
+        "Other income (expense), net",
+        [
+          1416.0,
+          876.0,
+          -439.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          36474.0,
+          29901.0,
+          25639.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          19903.0,
+          4412.0,
+          5100.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          16571.0,
+          25489.0,
+          20539.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          2.15,
+          3.29,
+          2.59
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          2.13,
+          3.25,
+          2.56
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7700.0,
+          7746.0,
+          7925.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7794.0,
+          7832.0,
+          8013.0
+        ]
+      ],
+      [
+        "Cash dividends declared per common share",
+        [
+          1.68,
+          1.56,
+          1.44
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2018,
+    "statement": "balance",
+    "years": [
+      2018,
+      2017
+    ],
+    "table_index": 17,
+    "url": "https://www.microsoft.com/investor/reports/ar18/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2018.0,
+          2017.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          11946.0,
+          7663.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          121822.0,
+          125318.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          133768.0,
+          132981.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $377 and $345",
+        [
+          26481.0,
+          22431.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          2662.0,
+          2181.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          6751.0,
+          5103.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          169662.0,
+          162696.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $29,223 and $24,179",
+        [
+          29460.0,
+          23734.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          6686.0,
+          6555.0
+        ]
+      ],
+      [
+        "Equity and other investments",
+        [
+          1862.0,
+          6023.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          35683.0,
+          35122.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          8053.0,
+          10106.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          7442.0,
+          6076.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          258848.0,
+          250312.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          8617.0,
+          7390.0
+        ]
+      ],
+      [
+        "Short-term debt",
+        [
+          0.0,
+          9072.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          3998.0,
+          1049.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          6103.0,
+          5819.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          2121.0,
+          718.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          28905.0,
+          24013.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          8744.0,
+          7684.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          58488.0,
+          55745.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          72242.0,
+          76073.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          30265.0,
+          13485.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          3815.0,
+          2643.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          541.0,
+          5734.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          5568.0,
+          5372.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          5211.0,
+          3549.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          176130.0,
+          162601.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,677 and 7,708",
+        [
+          71223.0,
+          69315.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          13682.0,
+          17769.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive income (loss)",
+        [
+          -2187.0,
+          627.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          82718.0,
+          87711.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          258848.0,
+          250312.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2018,
+    "statement": "cashflow",
+    "years": [
+      2018,
+      2017,
+      2016
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar18/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2018.0,
+          2017.0,
+          2016.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          16571.0,
+          25489.0,
+          20539.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Asset impairments",
+        [
+          0.0,
+          0.0,
+          630.0
+        ]
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          10261.0,
+          8778.0,
+          6622.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          3940.0,
+          3266.0,
+          2668.0
+        ]
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        [
+          -2212.0,
+          -2073.0,
+          -223.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -5143.0,
+          -829.0,
+          2479.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -3862.0,
+          -1216.0,
+          562.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          -465.0,
+          50.0,
+          600.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -952.0,
+          1028.0,
+          -1212.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -285.0,
+          -917.0,
+          -1110.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          1148.0,
+          81.0,
+          88.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          5922.0,
+          3820.0,
+          2565.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          -18183.0,
+          1792.0,
+          -298.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          798.0,
+          356.0,
+          -179.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          -20.0,
+          -118.0,
+          -406.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          43884.0,
+          39507.0,
+          33325.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Proceeds from issuance (repayments) of short-term debt, maturities of 90 days or less, net",
+        [
+          -7324.0,
+          -4963.0,
+          7195.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          7183.0,
+          44344.0,
+          13884.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -10060.0,
+          -7922.0,
+          -2796.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          1002.0,
+          772.0,
+          668.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -10721.0,
+          -11788.0,
+          -15969.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -12699.0,
+          -11845.0,
+          -11006.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -971.0,
+          -190.0,
+          -369.0
+        ]
+      ],
+      [
+        "Net cash from (used in) financing",
+        [
+          -33590.0,
+          8408.0,
+          -8393.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -11632.0,
+          -8129.0,
+          -8343.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -888.0,
+          -25944.0,
+          -1393.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -137380.0,
+          -176905.0,
+          -129758.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          26360.0,
+          28044.0,
+          22054.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          117577.0,
+          136350.0,
+          93287.0
+        ]
+      ],
+      [
+        "Securities lending payable",
+        [
+          -98.0,
+          -197.0,
+          203.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -6061.0,
+          -46781.0,
+          -23950.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          50.0,
+          19.0,
+          -67.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          4283.0,
+          1153.0,
+          915.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          7663.0,
+          6510.0,
+          5595.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          11946.0,
+          7663.0,
+          6510.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2019,
+    "statement": "income",
+    "years": [
+      2019,
+      2018,
+      2017
+    ],
+    "table_index": 14,
+    "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2019.0,
+          2018.0,
+          2017.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          66069.0,
+          64497.0,
+          63811.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          59774.0,
+          45863.0,
+          32760.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          125843.0,
+          110360.0,
+          96571.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          16273.0,
+          15420.0,
+          15175.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          26637.0,
+          22933.0,
+          19086.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          42910.0,
+          38353.0,
+          34261.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          82933.0,
+          72007.0,
+          62310.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          16876.0,
+          14726.0,
+          13037.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          18213.0,
+          17469.0,
+          15461.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          4885.0,
+          4754.0,
+          4481.0
+        ]
+      ],
+      [
+        "Restructuring",
+        [
+          0.0,
+          0.0,
+          306.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          42959.0,
+          35058.0,
+          29025.0
+        ]
+      ],
+      [
+        "Other income, net",
+        [
+          729.0,
+          1416.0,
+          876.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          43688.0,
+          36474.0,
+          29901.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          4448.0,
+          19903.0,
+          4412.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          39240.0,
+          16571.0,
+          25489.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          5.11,
+          2.15,
+          3.29
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          5.06,
+          2.13,
+          3.25
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7673.0,
+          7700.0,
+          7746.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7753.0,
+          7794.0,
+          7832.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2019,
+    "statement": "balance",
+    "years": [
+      2019,
+      2018
+    ],
+    "table_index": 16,
+    "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2019.0,
+          2018.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          11356.0,
+          11946.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          122463.0,
+          121822.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          133819.0,
+          133768.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $411 and $377",
+        [
+          29524.0,
+          26481.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          2063.0,
+          2662.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          10146.0,
+          6751.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          175552.0,
+          169662.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $35,330 and $29,223",
+        [
+          36477.0,
+          29460.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          7379.0,
+          6686.0
+        ]
+      ],
+      [
+        "Equity investments",
+        [
+          2649.0,
+          1862.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          42026.0,
+          35683.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          7750.0,
+          8053.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          14723.0,
+          7442.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          286556.0,
+          258848.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          9382.0,
+          8617.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          5516.0,
+          3998.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          6830.0,
+          6103.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          5665.0,
+          2121.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          32676.0,
+          28905.0
+        ]
+      ],
+      [
+        "Other",
+        [
+          9351.0,
+          8744.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          69420.0,
+          58488.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          66662.0,
+          72242.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          29612.0,
+          30265.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          4530.0,
+          3815.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          233.0,
+          541.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          6188.0,
+          5568.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          7581.0,
+          5211.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          184226.0,
+          176130.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,643 and 7,677",
+        [
+          78520.0,
+          71223.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          24150.0,
+          13682.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive loss",
+        [
+          -340.0,
+          -2187.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          102330.0,
+          82718.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          286556.0,
+          258848.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2019,
+    "statement": "cashflow",
+    "years": [
+      2019,
+      2018,
+      2017
+    ],
+    "table_index": 17,
+    "url": "https://www.microsoft.com/investor/reports/ar19/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2019.0,
+          2018.0,
+          2017.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          39240.0,
+          16571.0,
+          25489.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          11682.0,
+          10261.0,
+          8778.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          4652.0,
+          3940.0,
+          3266.0
+        ]
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        [
+          -792.0,
+          -2212.0,
+          -2073.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -6463.0,
+          -5143.0,
+          -829.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -2812.0,
+          -3862.0,
+          -1216.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          597.0,
+          -465.0,
+          50.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -1718.0,
+          -952.0,
+          1028.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -1834.0,
+          -285.0,
+          -917.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          232.0,
+          1148.0,
+          81.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          4462.0,
+          5922.0,
+          3820.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          2929.0,
+          18183.0,
+          1792.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          1419.0,
+          798.0,
+          356.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          591.0,
+          -20.0,
+          -118.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          52185.0,
+          43884.0,
+          39507.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Repayments of short-term debt, maturities of 90 days or less, net",
+        [
+          0.0,
+          -7324.0,
+          -4963.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          0.0,
+          7183.0,
+          44344.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -4000.0,
+          -10060.0,
+          -7922.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          1142.0,
+          1002.0,
+          772.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -19543.0,
+          -10721.0,
+          -11788.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -13811.0,
+          -12699.0,
+          -11845.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -675.0,
+          -971.0,
+          -190.0
+        ]
+      ],
+      [
+        "Net cash from (used in) financing",
+        [
+          -36887.0,
+          -33590.0,
+          8408.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -13925.0,
+          -11632.0,
+          -8129.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -2388.0,
+          -888.0,
+          -25944.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -57697.0,
+          -137380.0,
+          -176905.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          20043.0,
+          26360.0,
+          28044.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          38194.0,
+          117577.0,
+          136350.0
+        ]
+      ],
+      [
+        "Securities lending payable",
+        [
+          0.0,
+          -98.0,
+          -197.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -15773.0,
+          -6061.0,
+          -46781.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          -115.0,
+          50.0,
+          19.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          -590.0,
+          4283.0,
+          1153.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          11946.0,
+          7663.0,
+          6510.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          11356.0,
+          11946.0,
+          7663.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2020,
+    "statement": "income",
+    "years": [
+      2020,
+      2019,
+      2018
+    ],
+    "table_index": 17,
+    "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2020.0,
+          2019.0,
+          2018.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          68041.0,
+          66069.0,
+          64497.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          74974.0,
+          59774.0,
+          45863.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          143015.0,
+          125843.0,
+          110360.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          16017.0,
+          16273.0,
+          15420.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          30061.0,
+          26637.0,
+          22933.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          46078.0,
+          42910.0,
+          38353.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          96937.0,
+          82933.0,
+          72007.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          19269.0,
+          16876.0,
+          14726.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          19598.0,
+          18213.0,
+          17469.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          5111.0,
+          4885.0,
+          4754.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          52959.0,
+          42959.0,
+          35058.0
+        ]
+      ],
+      [
+        "Other income, net",
+        [
+          77.0,
+          729.0,
+          1416.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          53036.0,
+          43688.0,
+          36474.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          8755.0,
+          4448.0,
+          19903.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          44281.0,
+          39240.0,
+          16571.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          5.82,
+          5.11,
+          2.15
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          5.76,
+          5.06,
+          2.13
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7610.0,
+          7673.0,
+          7700.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7683.0,
+          7753.0,
+          7794.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2020,
+    "statement": "balance",
+    "years": [
+      2020,
+      2019
+    ],
+    "table_index": 19,
+    "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2020.0,
+          2019.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          13576.0,
+          11356.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          122951.0,
+          122463.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          136527.0,
+          133819.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $788 and $411",
+        [
+          32011.0,
+          29524.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          1895.0,
+          2063.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          11482.0,
+          10146.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          181915.0,
+          175552.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $43,197 and $35,330",
+        [
+          44151.0,
+          36477.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          8753.0,
+          7379.0
+        ]
+      ],
+      [
+        "Equity investments",
+        [
+          2965.0,
+          2649.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          43351.0,
+          42026.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          7038.0,
+          7750.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          13138.0,
+          14723.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          301311.0,
+          286556.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          12530.0,
+          9382.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          3749.0,
+          5516.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          7874.0,
+          6830.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          2130.0,
+          5665.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          36000.0,
+          32676.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          10027.0,
+          9351.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          72310.0,
+          69420.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          59578.0,
+          66662.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          29432.0,
+          29612.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          3180.0,
+          4530.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          204.0,
+          233.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          7671.0,
+          6188.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          10632.0,
+          7581.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          183007.0,
+          184226.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,571 and 7,643",
+        [
+          80552.0,
+          78520.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          34566.0,
+          24150.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive income (loss)",
+        [
+          3186.0,
+          -340.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          118304.0,
+          102330.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          301311.0,
+          286556.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2020,
+    "statement": "cashflow",
+    "years": [
+      2020,
+      2019,
+      2018
+    ],
+    "table_index": 20,
+    "url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2020.0,
+          2019.0,
+          2018.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          44281.0,
+          39240.0,
+          16571.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          12796.0,
+          11682.0,
+          10261.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          5289.0,
+          4652.0,
+          3940.0
+        ]
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        [
+          -219.0,
+          -792.0,
+          -2212.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          11.0,
+          -6463.0,
+          -5143.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -2577.0,
+          -2812.0,
+          -3862.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          168.0,
+          597.0,
+          -465.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -2330.0,
+          -1718.0,
+          -952.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -1037.0,
+          -1834.0,
+          -285.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          3018.0,
+          232.0,
+          1148.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          2212.0,
+          4462.0,
+          5922.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          -3631.0,
+          2929.0,
+          18183.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          1346.0,
+          1419.0,
+          798.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          1348.0,
+          591.0,
+          -20.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          60675.0,
+          52185.0,
+          43884.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Repayments of short-term debt, maturities of 90 days or less, net",
+        [
+          0.0,
+          0.0,
+          -7324.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          0.0,
+          0.0,
+          7183.0
+        ]
+      ],
+      [
+        "Cash premium on debt exchange",
+        [
+          -3417.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -5518.0,
+          -4000.0,
+          -10060.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          1343.0,
+          1142.0,
+          1002.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -22968.0,
+          -19543.0,
+          -10721.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -15137.0,
+          -13811.0,
+          -12699.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -334.0,
+          -675.0,
+          -971.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -46031.0,
+          -36887.0,
+          -33590.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -15441.0,
+          -13925.0,
+          -11632.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -2521.0,
+          -2388.0,
+          -888.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -77190.0,
+          -57697.0,
+          -137380.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          66449.0,
+          20043.0,
+          26360.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          17721.0,
+          38194.0,
+          117577.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -1241.0,
+          0.0,
+          -98.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -12223.0,
+          -15773.0,
+          -6061.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          -201.0,
+          -115.0,
+          50.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          2220.0,
+          -590.0,
+          4283.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          11356.0,
+          11946.0,
+          7663.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          13576.0,
+          11356.0,
+          11946.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2021,
+    "statement": "income",
+    "years": [
+      2021,
+      2020,
+      2019
+    ],
+    "table_index": 16,
+    "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2021.0,
+          2020.0,
+          2019.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          71074.0,
+          68041.0,
+          66069.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          97014.0,
+          74974.0,
+          59774.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          168088.0,
+          143015.0,
+          125843.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          18219.0,
+          16017.0,
+          16273.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          34013.0,
+          30061.0,
+          26637.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          52232.0,
+          46078.0,
+          42910.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          115856.0,
+          96937.0,
+          82933.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          20716.0,
+          19269.0,
+          16876.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          20117.0,
+          19598.0,
+          18213.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          5107.0,
+          5111.0,
+          4885.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          69916.0,
+          52959.0,
+          42959.0
+        ]
+      ],
+      [
+        "Other income, net",
+        [
+          1186.0,
+          77.0,
+          729.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          71102.0,
+          53036.0,
+          43688.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          9831.0,
+          8755.0,
+          4448.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          61271.0,
+          44281.0,
+          39240.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          8.12,
+          5.82,
+          5.11
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          8.05,
+          5.76,
+          5.06
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7547.0,
+          7610.0,
+          7673.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7608.0,
+          7683.0,
+          7753.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2021,
+    "statement": "balance",
+    "years": [
+      2021,
+      2020
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2021.0,
+          2020.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          14224.0,
+          13576.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          116110.0,
+          122951.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          130334.0,
+          136527.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $751 and $788",
+        [
+          38043.0,
+          32011.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          2636.0,
+          1895.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          13393.0,
+          11482.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          184406.0,
+          181915.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $51,351 and $43,197",
+        [
+          59715.0,
+          44151.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          11088.0,
+          8753.0
+        ]
+      ],
+      [
+        "Equity investments",
+        [
+          5984.0,
+          2965.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          49711.0,
+          43351.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          7800.0,
+          7038.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          15075.0,
+          13138.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          333779.0,
+          301311.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          15163.0,
+          12530.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          8072.0,
+          3749.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          10057.0,
+          7874.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          2174.0,
+          2130.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          41525.0,
+          36000.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          11666.0,
+          10027.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          88657.0,
+          72310.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          50074.0,
+          59578.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          27190.0,
+          29432.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          2616.0,
+          3180.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          198.0,
+          204.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          9629.0,
+          7671.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          13427.0,
+          10632.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          191791.0,
+          183007.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,519 and 7,571",
+        [
+          83111.0,
+          80552.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          57055.0,
+          34566.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive income",
+        [
+          1822.0,
+          3186.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          141988.0,
+          118304.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          333779.0,
+          301311.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2021,
+    "statement": "cashflow",
+    "years": [
+      2021,
+      2020,
+      2019
+    ],
+    "table_index": 19,
+    "url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2021.0,
+          2020.0,
+          2019.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          61271.0,
+          44281.0,
+          39240.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          11686.0,
+          12796.0,
+          11682.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          6118.0,
+          5289.0,
+          4652.0
+        ]
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        [
+          -1249.0,
+          -219.0,
+          -792.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -150.0,
+          11.0,
+          -6463.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -6481.0,
+          -2577.0,
+          -2812.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          -737.0,
+          168.0,
+          597.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -932.0,
+          -2330.0,
+          -1718.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -3459.0,
+          -1037.0,
+          -1834.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          2798.0,
+          3018.0,
+          232.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          4633.0,
+          2212.0,
+          4462.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          -2309.0,
+          -3631.0,
+          2929.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          4149.0,
+          1346.0,
+          1419.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          1402.0,
+          1348.0,
+          591.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          76740.0,
+          60675.0,
+          52185.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Cash premium on debt exchange",
+        [
+          -1754.0,
+          -3417.0,
+          0.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -3750.0,
+          -5518.0,
+          -4000.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          1693.0,
+          1343.0,
+          1142.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -27385.0,
+          -22968.0,
+          -19543.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -16521.0,
+          -15137.0,
+          -13811.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -769.0,
+          -334.0,
+          -675.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -48486.0,
+          -46031.0,
+          -36887.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -20622.0,
+          -15441.0,
+          -13925.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -8909.0,
+          -2521.0,
+          -2388.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -62924.0,
+          -77190.0,
+          -57697.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          51792.0,
+          66449.0,
+          20043.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          14008.0,
+          17721.0,
+          38194.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -922.0,
+          -1241.0,
+          0.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -27577.0,
+          -12223.0,
+          -15773.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          -29.0,
+          -201.0,
+          -115.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          648.0,
+          2220.0,
+          -590.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          13576.0,
+          11356.0,
+          11946.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          14224.0,
+          13576.0,
+          11356.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2022,
+    "statement": "income",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "table_index": 16,
+    "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2022.0,
+          2021.0,
+          2020.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          72732.0,
+          71074.0,
+          68041.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          125538.0,
+          97014.0,
+          74974.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          198270.0,
+          168088.0,
+          143015.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          19064.0,
+          18219.0,
+          16017.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          43586.0,
+          34013.0,
+          30061.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          62650.0,
+          52232.0,
+          46078.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          135620.0,
+          115856.0,
+          96937.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          24512.0,
+          20716.0,
+          19269.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          21825.0,
+          20117.0,
+          19598.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          5900.0,
+          5107.0,
+          5111.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          83383.0,
+          69916.0,
+          52959.0
+        ]
+      ],
+      [
+        "Other income, net",
+        [
+          333.0,
+          1186.0,
+          77.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          83716.0,
+          71102.0,
+          53036.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          10978.0,
+          9831.0,
+          8755.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          72738.0,
+          61271.0,
+          44281.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          9.7,
+          8.12,
+          5.82
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          9.65,
+          8.05,
+          5.76
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7496.0,
+          7547.0,
+          7610.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7540.0,
+          7608.0,
+          7683.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2022,
+    "statement": "balance",
+    "years": [
+      2022,
+      2021
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2022.0,
+          2021.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          13931.0,
+          14224.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          90826.0,
+          116110.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          104757.0,
+          130334.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $633 and $751",
+        [
+          44261.0,
+          38043.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          3742.0,
+          2636.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          16924.0,
+          13393.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          169684.0,
+          184406.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $59,660 and $51,351",
+        [
+          74398.0,
+          59715.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          13148.0,
+          11088.0
+        ]
+      ],
+      [
+        "Equity investments",
+        [
+          6891.0,
+          5984.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          67524.0,
+          49711.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          11298.0,
+          7800.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          21897.0,
+          15075.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          364840.0,
+          333779.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          19000.0,
+          15163.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          2749.0,
+          8072.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          10661.0,
+          10057.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          4067.0,
+          2174.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          45538.0,
+          41525.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          13067.0,
+          11666.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          95082.0,
+          88657.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          47032.0,
+          50074.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          26069.0,
+          27190.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          2870.0,
+          2616.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          230.0,
+          198.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          11489.0,
+          9629.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          15526.0,
+          13427.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          198298.0,
+          191791.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,464 and 7,519",
+        [
+          86939.0,
+          83111.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          84281.0,
+          57055.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive income (loss)",
+        [
+          -4678.0,
+          1822.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          166542.0,
+          141988.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          364840.0,
+          333779.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2022,
+    "statement": "cashflow",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "table_index": 19,
+    "url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2022.0,
+          2021.0,
+          2020.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          72738.0,
+          61271.0,
+          44281.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          14460.0,
+          11686.0,
+          12796.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          7502.0,
+          6118.0,
+          5289.0
+        ]
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        [
+          -409.0,
+          -1249.0,
+          -219.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -5702.0,
+          -150.0,
+          11.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -6834.0,
+          -6481.0,
+          -2577.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          -1123.0,
+          -737.0,
+          168.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -709.0,
+          -932.0,
+          -2330.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -2805.0,
+          -3459.0,
+          -1037.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          2943.0,
+          2798.0,
+          3018.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          5109.0,
+          4633.0,
+          2212.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          696.0,
+          -2309.0,
+          -3631.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          2344.0,
+          4149.0,
+          1346.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          825.0,
+          1402.0,
+          1348.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          89035.0,
+          76740.0,
+          60675.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Cash premium on debt exchange",
+        [
+          0.0,
+          -1754.0,
+          -3417.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -9023.0,
+          -3750.0,
+          -5518.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          1841.0,
+          1693.0,
+          1343.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -32696.0,
+          -27385.0,
+          -22968.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -18135.0,
+          -16521.0,
+          -15137.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -863.0,
+          -769.0,
+          -334.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -58876.0,
+          -48486.0,
+          -46031.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -23886.0,
+          -20622.0,
+          -15441.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -22038.0,
+          -8909.0,
+          -2521.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -26456.0,
+          -62924.0,
+          -77190.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          16451.0,
+          51792.0,
+          66449.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          28443.0,
+          14008.0,
+          17721.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -2825.0,
+          -922.0,
+          -1241.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -30311.0,
+          -27577.0,
+          -12223.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          -141.0,
+          -29.0,
+          -201.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          -293.0,
+          648.0,
+          2220.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          14224.0,
+          13576.0,
+          11356.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          13931.0,
+          14224.0,
+          13576.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2023,
+    "statement": "income",
+    "years": [
+      2023,
+      2022,
+      2021
+    ],
+    "table_index": 16,
+    "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2023.0,
+          2022.0,
+          2021.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          64699.0,
+          72732.0,
+          71074.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          147216.0,
+          125538.0,
+          97014.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          211915.0,
+          198270.0,
+          168088.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          17804.0,
+          19064.0,
+          18219.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          48059.0,
+          43586.0,
+          34013.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          65863.0,
+          62650.0,
+          52232.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          146052.0,
+          135620.0,
+          115856.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          27195.0,
+          24512.0,
+          20716.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          22759.0,
+          21825.0,
+          20117.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          7575.0,
+          5900.0,
+          5107.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          88523.0,
+          83383.0,
+          69916.0
+        ]
+      ],
+      [
+        "Other income, net",
+        [
+          788.0,
+          333.0,
+          1186.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          89311.0,
+          83716.0,
+          71102.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          16950.0,
+          10978.0,
+          9831.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          72361.0,
+          72738.0,
+          61271.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          9.72,
+          9.7,
+          8.12
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          9.68,
+          9.65,
+          8.05
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7446.0,
+          7496.0,
+          7547.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7472.0,
+          7540.0,
+          7608.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2023,
+    "statement": "balance",
+    "years": [
+      2023,
+      2022
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2023.0,
+          2022.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          34704.0,
+          13931.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          76558.0,
+          90826.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          111262.0,
+          104757.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $650 and $633",
+        [
+          48688.0,
+          44261.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          2500.0,
+          3742.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          21807.0,
+          16924.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          184257.0,
+          169684.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $68,251 and $59,660",
+        [
+          95641.0,
+          74398.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          14346.0,
+          13148.0
+        ]
+      ],
+      [
+        "Equity investments",
+        [
+          9879.0,
+          6891.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          67886.0,
+          67524.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          9366.0,
+          11298.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          30601.0,
+          21897.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          411976.0,
+          364840.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          18095.0,
+          19000.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          5247.0,
+          2749.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          11009.0,
+          10661.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          4152.0,
+          4067.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          50901.0,
+          45538.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          14745.0,
+          13067.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          104149.0,
+          95082.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          41990.0,
+          47032.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          25560.0,
+          26069.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          2912.0,
+          2870.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          433.0,
+          230.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          12728.0,
+          11489.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          17981.0,
+          15526.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          205753.0,
+          198298.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,432 and 7,464",
+        [
+          93718.0,
+          86939.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          118848.0,
+          84281.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive loss",
+        [
+          -6343.0,
+          -4678.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          206223.0,
+          166542.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          411976.0,
+          364840.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2023,
+    "statement": "cashflow",
+    "years": [
+      2023,
+      2022,
+      2021
+    ],
+    "table_index": 19,
+    "url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2023.0,
+          2022.0,
+          2021.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          72361.0,
+          72738.0,
+          61271.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          13861.0,
+          14460.0,
+          11686.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          9611.0,
+          7502.0,
+          6118.0
+        ]
+      ],
+      [
+        "Net recognized losses (gains) on investments and derivatives",
+        [
+          196.0,
+          -409.0,
+          -1249.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -6059.0,
+          -5702.0,
+          -150.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -4087.0,
+          -6834.0,
+          -6481.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          1242.0,
+          -1123.0,
+          -737.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -1991.0,
+          -709.0,
+          -932.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -2833.0,
+          -2805.0,
+          -3459.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          -2721.0,
+          2943.0,
+          2798.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          5535.0,
+          5109.0,
+          4633.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          -358.0,
+          696.0,
+          -2309.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          2272.0,
+          2344.0,
+          4149.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          553.0,
+          825.0,
+          1402.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          87582.0,
+          89035.0,
+          76740.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Cash premium on debt exchange",
+        [
+          0.0,
+          0.0,
+          -1754.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -2750.0,
+          -9023.0,
+          -3750.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          1866.0,
+          1841.0,
+          1693.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -22245.0,
+          -32696.0,
+          -27385.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -19800.0,
+          -18135.0,
+          -16521.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -1006.0,
+          -863.0,
+          -769.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -43935.0,
+          -58876.0,
+          -48486.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -28107.0,
+          -23886.0,
+          -20622.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -1670.0,
+          -22038.0,
+          -8909.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -37651.0,
+          -26456.0,
+          -62924.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          33510.0,
+          16451.0,
+          51792.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          14354.0,
+          28443.0,
+          14008.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -3116.0,
+          -2825.0,
+          -922.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -22680.0,
+          -30311.0,
+          -27577.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          -194.0,
+          -141.0,
+          -29.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          20773.0,
+          -293.0,
+          648.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          13931.0,
+          14224.0,
+          13576.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          34704.0,
+          13931.0,
+          14224.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2024,
+    "statement": "income",
+    "years": [
+      2024,
+      2023,
+      2022
+    ],
+    "table_index": 16,
+    "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2024.0,
+          2023.0,
+          2022.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          64773.0,
+          64699.0,
+          72732.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          180349.0,
+          147216.0,
+          125538.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          245122.0,
+          211915.0,
+          198270.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          15272.0,
+          17804.0,
+          19064.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          58842.0,
+          48059.0,
+          43586.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          74114.0,
+          65863.0,
+          62650.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          171008.0,
+          146052.0,
+          135620.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          29510.0,
+          27195.0,
+          24512.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          24456.0,
+          22759.0,
+          21825.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          7609.0,
+          7575.0,
+          5900.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          109433.0,
+          88523.0,
+          83383.0
+        ]
+      ],
+      [
+        "Other income (expense), net",
+        [
+          -1646.0,
+          788.0,
+          333.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          107787.0,
+          89311.0,
+          83716.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          19651.0,
+          16950.0,
+          10978.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          88136.0,
+          72361.0,
+          72738.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          11.86,
+          9.72,
+          9.7
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          11.8,
+          9.68,
+          9.65
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7431.0,
+          7446.0,
+          7496.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7469.0,
+          7472.0,
+          7540.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2024,
+    "statement": "balance",
+    "years": [
+      2024,
+      2023
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2024.0,
+          2023.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          18315.0,
+          34704.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          57228.0,
+          76558.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          75543.0,
+          111262.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $830 and $650",
+        [
+          56924.0,
+          48688.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          1246.0,
+          2500.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          26021.0,
+          21807.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          159734.0,
+          184257.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $76,421 and $68,251",
+        [
+          135591.0,
+          95641.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          18961.0,
+          14346.0
+        ]
+      ],
+      [
+        "Equity and other investments",
+        [
+          14600.0,
+          9879.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          119220.0,
+          67886.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          27597.0,
+          9366.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          36460.0,
+          30601.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          512163.0,
+          411976.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          21996.0,
+          18095.0
+        ]
+      ],
+      [
+        "Short-term debt",
+        [
+          6693.0,
+          0.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          2249.0,
+          5247.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          12564.0,
+          11009.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          5017.0,
+          4152.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          57582.0,
+          50901.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          19185.0,
+          14745.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          125286.0,
+          104149.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          42688.0,
+          41990.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          27931.0,
+          25560.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          2602.0,
+          2912.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          2618.0,
+          433.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          15497.0,
+          12728.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          27064.0,
+          17981.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          243686.0,
+          205753.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,434 and 7,432",
+        [
+          100923.0,
+          93718.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          173144.0,
+          118848.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive loss",
+        [
+          -5590.0,
+          -6343.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          268477.0,
+          206223.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          512163.0,
+          411976.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2024,
+    "statement": "cashflow",
+    "years": [
+      2024,
+      2023,
+      2022
+    ],
+    "table_index": 19,
+    "url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2024.0,
+          2023.0,
+          2022.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          88136.0,
+          72361.0,
+          72738.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          22287.0,
+          13861.0,
+          14460.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          10734.0,
+          9611.0,
+          7502.0
+        ]
+      ],
+      [
+        "Net recognized losses (gains) on investments and derivatives",
+        [
+          305.0,
+          196.0,
+          -409.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -4738.0,
+          -6059.0,
+          -5702.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -7191.0,
+          -4087.0,
+          -6834.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          1284.0,
+          1242.0,
+          -1123.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -1648.0,
+          -1991.0,
+          -709.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -6817.0,
+          -2833.0,
+          -2805.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          3545.0,
+          -2721.0,
+          2943.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          5348.0,
+          5535.0,
+          5109.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          1687.0,
+          -358.0,
+          696.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          4867.0,
+          2272.0,
+          2344.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          749.0,
+          553.0,
+          825.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          118548.0,
+          87582.0,
+          89035.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Proceeds from issuance of debt, maturities of 90 days or less, net",
+        [
+          5250.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          24395.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -29070.0,
+          -2750.0,
+          -9023.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          2002.0,
+          1866.0,
+          1841.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -17254.0,
+          -22245.0,
+          -32696.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -21771.0,
+          -19800.0,
+          -18135.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -1309.0,
+          -1006.0,
+          -863.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -37757.0,
+          -43935.0,
+          -58876.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -44477.0,
+          -28107.0,
+          -23886.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        [
+          -69132.0,
+          -1670.0,
+          -22038.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -17732.0,
+          -37651.0,
+          -26456.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          24775.0,
+          33510.0,
+          16451.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          10894.0,
+          14354.0,
+          28443.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -1298.0,
+          -3116.0,
+          -2825.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -96970.0,
+          -22680.0,
+          -30311.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          -210.0,
+          -194.0,
+          -141.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          -16389.0,
+          20773.0,
+          -293.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          34704.0,
+          13931.0,
+          14224.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          18315.0,
+          34704.0,
+          13931.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2025,
+    "statement": "income",
+    "years": [
+      2025,
+      2024,
+      2023
+    ],
+    "table_index": 15,
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2025.0,
+          2024.0,
+          2023.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          63946.0,
+          64773.0,
+          64699.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          217778.0,
+          180349.0,
+          147216.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          281724.0,
+          245122.0,
+          211915.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          13501.0,
+          15272.0,
+          17804.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          74330.0,
+          58842.0,
+          48059.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          87831.0,
+          74114.0,
+          65863.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          193893.0,
+          171008.0,
+          146052.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          32488.0,
+          29510.0,
+          27195.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          25654.0,
+          24456.0,
+          22759.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          7223.0,
+          7609.0,
+          7575.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          128528.0,
+          109433.0,
+          88523.0
+        ]
+      ],
+      [
+        "Other income (expense), net",
+        [
+          -4901.0,
+          -1646.0,
+          788.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          123627.0,
+          107787.0,
+          89311.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          21795.0,
+          19651.0,
+          16950.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          101832.0,
+          88136.0,
+          72361.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          13.7,
+          11.86,
+          9.72
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          13.64,
+          11.8,
+          9.68
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7433.0,
+          7431.0,
+          7446.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7465.0,
+          7469.0,
+          7472.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2025,
+    "statement": "balance",
+    "years": [
+      2025,
+      2024
+    ],
+    "table_index": 17,
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2025.0,
+          2024.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          30242.0,
+          18315.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          64323.0,
+          57228.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          94565.0,
+          75543.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $944 and $830",
+        [
+          69905.0,
+          56924.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          938.0,
+          1246.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          25723.0,
+          26021.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          191131.0,
+          159734.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $93,653 and $76,421",
+        [
+          204966.0,
+          135591.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          24823.0,
+          18961.0
+        ]
+      ],
+      [
+        "Equity and other investments",
+        [
+          15405.0,
+          14600.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          119509.0,
+          119220.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          22604.0,
+          27597.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          40565.0,
+          36460.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          619003.0,
+          512163.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          27724.0,
+          21996.0
+        ]
+      ],
+      [
+        "Short-term debt",
+        [
+          0.0,
+          6693.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          2999.0,
+          2249.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          13709.0,
+          12564.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          7211.0,
+          5017.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          64555.0,
+          57582.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          25020.0,
+          19185.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          141218.0,
+          125286.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          40152.0,
+          42688.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          25986.0,
+          27931.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          2710.0,
+          2602.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          2835.0,
+          2618.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          17437.0,
+          15497.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          45186.0,
+          27064.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          275524.0,
+          243686.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,434 and 7,434",
+        [
+          109095.0,
+          100923.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          237731.0,
+          173144.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive loss",
+        [
+          -3347.0,
+          -5590.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          343479.0,
+          268477.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          619003.0,
+          512163.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2025,
+    "statement": "cashflow",
+    "years": [
+      2025,
+      2024,
+      2023
+    ],
+    "table_index": 18,
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2025.0,
+          2024.0,
+          2023.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          101832.0,
+          88136.0,
+          72361.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          34153.0,
+          22287.0,
+          13861.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          11974.0,
+          10734.0,
+          9611.0
+        ]
+      ],
+      [
+        "Net recognized losses on investments and derivatives",
+        [
+          609.0,
+          305.0,
+          196.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          -7056.0,
+          -4738.0,
+          -6059.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -10581.0,
+          -7191.0,
+          -4087.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          309.0,
+          1284.0,
+          1242.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -3044.0,
+          -1648.0,
+          -1991.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -2950.0,
+          -6817.0,
+          -2833.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          569.0,
+          3545.0,
+          -2721.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          5438.0,
+          5348.0,
+          5535.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          -38.0,
+          1687.0,
+          -358.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          5922.0,
+          4867.0,
+          2272.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          -975.0,
+          749.0,
+          553.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          136162.0,
+          118548.0,
+          87582.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Proceeds from issuance (repayments) of debt, maturities of 90 days or less, net",
+        [
+          -5746.0,
+          5250.0,
+          0.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          0.0,
+          24395.0,
+          0.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -3216.0,
+          -29070.0,
+          -2750.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          2056.0,
+          2002.0,
+          1866.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -18420.0,
+          -17254.0,
+          -22245.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -24082.0,
+          -21771.0,
+          -19800.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -2291.0,
+          -1309.0,
+          -1006.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -51699.0,
+          -37757.0,
+          -43935.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -64551.0,
+          -44477.0,
+          -28107.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired and divestitures, and purchases of intangible and other assets",
+        [
+          -5978.0,
+          -69132.0,
+          -1670.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -29775.0,
+          -17732.0,
+          -37651.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          16079.0,
+          24775.0,
+          33510.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          9309.0,
+          10894.0,
+          14354.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          2317.0,
+          -1298.0,
+          -3116.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -72599.0,
+          -96970.0,
+          -22680.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          63.0,
+          -210.0,
+          -194.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          11927.0,
+          -16389.0,
+          20773.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          18315.0,
+          34704.0,
+          13931.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          30242.0,
+          18315.0,
+          34704.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2026,
+    "statement": "income",
+    "years": [
+      2026,
+      2025,
+      2024
+    ],
+    "table_index": 24,
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+    "rows": [
+      [
+        "(In millions, except per share amounts)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2026.0,
+          2025.0,
+          2024.0
+        ]
+      ],
+      [
+        "Revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          64696.0,
+          63946.0,
+          64773.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          267143.0,
+          217778.0,
+          180349.0
+        ]
+      ],
+      [
+        "Total revenue",
+        [
+          331839.0,
+          281724.0,
+          245122.0
+        ]
+      ],
+      [
+        "Cost of revenue:",
+        []
+      ],
+      [
+        "Product",
+        [
+          12098.0,
+          13501.0,
+          15272.0
+        ]
+      ],
+      [
+        "Service and other",
+        [
+          94276.0,
+          74330.0,
+          58842.0
+        ]
+      ],
+      [
+        "Total cost of revenue",
+        [
+          106374.0,
+          87831.0,
+          74114.0
+        ]
+      ],
+      [
+        "Gross margin",
+        [
+          225465.0,
+          193893.0,
+          171008.0
+        ]
+      ],
+      [
+        "Research and development",
+        [
+          35562.0,
+          32488.0,
+          29510.0
+        ]
+      ],
+      [
+        "Sales and marketing",
+        [
+          26710.0,
+          25654.0,
+          24456.0
+        ]
+      ],
+      [
+        "General and administrative",
+        [
+          7956.0,
+          7223.0,
+          7609.0
+        ]
+      ],
+      [
+        "Operating income",
+        [
+          155237.0,
+          128528.0,
+          109433.0
+        ]
+      ],
+      [
+        "Other income (expense), net",
+        [
+          10697.0,
+          -4901.0,
+          -1646.0
+        ]
+      ],
+      [
+        "Income before income taxes",
+        [
+          165934.0,
+          123627.0,
+          107787.0
+        ]
+      ],
+      [
+        "Provision for income taxes",
+        [
+          32185.0,
+          21795.0,
+          19651.0
+        ]
+      ],
+      [
+        "Net income",
+        [
+          133749.0,
+          101832.0,
+          88136.0
+        ]
+      ],
+      [
+        "Earnings per share:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          18.0,
+          13.7,
+          11.86
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          17.95,
+          13.64,
+          11.8
+        ]
+      ],
+      [
+        "Weighted average shares outstanding:",
+        []
+      ],
+      [
+        "Basic",
+        [
+          7429.0,
+          7433.0,
+          7431.0
+        ]
+      ],
+      [
+        "Diluted",
+        [
+          7453.0,
+          7465.0,
+          7469.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2026,
+    "statement": "balance",
+    "years": [
+      2026,
+      2025
+    ],
+    "table_index": 26,
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "June 30,",
+        [
+          2026.0,
+          2025.0
+        ]
+      ],
+      [
+        "Assets",
+        []
+      ],
+      [
+        "Current assets:",
+        []
+      ],
+      [
+        "Cash and cash equivalents",
+        [
+          20935.0,
+          30242.0
+        ]
+      ],
+      [
+        "Short-term investments",
+        [
+          55908.0,
+          64323.0
+        ]
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        [
+          76843.0,
+          94565.0
+        ]
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $1,040 and $944",
+        [
+          80876.0,
+          69905.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          1397.0,
+          938.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          48594.0,
+          25723.0
+        ]
+      ],
+      [
+        "Total current assets",
+        [
+          207710.0,
+          191131.0
+        ]
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $118,691 and $93,653",
+        [
+          313076.0,
+          204966.0
+        ]
+      ],
+      [
+        "Operating lease right-of-use assets",
+        [
+          24177.0,
+          24823.0
+        ]
+      ],
+      [
+        "Equity and other investments",
+        [
+          36348.0,
+          15405.0
+        ]
+      ],
+      [
+        "Goodwill",
+        [
+          119651.0,
+          119509.0
+        ]
+      ],
+      [
+        "Intangible assets, net",
+        [
+          18609.0,
+          22604.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          38805.0,
+          40565.0
+        ]
+      ],
+      [
+        "Total assets",
+        [
+          758376.0,
+          619003.0
+        ]
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        []
+      ],
+      [
+        "Current liabilities:",
+        []
+      ],
+      [
+        "Accounts payable",
+        [
+          42416.0,
+          27724.0
+        ]
+      ],
+      [
+        "Current portion of long-term debt",
+        [
+          9227.0,
+          2999.0
+        ]
+      ],
+      [
+        "Accrued compensation",
+        [
+          14945.0,
+          13709.0
+        ]
+      ],
+      [
+        "Short-term income taxes",
+        [
+          2534.0,
+          7211.0
+        ]
+      ],
+      [
+        "Short-term unearned revenue",
+        [
+          72965.0,
+          64555.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          26738.0,
+          25020.0
+        ]
+      ],
+      [
+        "Total current liabilities",
+        [
+          168825.0,
+          141218.0
+        ]
+      ],
+      [
+        "Long-term debt",
+        [
+          31067.0,
+          40152.0
+        ]
+      ],
+      [
+        "Long-term income taxes",
+        [
+          28647.0,
+          25986.0
+        ]
+      ],
+      [
+        "Long-term unearned revenue",
+        [
+          2747.0,
+          2710.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          3054.0,
+          2835.0
+        ]
+      ],
+      [
+        "Operating lease liabilities",
+        [
+          16532.0,
+          17437.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          65117.0,
+          45186.0
+        ]
+      ],
+      [
+        "Total liabilities",
+        [
+          315989.0,
+          275524.0
+        ]
+      ],
+      [
+        "Commitments and contingencies",
+        []
+      ],
+      [
+        "Stockholders' equity:",
+        []
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,427 and 7,434",
+        [
+          117406.0,
+          109095.0
+        ]
+      ],
+      [
+        "Retained earnings",
+        [
+          328265.0,
+          237731.0
+        ]
+      ],
+      [
+        "Accumulated other comprehensive loss",
+        [
+          -3284.0,
+          -3347.0
+        ]
+      ],
+      [
+        "Total stockholders' equity",
+        [
+          442387.0,
+          343479.0
+        ]
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        [
+          758376.0,
+          619003.0
+        ]
+      ]
+    ]
+  },
+  {
+    "report_year": 2026,
+    "statement": "cashflow",
+    "years": [
+      2026,
+      2025,
+      2024
+    ],
+    "table_index": 27,
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+    "rows": [
+      [
+        "(In millions)",
+        []
+      ],
+      [
+        "Year Ended June 30,",
+        [
+          2026.0,
+          2025.0,
+          2024.0
+        ]
+      ],
+      [
+        "Operations",
+        []
+      ],
+      [
+        "Net income",
+        [
+          133749.0,
+          101832.0,
+          88136.0
+        ]
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        []
+      ],
+      [
+        "Depreciation, amortization, and other",
+        [
+          38534.0,
+          29433.0,
+          20958.0
+        ]
+      ],
+      [
+        "Stock-based compensation expense",
+        [
+          12405.0,
+          11974.0,
+          10734.0
+        ]
+      ],
+      [
+        "Net recognized losses (gains) on investments and derivatives",
+        [
+          -11047.0,
+          5329.0,
+          1634.0
+        ]
+      ],
+      [
+        "Deferred income taxes",
+        [
+          14189.0,
+          -7056.0,
+          -4738.0
+        ]
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        []
+      ],
+      [
+        "Accounts receivable",
+        [
+          -12737.0,
+          -10581.0,
+          -7191.0
+        ]
+      ],
+      [
+        "Inventories",
+        [
+          -461.0,
+          309.0,
+          1284.0
+        ]
+      ],
+      [
+        "Other current assets",
+        [
+          -2627.0,
+          -3044.0,
+          -1648.0
+        ]
+      ],
+      [
+        "Other long-term assets",
+        [
+          -3964.0,
+          -2950.0,
+          -6817.0
+        ]
+      ],
+      [
+        "Accounts payable",
+        [
+          5268.0,
+          569.0,
+          3545.0
+        ]
+      ],
+      [
+        "Unearned revenue",
+        [
+          9361.0,
+          5438.0,
+          5348.0
+        ]
+      ],
+      [
+        "Income taxes",
+        [
+          -1875.0,
+          -38.0,
+          1687.0
+        ]
+      ],
+      [
+        "Other current liabilities",
+        [
+          6847.0,
+          5922.0,
+          4867.0
+        ]
+      ],
+      [
+        "Other long-term liabilities",
+        [
+          -4707.0,
+          -975.0,
+          749.0
+        ]
+      ],
+      [
+        "Net cash from operations",
+        [
+          182935.0,
+          136162.0,
+          118548.0
+        ]
+      ],
+      [
+        "Financing",
+        []
+      ],
+      [
+        "Proceeds from issuance (repayments) of debt, maturities of 90 days or less, net",
+        [
+          0.0,
+          -5746.0,
+          5250.0
+        ]
+      ],
+      [
+        "Proceeds from issuance of debt",
+        [
+          0.0,
+          0.0,
+          24395.0
+        ]
+      ],
+      [
+        "Repayments of debt",
+        [
+          -3000.0,
+          -3216.0,
+          -29070.0
+        ]
+      ],
+      [
+        "Common stock issued",
+        [
+          2009.0,
+          2056.0,
+          2002.0
+        ]
+      ],
+      [
+        "Common stock repurchased",
+        [
+          -22271.0,
+          -18420.0,
+          -17254.0
+        ]
+      ],
+      [
+        "Common stock cash dividends paid",
+        [
+          -26445.0,
+          -24082.0,
+          -21771.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -2839.0,
+          -2291.0,
+          -1309.0
+        ]
+      ],
+      [
+        "Net cash used in financing",
+        [
+          -52546.0,
+          -51699.0,
+          -37757.0
+        ]
+      ],
+      [
+        "Investing",
+        []
+      ],
+      [
+        "Additions to property and equipment",
+        [
+          -115948.0,
+          -64551.0,
+          -44477.0
+        ]
+      ],
+      [
+        "Acquisition of companies, net of cash acquired and divestitures, and purchases of intangible and other assets",
+        [
+          -1743.0,
+          -5978.0,
+          -69132.0
+        ]
+      ],
+      [
+        "Purchases of investments",
+        [
+          -58351.0,
+          -29775.0,
+          -17732.0
+        ]
+      ],
+      [
+        "Maturities of investments",
+        [
+          34605.0,
+          16079.0,
+          24775.0
+        ]
+      ],
+      [
+        "Sales of investments",
+        [
+          21798.0,
+          9309.0,
+          10894.0
+        ]
+      ],
+      [
+        "Other, net",
+        [
+          -19861.0,
+          2317.0,
+          -1298.0
+        ]
+      ],
+      [
+        "Net cash used in investing",
+        [
+          -139500.0,
+          -72599.0,
+          -96970.0
+        ]
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        [
+          -196.0,
+          63.0,
+          -210.0
+        ]
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        [
+          -9307.0,
+          11927.0,
+          -16389.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        [
+          30242.0,
+          18315.0,
+          34704.0
+        ]
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        [
+          20935.0,
+          30242.0,
+          18315.0
+        ]
+      ]
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+{
+  "valuation_date": "2026-10-08",
+  "price": 522.61,
+  "price_basis": "Unadjusted MSFT regular-session close in USD, 8 Oct 2026",
+  "beta_estimation": "Five-year market model with intercept, total-return adjusted MSFT and SPY daily prices",
+  "riskfree": 0.052199999999999996,
+  "three_month_treasury": 0.042300000000000004,
+  "erp": 0.042,
+  "erp_observation_date": "2026-10-01",
+  "debt_spread": 0.004,
+  "spread_observation_date": "2026-01-01",
+  "treasury_cutoff_row": {
+    "Date": "10/08/2026",
+    "1 Mo": "4.14",
+    "1.5 Month": "4.14",
+    "2 Mo": "4.13",
+    "3 Mo": "4.23",
+    "4 Mo": "4.29",
+    "6 Mo": "4.30",
+    "1 Yr": "4.44",
+    "2 Yr": "4.75",
+    "3 Yr": "4.85",
+    "5 Yr": "4.99",
+    "7 Yr": "5.11",
+    "10 Yr": "5.22",
+    "20 Yr": "5.64",
+    "30 Yr": "5.60"
+  },
+  "observations": 1256,
+  "sources": [
+    {
+      "name": "msft_prices.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?period1=1633564800&period2=1791504000&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "path": "data/raw/market/msft_prices.json",
+      "bytes": 137344,
+      "mime_type": "application/json",
+      "sha256": "382d36c2febb771b450dd451e7634ad2b83345803b0455ca4c517443bef12ad1",
+      "retrieved_at": "2026-10-12T11:24:07.147330+00:00"
+    },
+    {
+      "name": "spy_prices.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?period1=1633564800&period2=1791504000&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "path": "data/raw/market/spy_prices.json",
+      "bytes": 137430,
+      "mime_type": "application/json",
+      "sha256": "b9c06232c9cc5d06435ebe41d395e3f19ea5277544431b5619da0057a244630f",
+      "retrieved_at": "2026-10-12T11:24:07.092709+00:00"
+    },
+    {
+      "name": "treasury_oct2026.csv",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/all/202610?_format=csv&field_tdr_date_value_month=202610&page=&type=daily_treasury_yield_curve",
+      "path": "data/raw/market/treasury_oct2026.csv",
+      "bytes": 677,
+      "mime_type": "text/csv",
+      "sha256": "c1e7943ebde94dd4033fe450b15a495d97df504d109666684af589641198c881",
+      "retrieved_at": "2026-10-12T11:24:07.659180+00:00"
+    },
+    {
+      "name": "treasury_oct2026.html",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=202610",
+      "path": "data/raw/market/treasury_oct2026.html",
+      "bytes": 171304,
+      "mime_type": "text/html",
+      "sha256": "81ce2745ae04883f2acfb6c373aad9c9ea81f97a85aeb5337d49f4653a4a6361",
+      "retrieved_at": "2026-10-12T11:24:07.899722+00:00"
+    },
+    {
+      "name": "damodaran_home.html",
+      "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm",
+      "path": "data/raw/market/damodaran_home.html",
+      "bytes": 17069,
+      "mime_type": "text/html",
+      "sha256": "755ad4d972431c7852bc0a723630d86cbfc84b14febb259858d1938458c0e0c7",
+      "retrieved_at": "2026-10-12T11:24:07.005205+00:00"
+    },
+    {
+      "name": "damodaran_ratings_jan2026.html",
+      "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ratings.html",
+      "path": "data/raw/market/damodaran_ratings_jan2026.html",
+      "bytes": 49398,
+      "mime_type": "text/html",
+      "sha256": "71d5dba40bd0659b7d6fe6f0e2d25036442d66b3c5e309480d0c9b48b2c3ba63",
+      "retrieved_at": "2026-10-12T11:24:12.896142+00:00"
+    },
+    {
+      "name": "ERPbymonth.xlsx",
+      "url": "https://pages.stern.nyu.edu/~adamodar/pc/implprem/ERPbymonth.xlsx",
+      "path": "data/raw/market/ERPbymonth.xlsx",
+      "bytes": 47530,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "56605b608bad9fb49b24206954b3b38eedb364ebee0cc2663e5020e28449cc9f",
+      "retrieved_at": "2026-10-12T11:24:13.047271+00:00"
+    },
+    {
+      "name": "ERPOct26.xlsx",
+      "url": "https://pages.stern.nyu.edu/~adamodar/pc/implprem/ERPOct26.xlsx",
+      "path": "data/raw/market/ERPOct26.xlsx",
+      "bytes": 1509431,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "54c311b7908d9d91ee04810ce29a0d6dffe82d73a90ebe17352510091db72f0b",
+      "retrieved_at": "2026-10-12T11:24:13.895841+00:00"
+    },
+    {
+      "name": "microsoft_stock_lookup.html",
+      "url": "https://microsoft.gcs-web.com/",
+      "path": "data/raw/market/microsoft_stock_lookup.html",
+      "bytes": 19719,
+      "mime_type": "text/html",
+      "sha256": "f7f4c9782e822a08c0a7c1fd7cf147b7c9cf82d4de34273878a25c74310780c6",
+      "retrieved_at": "2026-10-12T11:24:14.918346+00:00"
+    },
+    {
+      "name": "hc3_method.html",
+      "url": "https://www.statsmodels.org/stable/generated/statsmodels.regression.linear_model.OLSResults.HC3_se.html",
+      "path": "data/raw/market/hc3_method.html",
+      "bytes": 47782,
+      "mime_type": "text/html",
+      "sha256": "2708796b332c9e3ea386d05e5f9929416ddb10d06ede8e1743a352db72bc50b2",
+      "retrieved_at": "2026-10-12T11:24:12.575251+00:00"
+    }
+  ],
+  "erp_period_validation": "Use the explicitly dated October 1, 2026 author homepage. ERPbymonth.xlsx has a conflicting last Excel date serial (44834, October 1, 2022) and is not used to select the valuation period."
+}

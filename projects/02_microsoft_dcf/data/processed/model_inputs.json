@@ -1,0 +1,1117 @@
+{
+  "company": "Microsoft Corporation",
+  "units": "USD millions, shares in millions",
+  "valuation_date": "2026-10-08",
+  "forecast_years": [
+    2027,
+    2028,
+    2029,
+    2030,
+    2031
+  ],
+  "market": {
+    "valuation_date": "2026-10-08",
+    "price": 522.61,
+    "price_basis": "Unadjusted MSFT regular-session close in USD, 8 Oct 2026",
+    "beta_estimation": "Five-year market model with intercept, total-return adjusted MSFT and SPY daily prices",
+    "riskfree": 0.052199999999999996,
+    "three_month_treasury": 0.042300000000000004,
+    "erp": 0.042,
+    "erp_observation_date": "2026-10-01",
+    "debt_spread": 0.004,
+    "spread_observation_date": "2026-01-01",
+    "treasury_cutoff_row": {
+      "Date": "10/08/2026",
+      "1 Mo": "4.14",
+      "1.5 Month": "4.14",
+      "2 Mo": "4.13",
+      "3 Mo": "4.23",
+      "4 Mo": "4.29",
+      "6 Mo": "4.30",
+      "1 Yr": "4.44",
+      "2 Yr": "4.75",
+      "3 Yr": "4.85",
+      "5 Yr": "4.99",
+      "7 Yr": "5.11",
+      "10 Yr": "5.22",
+      "20 Yr": "5.64",
+      "30 Yr": "5.60"
+    },
+    "observations": 1256,
+    "sources": [
+      {
+        "name": "msft_prices.json",
+        "url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?period1=1633564800&period2=1791504000&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+        "path": "data/raw/market/msft_prices.json",
+        "bytes": 137344,
+        "mime_type": "application/json",
+        "sha256": "382d36c2febb771b450dd451e7634ad2b83345803b0455ca4c517443bef12ad1",
+        "retrieved_at": "2026-10-12T11:24:07.147330+00:00"
+      },
+      {
+        "name": "spy_prices.json",
+        "url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?period1=1633564800&period2=1791504000&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+        "path": "data/raw/market/spy_prices.json",
+        "bytes": 137430,
+        "mime_type": "application/json",
+        "sha256": "b9c06232c9cc5d06435ebe41d395e3f19ea5277544431b5619da0057a244630f",
+        "retrieved_at": "2026-10-12T11:24:07.092709+00:00"
+      },
+      {
+        "name": "treasury_oct2026.csv",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/all/202610?_format=csv&field_tdr_date_value_month=202610&page=&type=daily_treasury_yield_curve",
+        "path": "data/raw/market/treasury_oct2026.csv",
+        "bytes": 677,
+        "mime_type": "text/csv",
+        "sha256": "c1e7943ebde94dd4033fe450b15a495d97df504d109666684af589641198c881",
+        "retrieved_at": "2026-10-12T11:24:07.659180+00:00"
+      },
+      {
+        "name": "treasury_oct2026.html",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=202610",
+        "path": "data/raw/market/treasury_oct2026.html",
+        "bytes": 171304,
+        "mime_type": "text/html",
+        "sha256": "81ce2745ae04883f2acfb6c373aad9c9ea81f97a85aeb5337d49f4653a4a6361",
+        "retrieved_at": "2026-10-12T11:24:07.899722+00:00"
+      },
+      {
+        "name": "damodaran_home.html",
+        "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm",
+        "path": "data/raw/market/damodaran_home.html",
+        "bytes": 17069,
+        "mime_type": "text/html",
+        "sha256": "755ad4d972431c7852bc0a723630d86cbfc84b14febb259858d1938458c0e0c7",
+        "retrieved_at": "2026-10-12T11:24:07.005205+00:00"
+      },
+      {
+        "name": "damodaran_ratings_jan2026.html",
+        "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ratings.html",
+        "path": "data/raw/market/damodaran_ratings_jan2026.html",
+        "bytes": 49398,
+        "mime_type": "text/html",
+        "sha256": "71d5dba40bd0659b7d6fe6f0e2d25036442d66b3c5e309480d0c9b48b2c3ba63",
+        "retrieved_at": "2026-10-12T11:24:12.896142+00:00"
+      },
+      {
+        "name": "ERPbymonth.xlsx",
+        "url": "https://pages.stern.nyu.edu/~adamodar/pc/implprem/ERPbymonth.xlsx",
+        "path": "data/raw/market/ERPbymonth.xlsx",
+        "bytes": 47530,
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "sha256": "56605b608bad9fb49b24206954b3b38eedb364ebee0cc2663e5020e28449cc9f",
+        "retrieved_at": "2026-10-12T11:24:13.047271+00:00"
+      },
+      {
+        "name": "ERPOct26.xlsx",
+        "url": "https://pages.stern.nyu.edu/~adamodar/pc/implprem/ERPOct26.xlsx",
+        "path": "data/raw/market/ERPOct26.xlsx",
+        "bytes": 1509431,
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "sha256": "54c311b7908d9d91ee04810ce29a0d6dffe82d73a90ebe17352510091db72f0b",
+        "retrieved_at": "2026-10-12T11:24:13.895841+00:00"
+      },
+      {
+        "name": "microsoft_stock_lookup.html",
+        "url": "https://microsoft.gcs-web.com/",
+        "path": "data/raw/market/microsoft_stock_lookup.html",
+        "bytes": 19719,
+        "mime_type": "text/html",
+        "sha256": "f7f4c9782e822a08c0a7c1fd7cf147b7c9cf82d4de34273878a25c74310780c6",
+        "retrieved_at": "2026-10-12T11:24:14.918346+00:00"
+      },
+      {
+        "name": "hc3_method.html",
+        "url": "https://www.statsmodels.org/stable/generated/statsmodels.regression.linear_model.OLSResults.HC3_se.html",
+        "path": "data/raw/market/hc3_method.html",
+        "bytes": 47782,
+        "mime_type": "text/html",
+        "sha256": "2708796b332c9e3ea386d05e5f9929416ddb10d06ede8e1743a352db72bc50b2",
+        "retrieved_at": "2026-10-12T11:24:12.575251+00:00"
+      }
+    ],
+    "erp_period_validation": "Use the explicitly dated October 1, 2026 author homepage. ERPbymonth.xlsx has a conflicting last Excel date serial (44834, October 1, 2022) and is not used to select the valuation period."
+  },
+  "controls": {
+    "case_number": 1,
+    "point_shares": 7425.545491,
+    "incremental_share_proxy": 24.0,
+    "liquid_assets": 76843.0,
+    "operating_cash_reserve": 25000.0,
+    "equity_investments": 36348.0,
+    "investment_haircut_factor": 1.0,
+    "debt_fair_value": 36500.0,
+    "finance_lease_liability": 66594.0,
+    "marginal_tax": 0.21,
+    "terminal_tax": 0.2,
+    "stub_fraction": 0.726027397260274,
+    "timing_mode": 1,
+    "beta_mode": 1,
+    "manual_beta": 1.0,
+    "wacc_override": null
+  },
+  "initial": {
+    "revenue": 331839.0,
+    "segment_revenue": [
+      139996.0,
+      137791.0,
+      54052.0
+    ],
+    "nwc": 10186.0,
+    "historical_ebitda": 194237.0
+  },
+  "cases": {
+    "Base": {
+      "pbp_growth": [
+        0.14,
+        0.13,
+        0.12,
+        0.11,
+        0.1
+      ],
+      "ic_growth": [
+        0.24,
+        0.22,
+        0.2,
+        0.18,
+        0.16
+      ],
+      "mpc_growth": [
+        0.01,
+        0.02,
+        0.02,
+        0.02,
+        0.02
+      ],
+      "tax_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "cash_capex_ratio": [
+        0.32,
+        0.28,
+        0.25,
+        0.22,
+        0.2
+      ],
+      "finance_lease_add_ratio": [
+        0.075,
+        0.07,
+        0.065,
+        0.06,
+        0.055
+      ],
+      "ebit_margin": [
+        0.45637874221208147,
+        0.425622954183409,
+        0.4022939964496796,
+        0.38630180822151133,
+        0.3746364321844728
+      ],
+      "da_ratio": [
+        0.13872622535117626,
+        0.17490340981455696,
+        0.20338972619283274,
+        0.22429706562590956,
+        0.24067092866817685
+      ],
+      "capitalized_interest_ratio": [
+        0.0027327756118185535,
+        0.002723088574731303,
+        0.0028076620363419714,
+        0.002828973267152494,
+        0.0028431268486944794
+      ],
+      "nwc_ratio": [
+        0.01803220968082034,
+        0.0043792635186995915,
+        -0.003445795036353289,
+        -0.010435320148000443,
+        -0.01693736390389678
+      ],
+      "terminal_growth": 0.03,
+      "terminal_roic": 0.2,
+      "terminal_margin": 0.4
+    },
+    "Upside": {
+      "pbp_growth": [
+        0.18,
+        0.16,
+        0.14,
+        0.13,
+        0.12
+      ],
+      "ic_growth": [
+        0.32,
+        0.28,
+        0.25,
+        0.22,
+        0.2
+      ],
+      "mpc_growth": [
+        0.04,
+        0.04,
+        0.03,
+        0.03,
+        0.03
+      ],
+      "tax_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "cash_capex_ratio": [
+        0.34,
+        0.31,
+        0.28,
+        0.25,
+        0.23
+      ],
+      "finance_lease_add_ratio": [
+        0.085,
+        0.08,
+        0.075,
+        0.07,
+        0.065
+      ],
+      "ebit_margin": [
+        0.47847512243954116,
+        0.4444279228632594,
+        0.41851991074359696,
+        0.4006535974853936,
+        0.3881286559266899
+      ],
+      "da_ratio": [
+        0.1271620307039044,
+        0.16685660228521013,
+        0.1980118989361872,
+        0.22083143536050964,
+        0.23808973690157645
+      ],
+      "capitalized_interest_ratio": [
+        0.002669415226102837,
+        0.0026732760411312248,
+        0.0027743428251391844,
+        0.0028163270071159302,
+        0.0028419774159298716
+      ],
+      "nwc_ratio": [
+        0.015096218426163299,
+        0.0010687529465324684,
+        -0.007050752100901187,
+        -0.014255289299046332,
+        -0.020856617672659138
+      ],
+      "terminal_growth": 0.035,
+      "terminal_roic": 0.25,
+      "terminal_margin": 0.45
+    },
+    "Downside": {
+      "pbp_growth": [
+        0.08,
+        0.07,
+        0.06,
+        0.06,
+        0.05
+      ],
+      "ic_growth": [
+        0.14,
+        0.12,
+        0.1,
+        0.1,
+        0.09
+      ],
+      "mpc_growth": [
+        -0.05,
+        -0.03,
+        0,
+        0.01,
+        0.01
+      ],
+      "tax_rate": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "cash_capex_ratio": [
+        0.35,
+        0.33,
+        0.3,
+        0.28,
+        0.25
+      ],
+      "finance_lease_add_ratio": [
+        0.075,
+        0.065,
+        0.055,
+        0.05,
+        0.045
+      ],
+      "ebit_margin": [
+        0.40408177730221706,
+        0.3437945304765762,
+        0.2923142893778798,
+        0.25201285122941547,
+        0.21783445173369081
+      ],
+      "da_ratio": [
+        0.17261350517064167,
+        0.23802305793264666,
+        0.29389815185793416,
+        0.3385715297193527,
+        0.37697817934898853
+      ],
+      "capitalized_interest_ratio": [
+        0.0029020973790275153,
+        0.0030119509473764882,
+        0.0031729166051757667,
+        0.0032074810806299705,
+        0.0032346500559384144
+      ],
+      "nwc_ratio": [
+        0.023757655385929263,
+        0.015722834444356553,
+        0.004664595524958725,
+        -0.005114303801528783,
+        -0.014199130226734072
+      ],
+      "terminal_growth": 0.025,
+      "terminal_roic": 0.15,
+      "terminal_margin": 0.35
+    }
+  },
+  "historical": [
+    {
+      "category": "income",
+      "metric": "revenue",
+      "label": "Revenue",
+      "values": [
+        96571.0,
+        110360.0,
+        125843.0,
+        143015.0,
+        168088.0,
+        198270.0,
+        211915.0,
+        245122.0,
+        281724.0,
+        331839.0
+      ]
+    },
+    {
+      "category": "income",
+      "metric": "operating_income",
+      "label": "Operating income",
+      "values": [
+        29025.0,
+        35058.0,
+        42959.0,
+        52959.0,
+        69916.0,
+        83383.0,
+        88523.0,
+        109433.0,
+        128528.0,
+        155237.0
+      ]
+    },
+    {
+      "category": "income",
+      "metric": "income_tax",
+      "label": "Income tax expense",
+      "values": [
+        4412.0,
+        19903.0,
+        4448.0,
+        8755.0,
+        9831.0,
+        10978.0,
+        16950.0,
+        19651.0,
+        21795.0,
+        32185.0
+      ]
+    },
+    {
+      "category": "income",
+      "metric": "pretax_income",
+      "label": "Pretax income",
+      "values": [
+        29901.0,
+        36474.0,
+        43688.0,
+        53036.0,
+        71102.0,
+        83716.0,
+        89311.0,
+        107787.0,
+        123627.0,
+        165934.0
+      ]
+    },
+    {
+      "category": "income",
+      "metric": "shares_basic",
+      "label": "Weighted average basic shares",
+      "values": [
+        7746.0,
+        7700.0,
+        7673.0,
+        7610.0,
+        7547.0,
+        7496.0,
+        7446.0,
+        7431.0,
+        7433.0,
+        7429.0
+      ]
+    },
+    {
+      "category": "income",
+      "metric": "shares_diluted",
+      "label": "Weighted average diluted shares",
+      "values": [
+        7832.0,
+        7794.0,
+        7753.0,
+        7683.0,
+        7608.0,
+        7540.0,
+        7472.0,
+        7469.0,
+        7465.0,
+        7453.0
+      ]
+    },
+    {
+      "category": "cashflow",
+      "metric": "da_other",
+      "label": "Cash flow depreciation and other adjustments",
+      "values": [
+        8778.0,
+        10261.0,
+        11682.0,
+        12796.0,
+        11686.0,
+        14460.0,
+        13861.0,
+        20958.0,
+        29433.0,
+        38534.0
+      ]
+    },
+    {
+      "category": "cashflow",
+      "metric": "cfo",
+      "label": "Operating cash flow",
+      "values": [
+        39507.0,
+        43884.0,
+        52185.0,
+        60675.0,
+        76740.0,
+        89035.0,
+        87582.0,
+        118548.0,
+        136162.0,
+        182935.0
+      ]
+    },
+    {
+      "category": "cashflow",
+      "metric": "capex",
+      "label": "Cash purchases of property and equipment",
+      "values": [
+        -8129.0,
+        -11632.0,
+        -13925.0,
+        -15441.0,
+        -20622.0,
+        -23886.0,
+        -28107.0,
+        -44477.0,
+        -64551.0,
+        -115948.0
+      ]
+    },
+    {
+      "category": "cashflow",
+      "metric": "sbc",
+      "label": "Stock based compensation",
+      "values": [
+        3266.0,
+        3940.0,
+        4652.0,
+        5289.0,
+        6118.0,
+        7502.0,
+        9611.0,
+        10734.0,
+        11974.0,
+        12405.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "cash",
+      "label": "Cash and cash equivalents",
+      "values": [
+        7663.0,
+        11946.0,
+        11356.0,
+        13576.0,
+        14224.0,
+        13931.0,
+        34704.0,
+        18315.0,
+        30242.0,
+        20935.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "st_investments",
+      "label": "Short term investments",
+      "values": [
+        125318.0,
+        121822.0,
+        122463.0,
+        122951.0,
+        116110.0,
+        90826.0,
+        76558.0,
+        57228.0,
+        64323.0,
+        55908.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "equity_investments",
+      "label": "Equity and other investments",
+      "values": [
+        6023.0,
+        1862.0,
+        2649.0,
+        2965.0,
+        5984.0,
+        6891.0,
+        9879.0,
+        14600.0,
+        15405.0,
+        36348.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "receivables",
+      "label": "Accounts receivable",
+      "values": [
+        22431.0,
+        26481.0,
+        29524.0,
+        32011.0,
+        38043.0,
+        44261.0,
+        48688.0,
+        56924.0,
+        69905.0,
+        80876.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "inventory",
+      "label": "Inventory",
+      "values": [
+        2181.0,
+        2662.0,
+        2063.0,
+        1895.0,
+        2636.0,
+        3742.0,
+        2500.0,
+        1246.0,
+        938.0,
+        1397.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "other_current_assets",
+      "label": "Other current assets",
+      "values": [
+        5103.0,
+        6751.0,
+        10146.0,
+        11482.0,
+        13393.0,
+        16924.0,
+        21807.0,
+        26021.0,
+        25723.0,
+        48594.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "payables",
+      "label": "Accounts payable including capex payables",
+      "values": [
+        7390.0,
+        8617.0,
+        9382.0,
+        12530.0,
+        15163.0,
+        19000.0,
+        18095.0,
+        21996.0,
+        27724.0,
+        42416.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "compensation",
+      "label": "Accrued compensation",
+      "values": [
+        5819.0,
+        6103.0,
+        6830.0,
+        7874.0,
+        10057.0,
+        10661.0,
+        11009.0,
+        12564.0,
+        13709.0,
+        14945.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "current_deferred_rev",
+      "label": "Current unearned revenue",
+      "values": [
+        24013.0,
+        28905.0,
+        32676.0,
+        36000.0,
+        41525.0,
+        45538.0,
+        50901.0,
+        57582.0,
+        64555.0,
+        72965.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "other_current_liab",
+      "label": "Other current liabilities including lease portions",
+      "values": [
+        7684.0,
+        8744.0,
+        9351.0,
+        10027.0,
+        11666.0,
+        13067.0,
+        14745.0,
+        19185.0,
+        25020.0,
+        26738.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "current_debt",
+      "label": "Current portion of long term debt",
+      "values": [
+        1049.0,
+        3998.0,
+        5516.0,
+        3749.0,
+        8072.0,
+        2749.0,
+        5247.0,
+        2249.0,
+        2999.0,
+        9227.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "st_debt",
+      "label": "Short term debt",
+      "values": [
+        9072.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6693.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "long_debt",
+      "label": "Long term debt carrying amount",
+      "values": [
+        76073.0,
+        72242.0,
+        66662.0,
+        59578.0,
+        50074.0,
+        47032.0,
+        41990.0,
+        42688.0,
+        40152.0,
+        31067.0
+      ]
+    },
+    {
+      "category": "balance",
+      "metric": "ppe",
+      "label": "Property and equipment net",
+      "values": [
+        23734.0,
+        29460.0,
+        36477.0,
+        44151.0,
+        59715.0,
+        74398.0,
+        95641.0,
+        135591.0,
+        204966.0,
+        313076.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "ppe_depreciation",
+      "label": "Property and equipment depreciation",
+      "values": [
+        6100.0,
+        7700.0,
+        9700.0,
+        10700.0,
+        9300.0,
+        12600.0,
+        11000.0,
+        15200.0,
+        22000.0,
+        34300.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "intangible_amortization",
+      "label": "Intangible amortization",
+      "values": [
+        1700.0,
+        2200.0,
+        1900.0,
+        1600.0,
+        1600.0,
+        2000.0,
+        2500.0,
+        4800.0,
+        6000.0,
+        4700.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "finance_lease_liab",
+      "label": "Finance lease liabilities",
+      "values": [
+        2538.0,
+        4301.0,
+        6574.0,
+        9496.0,
+        12541.0,
+        14902.0,
+        17067.0,
+        27145.0,
+        46172.0,
+        66594.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "finance_lease_additions",
+      "label": "Finance lease asset additions",
+      "values": [
+        1773.0,
+        1933.0,
+        2532.0,
+        3467.0,
+        3290.0,
+        4234.0,
+        3128.0,
+        11633.0,
+        20511.0,
+        24608.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "finance_lease_principal",
+      "label": "Finance lease principal paid",
+      "values": [
+        46.0,
+        144.0,
+        221.0,
+        409.0,
+        648.0,
+        896.0,
+        1056.0,
+        1286.0,
+        2283.0,
+        3101.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "capex_payables",
+      "label": "Capital expenditure payables",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        26700
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "op_lease_current",
+      "label": "Current operating lease liability",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        5393
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "finance_lease_current",
+      "label": "Current finance lease liability",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        4290
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "operating_lease_liab",
+      "label": "Operating lease liabilities",
+      "values": [
+        6795.0,
+        6967.0,
+        7703.0,
+        9287.0,
+        11591.0,
+        13717.0,
+        15137.0,
+        19077.0,
+        22861.0,
+        21925.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "operating_lease_cost",
+      "label": "Operating lease expense",
+      "values": [
+        1412.0,
+        1585.0,
+        1707.0,
+        2043.0,
+        2127.0,
+        2461.0,
+        2875.0,
+        3555.0,
+        5524.0,
+        6968.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "debt_face",
+      "label": "Debt principal outstanding",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        46136
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "interest_expense",
+      "label": "Interest expense",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1968.0,
+        2935.0,
+        2385.0,
+        3051.0
+      ]
+    },
+    {
+      "category": "notes",
+      "metric": "land",
+      "label": "Land cost",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        10546
+      ]
+    },
+    {
+      "category": "segments",
+      "metric": "pbp_revenue",
+      "label": "Productivity and Business Processes revenue",
+      "values": [
+        29870.0,
+        35865.0,
+        41160.0,
+        46398.0,
+        53915.0,
+        63364.0,
+        94151.0,
+        106820.0,
+        120810.0,
+        139996.0
+      ]
+    },
+    {
+      "category": "segments",
+      "metric": "ic_revenue",
+      "label": "Intelligent Cloud revenue",
+      "values": [
+        27407.0,
+        32219.0,
+        38985.0,
+        48366.0,
+        59728.0,
+        74965.0,
+        72944.0,
+        87464.0,
+        106265.0,
+        137791.0
+      ]
+    },
+    {
+      "category": "segments",
+      "metric": "mpc_revenue",
+      "label": "More Personal Computing revenue",
+      "values": [
+        39294.0,
+        42276.0,
+        45698.0,
+        48251.0,
+        54445.0,
+        59941.0,
+        44820.0,
+        50838.0,
+        54649.0,
+        54052.0
+      ]
+    }
+  ],
+  "historical_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "historical_nwc": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    10186.0
+  ],
+  "beta_results": {
+    "n": 1255,
+    "alpha": 9.131400841830995e-06,
+    "beta": 1.1278117341104905,
+    "beta_blume": 1.085207822740327,
+    "r_squared": 0.4715108940865699,
+    "ols_se_alpha": 0.0003646066400363627,
+    "ols_se_beta": 0.03373131150437084,
+    "hc3_se_alpha": 0.0003631734194680228,
+    "hc3_se_beta": 0.039593033765066454,
+    "hac5_se_beta": 0.05019281738109273,
+    "critical_t": 1.9618590567281606,
+    "hc3_beta_lower": 1.050135782235151,
+    "hc3_beta_upper": 1.2054876859858301,
+    "hc3_beta_p_value": 5.046172353335219e-138,
+    "sxx": 0.14623207365712865,
+    "sse": 0.20847796740613725,
+    "sst": 0.3944792145635775,
+    "mean_x": 0.0005639476176604394,
+    "mean_y": 0.0006451581414629308
+  }
+}
