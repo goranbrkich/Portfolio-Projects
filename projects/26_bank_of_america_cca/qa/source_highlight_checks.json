@@ -1,0 +1,1637 @@
+{
+  "html": [
+    {
+      "original": "data/raw/filings/BAC_0000070858-26-000394_bac-20260630.htm",
+      "marked": "highlighted/BAC_0000070858-26-000394_bac-20260630.htm",
+      "matched_facts": 55,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-26-000157_bac-20251231.htm",
+      "marked": "highlighted/BAC_0000070858-26-000157_bac-20251231.htm",
+      "matched_facts": 54,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-25-000268_bac-20250630.htm",
+      "marked": "highlighted/BAC_0000070858-25-000268_bac-20250630.htm",
+      "matched_facts": 10,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-25-000139_bac-20241231.htm",
+      "marked": "highlighted/BAC_0000070858-25-000139_bac-20241231.htm",
+      "matched_facts": 25,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-24-000122_bac-20231231.htm",
+      "marked": "highlighted/BAC_0000070858-24-000122_bac-20231231.htm",
+      "matched_facts": 27,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-23-000092_bac-20221231.htm",
+      "marked": "highlighted/BAC_0000070858-23-000092_bac-20221231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-22-000062_bac-20211231.htm",
+      "marked": "highlighted/BAC_0000070858-22-000062_bac-20211231.htm",
+      "matched_facts": 22,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-21-000023_bac-20201231.htm",
+      "marked": "highlighted/BAC_0000070858-21-000023_bac-20201231.htm",
+      "matched_facts": 22,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-20-000011_bac-1231201910xk.htm",
+      "marked": "highlighted/BAC_0000070858-20-000011_bac-1231201910xk.htm",
+      "matched_facts": 27,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-19-000012_bac-1231201810xk.htm",
+      "marked": "highlighted/BAC_0000070858-19-000012_bac-1231201810xk.htm",
+      "matched_facts": 25,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-18-000009_bac-1231201710xk.htm",
+      "marked": "highlighted/BAC_0000070858-18-000009_bac-1231201710xk.htm",
+      "matched_facts": 1,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/BAC_0000070858-17-000013_bac-1231201610xk.htm",
+      "marked": "highlighted/BAC_0000070858-17-000013_bac-1231201610xk.htm",
+      "matched_facts": 1,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0001628280-26-054343_jpm-20260630.htm",
+      "marked": "highlighted/JPM_0001628280-26-054343_jpm-20260630.htm",
+      "matched_facts": 63,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0001628280-26-008131_jpm-20251231.htm",
+      "marked": "highlighted/JPM_0001628280-26-008131_jpm-20251231.htm",
+      "matched_facts": 70,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-25-000615_jpm-20250630.htm",
+      "marked": "highlighted/JPM_0000019617-25-000615_jpm-20250630.htm",
+      "matched_facts": 10,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-25-000270_jpm-20241231.htm",
+      "marked": "highlighted/JPM_0000019617-25-000270_jpm-20241231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-24-000225_jpm-20231231.htm",
+      "marked": "highlighted/JPM_0000019617-24-000225_jpm-20231231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-23-000231_jpm-20221231.htm",
+      "marked": "highlighted/JPM_0000019617-23-000231_jpm-20221231.htm",
+      "matched_facts": 29,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-22-000272_jpm-20211231.htm",
+      "marked": "highlighted/JPM_0000019617-22-000272_jpm-20211231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-21-000236_jpm-20201231.htm",
+      "marked": "highlighted/JPM_0000019617-21-000236_jpm-20201231.htm",
+      "matched_facts": 28,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-20-000257_corp10k2019.htm",
+      "marked": "highlighted/JPM_0000019617-20-000257_corp10k2019.htm",
+      "matched_facts": 27,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-19-000054_corp10k2018.htm",
+      "marked": "highlighted/JPM_0000019617-19-000054_corp10k2018.htm",
+      "matched_facts": 28,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-18-000057_corp10k2017.htm",
+      "marked": "highlighted/JPM_0000019617-18-000057_corp10k2017.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/JPM_0000019617-17-000314_corp10k2016.htm",
+      "marked": "highlighted/JPM_0000019617-17-000314_corp10k2016.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-26-000045_c-20260630.htm",
+      "marked": "highlighted/C_0000831001-26-000045_c-20260630.htm",
+      "matched_facts": 57,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-26-000011_c-20251231.htm",
+      "marked": "highlighted/C_0000831001-26-000011_c-20251231.htm",
+      "matched_facts": 57,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-25-000131_c-20250630.htm",
+      "marked": "highlighted/C_0000831001-25-000131_c-20250630.htm",
+      "matched_facts": 13,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-25-000067_c-20241231.htm",
+      "marked": "highlighted/C_0000831001-25-000067_c-20241231.htm",
+      "matched_facts": 27,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-24-000033_c-20231231.htm",
+      "marked": "highlighted/C_0000831001-24-000033_c-20231231.htm",
+      "matched_facts": 27,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-23-000037_c-20221231.htm",
+      "marked": "highlighted/C_0000831001-23-000037_c-20221231.htm",
+      "matched_facts": 25,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-22-000036_c-20211231.htm",
+      "marked": "highlighted/C_0000831001-22-000036_c-20211231.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-21-000042_c-20201231.htm",
+      "marked": "highlighted/C_0000831001-21-000042_c-20201231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-20-000031_c-12312019x10k.htm",
+      "marked": "highlighted/C_0000831001-20-000031_c-12312019x10k.htm",
+      "matched_facts": 25,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-19-000027_c-12312018x10k.htm",
+      "marked": "highlighted/C_0000831001-19-000027_c-12312018x10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-18-000040_c-12312017x10k.htm",
+      "marked": "highlighted/C_0000831001-18-000040_c-12312017x10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/C_0000831001-17-000038_c-12312016x10k.htm",
+      "marked": "highlighted/C_0000831001-17-000038_c-12312016x10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-26-000302_wfc-20260630.htm",
+      "marked": "highlighted/WFC_0000072971-26-000302_wfc-20260630.htm",
+      "matched_facts": 57,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-26-000133_wfc-20251231_d2.htm",
+      "marked": "highlighted/WFC_0000072971-26-000133_wfc-20251231_d2.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-25-000201_wfc-20250630.htm",
+      "marked": "highlighted/WFC_0000072971-25-000201_wfc-20250630.htm",
+      "matched_facts": 8,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-25-000066_wfc-20241231.htm",
+      "marked": "highlighted/WFC_0000072971-25-000066_wfc-20241231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-24-000064_wfc-20231231.htm",
+      "marked": "highlighted/WFC_0000072971-24-000064_wfc-20231231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-23-000071_wfc-20221231.htm",
+      "marked": "highlighted/WFC_0000072971-23-000071_wfc-20221231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-22-000096_wfc-20211231.htm",
+      "marked": "highlighted/WFC_0000072971-22-000096_wfc-20211231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-21-000197_wfc-20201231.htm",
+      "marked": "highlighted/WFC_0000072971-21-000197_wfc-20201231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-20-000217_wfc-12312019x10k.htm",
+      "marked": "highlighted/WFC_0000072971-20-000217_wfc-12312019x10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-19-000227_wfc-12312018x10k.htm",
+      "marked": "highlighted/WFC_0000072971-19-000227_wfc-12312018x10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-18-000272_wfc-12312017x10k.htm",
+      "marked": "highlighted/WFC_0000072971-18-000272_wfc-12312017x10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/WFC_0000072971-17-000278_wfc-12312016x10k.htm",
+      "marked": "highlighted/WFC_0000072971-17-000278_wfc-12312016x10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0000886982-26-000297_gs-20260630.htm",
+      "marked": "highlighted/GS_0000886982-26-000297_gs-20260630.htm",
+      "matched_facts": 63,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0000886982-26-000091_gs-20251231.htm",
+      "marked": "highlighted/GS_0000886982-26-000091_gs-20251231.htm",
+      "matched_facts": 60,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0000886982-25-000022_gs-20250630.htm",
+      "marked": "highlighted/GS_0000886982-25-000022_gs-20250630.htm",
+      "matched_facts": 12,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0000886982-25-000005_gs-20241231.htm",
+      "marked": "highlighted/GS_0000886982-25-000005_gs-20241231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0000886982-24-000006_gs-20231231.htm",
+      "marked": "highlighted/GS_0000886982-24-000006_gs-20231231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0000886982-23-000003_gs-20221231.htm",
+      "marked": "highlighted/GS_0000886982-23-000003_gs-20221231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0001193125-22-052682_d192225d10k.htm",
+      "marked": "highlighted/GS_0001193125-22-052682_d192225d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0001193125-21-049380_d39654d10k.htm",
+      "marked": "highlighted/GS_0001193125-21-049380_d39654d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0001193125-20-043853_d826673d10k.htm",
+      "marked": "highlighted/GS_0001193125-20-043853_d826673d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0001193125-19-050198_d669877d10k.htm",
+      "marked": "highlighted/GS_0001193125-19-050198_d669877d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0001193125-18-056383_d480167d10k.htm",
+      "marked": "highlighted/GS_0001193125-18-056383_d480167d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/GS_0001193125-17-056804_d308759d10k.htm",
+      "marked": "highlighted/GS_0001193125-17-056804_d308759d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-26-000212_ms-20260630.htm",
+      "marked": "highlighted/MS_0000895421-26-000212_ms-20260630.htm",
+      "matched_facts": 62,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-26-000086_ms-20251231.htm",
+      "marked": "highlighted/MS_0000895421-26-000086_ms-20251231.htm",
+      "matched_facts": 60,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-25-000440_ms-20250630.htm",
+      "marked": "highlighted/MS_0000895421-25-000440_ms-20250630.htm",
+      "matched_facts": 15,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-25-000304_ms-20241231.htm",
+      "marked": "highlighted/MS_0000895421-25-000304_ms-20241231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-24-000300_ms-20231231.htm",
+      "marked": "highlighted/MS_0000895421-24-000300_ms-20231231.htm",
+      "matched_facts": 29,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-23-000284_ms-20221231.htm",
+      "marked": "highlighted/MS_0000895421-23-000284_ms-20221231.htm",
+      "matched_facts": 31,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-22-000400_ms-20211231.htm",
+      "marked": "highlighted/MS_0000895421-22-000400_ms-20211231.htm",
+      "matched_facts": 31,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-21-000286_ms-20201231.htm",
+      "marked": "highlighted/MS_0000895421-21-000286_ms-20201231.htm",
+      "matched_facts": 30,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0000895421-20-000265_msq4201910k.htm",
+      "marked": "highlighted/MS_0000895421-20-000265_msq4201910k.htm",
+      "matched_facts": 28,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0001193125-19-051943_d707577d10k.htm",
+      "marked": "highlighted/MS_0001193125-19-051943_d707577d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0001193125-18-060831_d500533d10k.htm",
+      "marked": "highlighted/MS_0001193125-18-060831_d500533d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/MS_0001193125-17-059212_d328282d10k.htm",
+      "marked": "highlighted/MS_0001193125-17-059212_d328282d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0000036104-26-000044_usb-20260630.htm",
+      "marked": "highlighted/USB_0000036104-26-000044_usb-20260630.htm",
+      "matched_facts": 57,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0000036104-26-000011_usb-20251231.htm",
+      "marked": "highlighted/USB_0000036104-26-000011_usb-20251231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0000036104-25-000055_usb-20250630.htm",
+      "marked": "highlighted/USB_0000036104-25-000055_usb-20250630.htm",
+      "matched_facts": 14,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0000036104-25-000016_usb-20241231.htm",
+      "marked": "highlighted/USB_0000036104-25-000016_usb-20241231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0000036104-24-000018_usb-20231231.htm",
+      "marked": "highlighted/USB_0000036104-24-000018_usb-20231231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0001193125-23-050691_d410791d10k.htm",
+      "marked": "highlighted/USB_0001193125-23-050691_d410791d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0001193125-22-048709_d256232d10k.htm",
+      "marked": "highlighted/USB_0001193125-22-048709_d256232d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0001193125-21-052547_d14650d10k.htm",
+      "marked": "highlighted/USB_0001193125-21-052547_d14650d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0001193125-20-043622_d597518d10k.htm",
+      "marked": "highlighted/USB_0001193125-20-043622_d597518d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0001193125-19-047201_d584906d10k.htm",
+      "marked": "highlighted/USB_0001193125-19-047201_d584906d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0001193125-18-053893_d492040d10k.htm",
+      "marked": "highlighted/USB_0001193125-18-053893_d492040d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/USB_0001193125-17-053947_d291857d10k.htm",
+      "marked": "highlighted/USB_0001193125-17-053947_d291857d10k.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0001628280-26-053170_pnc-20260630.htm",
+      "marked": "highlighted/PNC_0001628280-26-053170_pnc-20260630.htm",
+      "matched_facts": 53,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-26-000020_pnc-20251231.htm",
+      "marked": "highlighted/PNC_0000713676-26-000020_pnc-20251231.htm",
+      "matched_facts": 50,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-25-000060_pnc-20250630.htm",
+      "marked": "highlighted/PNC_0000713676-25-000060_pnc-20250630.htm",
+      "matched_facts": 11,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-25-000027_pnc-20241231.htm",
+      "marked": "highlighted/PNC_0000713676-25-000027_pnc-20241231.htm",
+      "matched_facts": 23,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-24-000028_pnc-20231231.htm",
+      "marked": "highlighted/PNC_0000713676-24-000028_pnc-20231231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-23-000020_pnc-20221231.htm",
+      "marked": "highlighted/PNC_0000713676-23-000020_pnc-20221231.htm",
+      "matched_facts": 24,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-22-000019_pnc-20211231.htm",
+      "marked": "highlighted/PNC_0000713676-22-000019_pnc-20211231.htm",
+      "matched_facts": 24,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-21-000025_pnc-20201231.htm",
+      "marked": "highlighted/PNC_0000713676-21-000025_pnc-20201231.htm",
+      "matched_facts": 23,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-20-000042_pnc201910-k.htm",
+      "marked": "highlighted/PNC_0000713676-20-000042_pnc201910-k.htm",
+      "matched_facts": 3,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-19-000015_pnc201810k.htm",
+      "marked": "highlighted/PNC_0000713676-19-000015_pnc201810k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0000713676-18-000032_pnc-12312017x10k.htm",
+      "marked": "highlighted/PNC_0000713676-18-000032_pnc-12312017x10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_0001193125-17-062524_d300732d10k.htm",
+      "marked": "highlighted/PNC_0001193125-17-062524_d300732d10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-26-000099_tfc-20260630.htm",
+      "marked": "highlighted/TFC_0000092230-26-000099_tfc-20260630.htm",
+      "matched_facts": 53,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-26-000030_tfc-20251231.htm",
+      "marked": "highlighted/TFC_0000092230-26-000030_tfc-20251231.htm",
+      "matched_facts": 54,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-25-000123_tfc-20250630.htm",
+      "marked": "highlighted/TFC_0000092230-25-000123_tfc-20250630.htm",
+      "matched_facts": 13,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-25-000020_tfc-20241231.htm",
+      "marked": "highlighted/TFC_0000092230-25-000020_tfc-20241231.htm",
+      "matched_facts": 25,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-24-000010_tfc-20231231.htm",
+      "marked": "highlighted/TFC_0000092230-24-000010_tfc-20231231.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-23-000034_tfc-20221231.htm",
+      "marked": "highlighted/TFC_0000092230-23-000034_tfc-20221231.htm",
+      "matched_facts": 22,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-22-000008_tfc-20211231.htm",
+      "marked": "highlighted/TFC_0000092230-22-000008_tfc-20211231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-21-000032_tfc-20201231.htm",
+      "marked": "highlighted/TFC_0000092230-21-000032_tfc-20201231.htm",
+      "matched_facts": 24,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-20-000045_tfc-20191231.htm",
+      "marked": "highlighted/TFC_0000092230-20-000045_tfc-20191231.htm",
+      "matched_facts": 22,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-19-000017_form10-k_4q18.htm",
+      "marked": "highlighted/TFC_0000092230-19-000017_form10-k_4q18.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-18-000021_form10-k_4q17.htm",
+      "marked": "highlighted/TFC_0000092230-18-000021_form10-k_4q17.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/TFC_0000092230-17-000021_form10-kx2016.htm",
+      "marked": "highlighted/TFC_0000092230-17-000021_form10-kx2016.htm",
+      "matched_facts": 0,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-26-000089_cof-20260630.htm",
+      "marked": "highlighted/COF_0000927628-26-000089_cof-20260630.htm",
+      "matched_facts": 55,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-26-000024_cof-20251231.htm",
+      "marked": "highlighted/COF_0000927628-26-000024_cof-20251231.htm",
+      "matched_facts": 54,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-25-000247_cof-20250630.htm",
+      "marked": "highlighted/COF_0000927628-25-000247_cof-20250630.htm",
+      "matched_facts": 11,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-25-000092_cof-20241231.htm",
+      "marked": "highlighted/COF_0000927628-25-000092_cof-20241231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-24-000094_cof-20231231.htm",
+      "marked": "highlighted/COF_0000927628-24-000094_cof-20231231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-23-000117_cof-20221231.htm",
+      "marked": "highlighted/COF_0000927628-23-000117_cof-20221231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-22-000106_cof-20211231.htm",
+      "marked": "highlighted/COF_0000927628-22-000106_cof-20211231.htm",
+      "matched_facts": 26,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-21-000094_cof-20201231.htm",
+      "marked": "highlighted/COF_0000927628-21-000094_cof-20201231.htm",
+      "matched_facts": 25,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-20-000102_cof-12312019x10k.htm",
+      "marked": "highlighted/COF_0000927628-20-000102_cof-12312019x10k.htm",
+      "matched_facts": 28,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-19-000093_cof-12312018x10k.htm",
+      "marked": "highlighted/COF_0000927628-19-000093_cof-12312018x10k.htm",
+      "matched_facts": 22,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-18-000107_cof-12312017x10k.htm",
+      "marked": "highlighted/COF_0000927628-18-000107_cof-12312017x10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/COF_0000927628-17-000115_cof-12312016x10k.htm",
+      "marked": "highlighted/COF_0000927628-17-000115_cof-12312016x10k.htm",
+      "matched_facts": 2,
+      "source_text_preserved": true
+    },
+    {
+      "original": "data/raw/filings/PNC_2026Q2_financial_highlights.htm",
+      "marked": "highlighted/PNC_2026Q2_financial_highlights.htm",
+      "matched_facts": 5,
+      "source_text_preserved": true
+    }
+  ],
+  "pdf": [
+    {
+      "original": "data/raw/reports/C_H12026_2026prqtr2rslt.pdf",
+      "marked": "highlighted/C_H12026_2026prqtr2rslt.pdf",
+      "pages": 11,
+      "used_pages": [
+        1,
+        2,
+        3
+      ],
+      "native_highlights": 8,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/MS_H12026_finsup2q2026.pdf",
+      "marked": "highlighted/MS_H12026_finsup2q2026.pdf",
+      "pages": 19,
+      "used_pages": [
+        2,
+        3,
+        4,
+        16
+      ],
+      "native_highlights": 20,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/MS_H12026_2q2026.pdf",
+      "marked": "highlighted/MS_H12026_2q2026.pdf",
+      "pages": 9,
+      "used_pages": [
+        1,
+        8,
+        9
+      ],
+      "native_highlights": 18,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_H12026_second-quarter-2026-earnings.pdf",
+      "marked": "highlighted/WFC_H12026_second-quarter-2026-earnings.pdf",
+      "pages": 12,
+      "used_pages": [
+        1,
+        3
+      ],
+      "native_highlights": 3,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_H12026_The_Press_Release_2Q26_ADA.pdf",
+      "marked": "highlighted/BAC_H12026_The_Press_Release_2Q26_ADA.pdf",
+      "pages": 19,
+      "used_pages": [
+        8,
+        14,
+        19
+      ],
+      "native_highlights": 23,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_H12026_The_Supplemental_Information_2Q26_ADA.pdf",
+      "marked": "highlighted/BAC_H12026_The_Supplemental_Information_2Q26_ADA.pdf",
+      "pages": 32,
+      "used_pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        14,
+        31,
+        32
+      ],
+      "native_highlights": 34,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_FY2025_BAC_2025_Annual_Report.pdf",
+      "marked": "highlighted/BAC_FY2025_BAC_2025_Annual_Report.pdf",
+      "pages": 113,
+      "used_pages": [
+        28,
+        35,
+        36,
+        37,
+        38,
+        67,
+        94
+      ],
+      "native_highlights": 20,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_FY2024_BAC_2024_Annual_Report.pdf",
+      "marked": "highlighted/BAC_FY2024_BAC_2024_Annual_Report.pdf",
+      "pages": 113,
+      "used_pages": [
+        29,
+        37,
+        39,
+        68,
+        69,
+        95
+      ],
+      "native_highlights": 19,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_FY2023_BAC_2023_Annual_Report.pdf",
+      "marked": "highlighted/BAC_FY2023_BAC_2023_Annual_Report.pdf",
+      "pages": 236,
+      "used_pages": [
+        66,
+        82,
+        84,
+        86,
+        87,
+        146,
+        147,
+        199
+      ],
+      "native_highlights": 14,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_FY2022_BAC_2022_Annual_Report.pdf",
+      "marked": "highlighted/BAC_FY2022_BAC_2022_Annual_Report.pdf",
+      "pages": 226,
+      "used_pages": [
+        60,
+        77,
+        79,
+        82,
+        83,
+        139,
+        140,
+        188
+      ],
+      "native_highlights": 17,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_FY2021_BAC_AR21_Full_Report_030122_1_.pdf",
+      "marked": "highlighted/BAC_FY2021_BAC_AR21_Full_Report_030122_1_.pdf",
+      "pages": 221,
+      "used_pages": [
+        54,
+        69,
+        71,
+        73,
+        74,
+        131,
+        132,
+        182
+      ],
+      "native_highlights": 17,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/BAC_FY2020_9_BAC_2020_Annual_Report_ADA.pdf",
+      "marked": "highlighted/BAC_FY2020_9_BAC_2020_Annual_Report_ADA.pdf",
+      "pages": 207,
+      "used_pages": [
+        40,
+        52,
+        54,
+        57,
+        58,
+        122,
+        123,
+        170
+      ],
+      "native_highlights": 16,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2025_annualreport-2025.pdf",
+      "marked": "highlighted/JPM_FY2025_annualreport-2025.pdf",
+      "pages": 364,
+      "used_pages": [
+        76,
+        79,
+        87,
+        88,
+        93,
+        143,
+        162,
+        197,
+        199,
+        200,
+        201,
+        292,
+        304,
+        317,
+        318,
+        343
+      ],
+      "native_highlights": 35,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2024_annualreport-2024.pdf",
+      "marked": "highlighted/JPM_FY2024_annualreport-2024.pdf",
+      "pages": 372,
+      "used_pages": [
+        2,
+        84,
+        88,
+        97,
+        98,
+        103,
+        153,
+        172,
+        206,
+        208,
+        209,
+        210,
+        302,
+        314,
+        327,
+        328,
+        352
+      ],
+      "native_highlights": 28,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2023_annualreport-2023.pdf",
+      "marked": "highlighted/JPM_FY2023_annualreport-2023.pdf",
+      "pages": 364,
+      "used_pages": [
+        2,
+        84,
+        87,
+        96,
+        97,
+        102,
+        151,
+        170,
+        204,
+        206,
+        207,
+        208,
+        296,
+        307,
+        320,
+        321,
+        344
+      ],
+      "native_highlights": 31,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2022_annualreport-2022.pdf",
+      "marked": "highlighted/JPM_FY2022_annualreport-2022.pdf",
+      "pages": 328,
+      "used_pages": [
+        64,
+        67,
+        75,
+        76,
+        80,
+        128,
+        148,
+        179,
+        181,
+        182,
+        183,
+        264,
+        275,
+        287,
+        288,
+        311
+      ],
+      "native_highlights": 29,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2021_annualreport-2021.pdf",
+      "marked": "highlighted/JPM_FY2021_annualreport-2021.pdf",
+      "pages": 340,
+      "used_pages": [
+        2
+      ],
+      "native_highlights": 3,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2020_annualreport-2020.pdf",
+      "marked": "highlighted/JPM_FY2020_annualreport-2020.pdf",
+      "pages": 360,
+      "used_pages": [
+        88,
+        91,
+        101,
+        108,
+        141,
+        157,
+        177,
+        206,
+        208,
+        209,
+        210,
+        294,
+        305,
+        317,
+        318,
+        342,
+        343
+      ],
+      "native_highlights": 35,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2019_annualreport-2019.pdf",
+      "marked": "highlighted/JPM_FY2019_annualreport-2019.pdf",
+      "pages": 308,
+      "used_pages": [
+        44,
+        47,
+        57,
+        63,
+        93,
+        106,
+        121,
+        150,
+        152,
+        153,
+        154,
+        244,
+        254,
+        265,
+        266,
+        290,
+        291
+      ],
+      "native_highlights": 35,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2018_annualreport-2018.pdf",
+      "marked": "highlighted/JPM_FY2018_annualreport-2018.pdf",
+      "pages": 336,
+      "used_pages": [
+        72,
+        75,
+        85,
+        91,
+        122,
+        182,
+        184,
+        185,
+        186,
+        284,
+        292,
+        293,
+        318,
+        319
+      ],
+      "native_highlights": 27,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2017_annualreport-2017.pdf",
+      "marked": "highlighted/JPM_FY2017_annualreport-2017.pdf",
+      "pages": 324,
+      "used_pages": [
+        68,
+        71,
+        78,
+        84,
+        116,
+        178,
+        180,
+        181,
+        182,
+        274,
+        282,
+        283,
+        306,
+        307
+      ],
+      "native_highlights": 33,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/JPM_FY2016_2016-annualreport.pdf",
+      "marked": "highlighted/JPM_FY2016_2016-annualreport.pdf",
+      "pages": 328,
+      "used_pages": [
+        72,
+        75,
+        82,
+        179,
+        181,
+        182,
+        183,
+        285,
+        286,
+        309,
+        310
+      ],
+      "native_highlights": 20,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/C_FY2025_citi-2025-annual-report.pdf",
+      "marked": "highlighted/C_FY2025_citi-2025-annual-report.pdf",
+      "pages": 332,
+      "used_pages": [
+        24,
+        25,
+        26,
+        28,
+        60,
+        95,
+        97,
+        146,
+        147,
+        148,
+        149,
+        150,
+        153,
+        174,
+        202,
+        233,
+        237,
+        309
+      ],
+      "native_highlights": 46,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/C_FY2024_citi-2024-annual-report.pdf",
+      "marked": "highlighted/C_FY2024_citi-2024-annual-report.pdf",
+      "pages": 341,
+      "used_pages": [
+        21,
+        22,
+        24,
+        56,
+        95,
+        97,
+        149,
+        150,
+        151,
+        152,
+        153,
+        155,
+        178,
+        205,
+        238,
+        242,
+        319
+      ],
+      "native_highlights": 37,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/C_FY2023_Citi-2023-Annual-Report.pdf",
+      "marked": "highlighted/C_FY2023_Citi-2023-Annual-Report.pdf",
+      "pages": 336,
+      "used_pages": [
+        17,
+        18,
+        20,
+        54,
+        93,
+        95,
+        151,
+        153,
+        154,
+        155,
+        157,
+        176,
+        202,
+        237,
+        241,
+        320
+      ],
+      "native_highlights": 36,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/C_FY2022_citi-2022-annual-report.pdf",
+      "marked": "highlighted/C_FY2022_citi-2022-annual-report.pdf",
+      "pages": 345,
+      "used_pages": [
+        18,
+        19,
+        20,
+        21,
+        50,
+        148,
+        150,
+        151,
+        152,
+        154,
+        199,
+        239,
+        316,
+        321
+      ],
+      "native_highlights": 29,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_H12026_second-quarter-2026-earnings-supplement.pdf",
+      "marked": "highlighted/WFC_H12026_second-quarter-2026-earnings-supplement.pdf",
+      "pages": 27,
+      "used_pages": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        18,
+        24,
+        25,
+        27
+      ],
+      "native_highlights": 50,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_FY2025_2025-annual-report.pdf",
+      "marked": "highlighted/WFC_FY2025_2025-annual-report.pdf",
+      "pages": 200,
+      "used_pages": [
+        14,
+        17,
+        64,
+        66,
+        91,
+        93,
+        95,
+        183,
+        188,
+        189
+      ],
+      "native_highlights": 22,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_FY2024_2024-annual-report.pdf",
+      "marked": "highlighted/WFC_FY2024_2024-annual-report.pdf",
+      "pages": 197,
+      "used_pages": [
+        9,
+        13,
+        60,
+        62,
+        88,
+        90,
+        92,
+        181,
+        186,
+        187
+      ],
+      "native_highlights": 22,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_FY2023_2023-annual-report.pdf",
+      "marked": "highlighted/WFC_FY2023_2023-annual-report.pdf",
+      "pages": 206,
+      "used_pages": [
+        11,
+        16,
+        63,
+        65,
+        93,
+        95,
+        98,
+        190,
+        196
+      ],
+      "native_highlights": 22,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_FY2022_2022-annual-report.pdf",
+      "marked": "highlighted/WFC_FY2022_2022-annual-report.pdf",
+      "pages": 206,
+      "used_pages": [
+        10,
+        15,
+        66,
+        100,
+        137,
+        197
+      ],
+      "native_highlights": 7,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_FY2021_2021-annual-report.pdf",
+      "marked": "highlighted/WFC_FY2021_2021-annual-report.pdf",
+      "pages": 226,
+      "used_pages": [
+        17,
+        25,
+        67,
+        109,
+        111,
+        114,
+        138,
+        163,
+        208,
+        214
+      ],
+      "native_highlights": 17,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/WFC_FY2020_2020-annual-report.pdf",
+      "marked": "highlighted/WFC_FY2020_2020-annual-report.pdf",
+      "pages": 248,
+      "used_pages": [
+        23,
+        39,
+        81,
+        123,
+        125,
+        128,
+        153,
+        178,
+        230,
+        236
+      ],
+      "native_highlights": 13,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/GS_H12026_2026-q2-results.pdf",
+      "marked": "highlighted/GS_H12026_2026-q2-results.pdf",
+      "pages": 12,
+      "used_pages": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "native_highlights": 17,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/PNC_H12026_2Q26_Earnings_Release_Final.pdf",
+      "marked": "highlighted/PNC_H12026_2Q26_Earnings_Release_Final.pdf",
+      "pages": 22,
+      "used_pages": [
+        1,
+        14,
+        15,
+        19
+      ],
+      "native_highlights": 25,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/PNC_H12026_Q2_2026_Financial_Supplement.pdf",
+      "marked": "highlighted/PNC_H12026_Q2_2026_Financial_Supplement.pdf",
+      "pages": 22,
+      "used_pages": [
+        4,
+        5,
+        8,
+        15
+      ],
+      "native_highlights": 22,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/PNC_FY2025_PNC_2025_Annual_Report_ADA.pdf",
+      "marked": "highlighted/PNC_FY2025_PNC_2025_Annual_Report_ADA.pdf",
+      "pages": 216,
+      "used_pages": [
+        2,
+        10,
+        50,
+        56,
+        92,
+        100,
+        102,
+        103,
+        105,
+        151,
+        190
+      ],
+      "native_highlights": 25,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/PNC_FY2024_PNC_2024_Annual_Report.pdf",
+      "marked": "highlighted/PNC_FY2024_PNC_2024_Annual_Report.pdf",
+      "pages": 230,
+      "used_pages": [
+        2,
+        12,
+        58,
+        64,
+        103,
+        111,
+        113,
+        114,
+        116,
+        166
+      ],
+      "native_highlights": 24,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/PNC_FY2023_PNC_2023_Annual_Report.pdf",
+      "marked": "highlighted/PNC_FY2023_PNC_2023_Annual_Report.pdf",
+      "pages": 225,
+      "used_pages": [
+        59,
+        65,
+        107,
+        109,
+        110,
+        112,
+        161,
+        197,
+        204
+      ],
+      "native_highlights": 26,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/PNC_FY2022_PNC_2022_Annual_Report.pdf",
+      "marked": "highlighted/PNC_FY2022_PNC_2022_Annual_Report.pdf",
+      "pages": 233,
+      "used_pages": [
+        13,
+        58,
+        63,
+        64,
+        108,
+        110,
+        111,
+        113,
+        164,
+        203,
+        212
+      ],
+      "native_highlights": 34,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/TFC_H12026_TFC_2Q26_Earnings_Release.pdf",
+      "marked": "highlighted/TFC_H12026_TFC_2Q26_Earnings_Release.pdf",
+      "pages": 22,
+      "used_pages": [
+        12,
+        13,
+        14,
+        16,
+        18,
+        22
+      ],
+      "native_highlights": 28,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/TFC_H12026_TFC_2Q26_Form_10-Q.pdf",
+      "marked": "highlighted/TFC_H12026_TFC_2Q26_Form_10-Q.pdf",
+      "pages": 82,
+      "used_pages": [
+        6,
+        7,
+        9,
+        10,
+        47,
+        51,
+        52,
+        76,
+        77,
+        79
+      ],
+      "native_highlights": 21,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/TFC_FY2025_TFC_2025_Form_10-K.pdf",
+      "marked": "highlighted/TFC_FY2025_TFC_2025_Form_10-K.pdf",
+      "pages": 175,
+      "used_pages": [
+        53,
+        54,
+        64,
+        65,
+        74,
+        89,
+        90,
+        97,
+        98,
+        100,
+        101,
+        137,
+        168,
+        169,
+        170
+      ],
+      "native_highlights": 27,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/TFC_FY2024_TFC_Form_10-K_-_2024_-_Final.pdf",
+      "marked": "highlighted/TFC_FY2024_TFC_Form_10-K_-_2024_-_Final.pdf",
+      "pages": 171,
+      "used_pages": [
+        51,
+        62,
+        63,
+        72,
+        74,
+        93,
+        94,
+        97,
+        129,
+        134,
+        160,
+        163,
+        164,
+        165
+      ],
+      "native_highlights": 29,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/TFC_FY2023_TFC_2023_Form_10-K.pdf",
+      "marked": "highlighted/TFC_FY2023_TFC_2023_Form_10-K.pdf",
+      "pages": 164,
+      "used_pages": [
+        49,
+        51,
+        61,
+        62,
+        69,
+        85,
+        93,
+        94,
+        96,
+        97,
+        129,
+        130,
+        153
+      ],
+      "native_highlights": 20,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/TFC_FY2023_TFC_2023_Supplement_to_Form_10-K.pdf",
+      "marked": "highlighted/TFC_FY2023_TFC_2023_Supplement_to_Form_10-K.pdf",
+      "pages": 112,
+      "used_pages": [
+        13,
+        14,
+        18,
+        27,
+        28,
+        35,
+        45,
+        46,
+        48,
+        49,
+        80,
+        83,
+        84,
+        108,
+        110
+      ],
+      "native_highlights": 27,
+      "page_contents_preserved": true
+    },
+    {
+      "original": "data/raw/reports/TFC_FY2020_TFC_2020_Form_10-K.pdf",
+      "marked": "highlighted/TFC_FY2020_TFC_2020_Form_10-K.pdf",
+      "pages": 163,
+      "used_pages": [
+        44,
+        49,
+        50,
+        56,
+        65,
+        81,
+        91,
+        92,
+        94,
+        95,
+        123,
+        126,
+        146,
+        151,
+        154
+      ],
+      "native_highlights": 37,
+      "page_contents_preserved": true
+    }
+  ],
+  "source_cells": 4944,
+  "reported_facts": 3399
+}

@@ -1,0 +1,29 @@
+{
+  "sheets": 43,
+  "native_notes": 11471,
+  "charts": 45,
+  "what_if_tables": [
+    {
+      "t": "dataTable",
+      "ref": "E19:K25",
+      "dt2D": "1",
+      "r1": "E7",
+      "r2": "E8"
+    },
+    {
+      "t": "dataTable",
+      "ref": "E32:K36",
+      "dt2D": "1",
+      "r1": "E7",
+      "r2": "E9"
+    }
+  ],
+  "row_heights": [
+    24.0
+  ],
+  "cached_formula_errors": [],
+  "frozen_selector": 1.0,
+  "frozen_bac_revenue_growth": 0.03,
+  "tfc_deposits": 409379.0,
+  "crosswalk_count": 4944
+}

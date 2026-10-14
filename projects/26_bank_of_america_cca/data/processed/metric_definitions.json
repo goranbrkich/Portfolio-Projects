@@ -1,0 +1,166 @@
+{
+  "assets": {
+    "label": "Assets",
+    "unit": "USDm"
+  },
+  "liabilities": {
+    "label": "Liabilities",
+    "unit": "USDm"
+  },
+  "equity": {
+    "label": "Shareholders equity attributable to parent",
+    "unit": "USDm"
+  },
+  "preferred": {
+    "label": "Preferred equity carrying amount",
+    "unit": "USDm"
+  },
+  "common_equity_reported": {
+    "label": "Reported common shareholders equity",
+    "unit": "USDm"
+  },
+  "goodwill": {
+    "label": "Goodwill",
+    "unit": "USDm"
+  },
+  "intangibles": {
+    "label": "Other intangible assets excluding goodwill",
+    "unit": "USDm"
+  },
+  "intangibles_total": {
+    "label": "Reported goodwill and intangible assets combined",
+    "unit": "USDm"
+  },
+  "shares_end": {
+    "label": "Period-end common shares outstanding",
+    "unit": "million"
+  },
+  "shares_issued": {
+    "label": "Shares Issued",
+    "unit": "million"
+  },
+  "shares_treasury": {
+    "label": "Shares Treasury",
+    "unit": "million"
+  },
+  "deposits": {
+    "label": "Deposits",
+    "unit": "USDm"
+  },
+  "loans_gross": {
+    "label": "Gross loans and leases selected definition",
+    "unit": "USDm"
+  },
+  "loans_net": {
+    "label": "Net loans after allowance selected definition",
+    "unit": "USDm"
+  },
+  "allowance": {
+    "label": "Loan allowance for credit losses",
+    "unit": "USDm"
+  },
+  "nonaccrual": {
+    "label": "Nonaccrual",
+    "unit": "USDm"
+  },
+  "cash": {
+    "label": "Cash",
+    "unit": "USDm"
+  },
+  "aoci": {
+    "label": "Accumulated other comprehensive income",
+    "unit": "USDm"
+  },
+  "nii": {
+    "label": "Net interest income",
+    "unit": "USDm"
+  },
+  "noninterest_income": {
+    "label": "Noninterest Income",
+    "unit": "USDm"
+  },
+  "revenue_reported": {
+    "label": "Reported total net revenue",
+    "unit": "USDm"
+  },
+  "opex": {
+    "label": "Noninterest expense",
+    "unit": "USDm"
+  },
+  "provision": {
+    "label": "Provision for credit losses",
+    "unit": "USDm"
+  },
+  "pretax": {
+    "label": "Income before income taxes",
+    "unit": "USDm"
+  },
+  "tax": {
+    "label": "Tax",
+    "unit": "USDm"
+  },
+  "net_income": {
+    "label": "Net income attributable to parent",
+    "unit": "USDm"
+  },
+  "common_income": {
+    "label": "Income available to common shareholders",
+    "unit": "USDm"
+  },
+  "preferred_div": {
+    "label": "Preferred dividends and other common-income adjustments",
+    "unit": "USDm"
+  },
+  "eps": {
+    "label": "Reported diluted EPS",
+    "unit": "USD/share"
+  },
+  "shares_diluted": {
+    "label": "Weighted average diluted shares",
+    "unit": "million"
+  },
+  "dps": {
+    "label": "Dividends per common share",
+    "unit": "USD/share"
+  },
+  "dividends": {
+    "label": "Cash common dividends paid",
+    "unit": "USDm"
+  },
+  "buybacks": {
+    "label": "Common share repurchases paid",
+    "unit": "USDm"
+  },
+  "chargeoffs": {
+    "label": "Gross loan charge-offs",
+    "unit": "USDm"
+  },
+  "recoveries": {
+    "label": "Loan recoveries",
+    "unit": "USDm"
+  },
+  "rwa": {
+    "label": "Risk-weighted assets",
+    "unit": "USDm"
+  },
+  "cet1_reported": {
+    "label": "Actual standardized CET1 ratio",
+    "unit": "%"
+  },
+  "nim_reported": {
+    "label": "Issuer reported net interest margin",
+    "unit": "%"
+  },
+  "bvps_reported": {
+    "label": "Reported common book value per share",
+    "unit": "USD/share"
+  },
+  "tbvps_reported": {
+    "label": "Reported tangible book value per share",
+    "unit": "USD/share"
+  },
+  "tce_reported": {
+    "label": "Reported tangible common equity",
+    "unit": "USDm"
+  }
+}

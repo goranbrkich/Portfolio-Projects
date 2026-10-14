@@ -1,3 +1,5 @@
+> Historical recovery note. Superseded by the verified final delivery on 14 October 2026. See [README.md](README.md) for current files, results and reproduction instructions.
+
 # 26 — Bank of America Comparable Company Analysis
 
 **Delivery status: working artifacts created; final source annotation and publication interrupted. This is a recovery checkpoint, not a completed delivery.**
@@ -70,3 +72,4 @@ Project Drive folder already created:
 https://drive.google.com/drive/folders/1Rf01Q04YXzMhAEJVBie6X4pG6GjrkTE7
 
 The folder was created successfully; artifact upload was not confirmed. This checkpoint preserves the known state without claiming completed publication.
+

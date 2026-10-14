@@ -1,0 +1,172 @@
+{
+  "archive_name": "Bank_of_America_CCA_Project26.zip",
+  "bytes": 678566621,
+  "sha256": "e74121076807a475bef210fdffb89650c790dffb00711245a3ae3ba3c77d5279",
+  "parts": [
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part001",
+      "bytes": 20971520,
+      "sha256": "5b67cf8158bd8dab10c27b3407a6a3c9dea239ceeb20ca6a4e1962a93e7628f1"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part002",
+      "bytes": 20971520,
+      "sha256": "e332572b059a8a287da3bc3bc57c5f53e71c827af212a0897723b6d1cae07e8d"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part003",
+      "bytes": 20971520,
+      "sha256": "83841cccd209347663c0601bc2c0119562dad6b17b4749b3d854449419d0d559"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part004",
+      "bytes": 20971520,
+      "sha256": "fb760f3f3818d66041b8f2c7dbcdca73ea303f301dc2d2da7bf0ae73f2727c2c"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part005",
+      "bytes": 20971520,
+      "sha256": "135cac267bb8b510ecf3b04401c6ee5f504f13b26f1b299be1911a698fe3c48e"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part006",
+      "bytes": 20971520,
+      "sha256": "a7a0535d367adf150198ea8977ff8b14156828eafbe1ec1f87096da18afbd64b"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part007",
+      "bytes": 20971520,
+      "sha256": "787cb5fac9235fe09fbae10df3faf053b47fbc0bf432ea0056cccbcc3b550057"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part008",
+      "bytes": 20971520,
+      "sha256": "76b105e3da7597a6540a59627df12f5a560cff2a41a347cb1556b5f9b11ce7be"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part009",
+      "bytes": 20971520,
+      "sha256": "a4b6c5de83f0ba17ea75f9d68532cbbcdcd324f8720cdfe613c1f20f1314f9ee"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part010",
+      "bytes": 20971520,
+      "sha256": "9d4452943422c2418846e1ba4e408a142f5af838bef672efbaffd7e3b20963e0"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part011",
+      "bytes": 20971520,
+      "sha256": "44385310b62d1821edc1812618087f5fdc4c83dbdb2d4afa3d31e6b319e977fe"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part012",
+      "bytes": 20971520,
+      "sha256": "d6fa3c15ba60a26b899d0a406fa4ecf72cb3050b6843653634f19f41e83f001a"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part013",
+      "bytes": 20971520,
+      "sha256": "1d35ebb38f844b0f3e682f9ef6f321bdfa6663fb0fa63025b13fa3269a98754c"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part014",
+      "bytes": 20971520,
+      "sha256": "08d992f5ccbe1181f29d4aff09c7fcde0ec7771e9009f7176e94d816ba9f96ef"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part015",
+      "bytes": 20971520,
+      "sha256": "36cb10db20f02e38ad900ef282a5416e7e7b9d590c63ec5c65efeefbd34b50eb"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part016",
+      "bytes": 20971520,
+      "sha256": "d8d909f36d48d603dfa0215afecf8f3bd91606f6bd6274041b305dbb69bfe646"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part017",
+      "bytes": 20971520,
+      "sha256": "0c59570ec74955514d15325cdca606419a4833cb409fa3af0520e596cd184f67"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part018",
+      "bytes": 20971520,
+      "sha256": "b6ba7c6eaed108ce4bc7845aeda903bd8f446edffc00c56d942ed5ff95ada6cd"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part019",
+      "bytes": 20971520,
+      "sha256": "993cad10d9f599753b0eefd9b04a996104075c6471e4ba21fdd85671c90498f0"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part020",
+      "bytes": 20971520,
+      "sha256": "ddb9e0aba40968f5a49b128eb2dcb50a162a7d15ceb4c43b19f0f327a43641ba"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part021",
+      "bytes": 20971520,
+      "sha256": "af6eebeec2c9671965df54f347ef57084b3bfc376a0c85bc568a730314892695"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part022",
+      "bytes": 20971520,
+      "sha256": "3a5bbd673d3c4b34e94f2d9ca929d56bb9b2b5a9e68dd6a279fe79eddd809c92"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part023",
+      "bytes": 20971520,
+      "sha256": "ae7ba54a1007e32d1bc656e688555dc106c2f3444459ba28225a45fa92dbe9bb"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part024",
+      "bytes": 20971520,
+      "sha256": "cb5fb1dddfb3c2d9e42c99da91fadc724a5e10e7529f56f4e3f151e09b3a1f14"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part025",
+      "bytes": 20971520,
+      "sha256": "7ecf67db8121f532732d7ad45c5187fa6f703752c85b5c2359c34683ddcab2e2"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part026",
+      "bytes": 20971520,
+      "sha256": "4e2701c1b84234e051808e8a670447c9882d1c02029c9092a35eb057a8b9776f"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part027",
+      "bytes": 20971520,
+      "sha256": "0afc7db393cfba90be35db73c7d58f3cd9f5d5db15d2d872c430636e8cd170d7"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part028",
+      "bytes": 20971520,
+      "sha256": "5915dc5b5c2d5262c1671da8d7830187f0cac8f9359caea0f76f1799cc9a8ec6"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part029",
+      "bytes": 20971520,
+      "sha256": "8eed8e8d25e4c2f5f88c67fc06a4086a93afa107e71471cd84a384060bd5f7bf"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part030",
+      "bytes": 20971520,
+      "sha256": "9ddbd58e6561f25574c8dc2ecd549c0ba53388ca535d2ecd457db789ae882cb8"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part031",
+      "bytes": 20971520,
+      "sha256": "3607ec2ab289756c7d33f97f5cf876c9ef4b87ad6fc3cbe0a4514ca88b8be3c5"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part032",
+      "bytes": 20971520,
+      "sha256": "c14d82e41296f7967c57a623b352f9eca8d68a04f8e8a6a79bc3ca82e418f0b8"
+    },
+    {
+      "name": "Bank_of_America_CCA_Project26.zip.part033",
+      "bytes": 7477981,
+      "sha256": "0b7914ad6b5a6b3ecddebac56f56b24cc062543a1d117e851f3bed903ab93444"
+    }
+  ]
+}

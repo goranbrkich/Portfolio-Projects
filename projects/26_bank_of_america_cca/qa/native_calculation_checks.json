@@ -1,0 +1,82 @@
+{
+  "baseline": [
+    {
+      "name": "Weighted implied price",
+      "excel": 55.87831440943087,
+      "python": 55.87831440943087,
+      "difference": 0
+    },
+    {
+      "name": "Bivariate slope",
+      "excel": 15.974470490250084,
+      "python": 15.974470490250066,
+      "difference": 1.7763568394002505e-14
+    },
+    {
+      "name": "Bivariate intercept",
+      "excel": -0.6228069746168754,
+      "python": -0.6228069746168723,
+      "difference": -3.1086244689504383e-15
+    },
+    {
+      "name": "HC3 slope SE",
+      "excel": 3.9177409043990696,
+      "python": 3.9177409043990328,
+      "difference": 3.68594044175552e-14
+    },
+    {
+      "name": "Regression observations",
+      "excel": 9,
+      "python": 9,
+      "difference": 0
+    },
+    {
+      "name": "Regression price",
+      "excel": 54.845185613204706,
+      "python": 54.84518561320471,
+      "difference": -7.105427357601002e-15
+    },
+    {
+      "name": "Valuation weights",
+      "excel": 1,
+      "python": 1,
+      "difference": 0
+    },
+    {
+      "name": "BAC FY2026 EPS",
+      "excel": 4.335036148651862,
+      "python": 4.335036148651862,
+      "difference": 0
+    },
+    {
+      "name": "HC3 mean CI lower",
+      "excel": 44.662189497329386,
+      "python": 44.662189497360544,
+      "difference": -3.115729896308039e-11
+    },
+    {
+      "name": "HC3 mean CI upper",
+      "excel": 65.02818172908003,
+      "python": 65.02818172904888,
+      "difference": 3.115019353572279e-11
+    }
+  ],
+  "sensitivity": {
+    "base": 44.055,
+    "second_base": 44.055,
+    "nonbase": 41.118
+  },
+  "commercial": {
+    "weighted_price": 55.16778864530518,
+    "regression_n": 7,
+    "slope": 13.454706085731962,
+    "hc3_se": 6.269472003976682,
+    "price": 53.96803464969679,
+    "historical_bac_eps": 3.7827598328320904
+  },
+  "forecast_changed": {
+    "eps": 4.631101249580217,
+    "ltm_eps": 4.2813924354292725,
+    "historical_eps": 3.7827598328320904
+  }
+}

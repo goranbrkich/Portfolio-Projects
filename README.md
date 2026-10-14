@@ -4,13 +4,13 @@ A portfolio of financial, investment and technical work for employment and gradu
 
 ## Current project
 
-**02 Microsoft DCF and Reverse DCF Model** — completed.
+**26 Bank of America Comparable Company Analysis** — completed.
 
-[Open project 02](projects/02_microsoft_dcf/README.md). Valuation cutoff 8 October 2026, forecasts FY2027–FY2031, formula-based Excel and copyable Python.
+[Open project 26](projects/26_bank_of_america_cca/README.md). Valuation and information cutoff 8 October 2026; 10 U.S. banks, 43 Excel worksheets with copyable Python, Word report, and complete original and annotated source materials.
 
-Completed: [03 Microsoft Three Statement Model](projects/03_microsoft_three_statement/README.md).
+Completed: [02 Microsoft DCF and Reverse DCF](projects/02_microsoft_dcf/README.md) and [03 Microsoft Three Statement Model](projects/03_microsoft_three_statement/README.md).
 
-The agreed historical period is **FY2017–FY2026**, exactly ten fiscal years, with forecasts for FY2027–FY2031. FY2016 is an opening-balance reference only.
+Microsoft history is FY2017–FY2026, with FY2027–FY2031 forecasts. Bank history is FY2017–FY2025 actual, with FY2026 explicitly estimated at the cutoff. FY2016 supplies opening balances only.
 
 ## Agreed first sequence
 
@@ -64,7 +64,7 @@ Standing requirements for future similar projects are recorded in [PROJECT_STAND
 | 23 | SQL Financial Data Analysis | Planned |
 | 24 | Portfolio Performance Analysis | Planned |
 | 25 | Separate DCF Valuation Case | Planned |
-| 26 | Comparable Company Analysis | Planned |
+| 26 | Comparable Company Analysis | Completed |
 | 27 | Company Valuation Report | Planned |
 | 28 | Merger and Acquisition Analysis | Planned |
 | 29 | Investment Memo | Planned |
@@ -84,4 +84,5 @@ Standing requirements for future similar projects are recorded in [PROJECT_STAND
 | 43 | Credit Analyst Case | Scope to be agreed |
 | 44 | Risk and Compliance Analyst Case | Scope to be agreed |
 | 45 | Structured Finance Analyst Case | Scope to be agreed |
+
 

@@ -1,0 +1,425 @@
+[
+  {
+    "ticker": "C",
+    "period": "H1 2026",
+    "path": "data/raw/reports/C_H12026_2026prqtr2rslt.pdf",
+    "url": "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q22026/2026prqtr2rslt.pdf",
+    "bytes": 372123,
+    "sha256": "65a4a775e86b481c539d1a270faed945c4e88dc7436be21f96462858f2a75c65",
+    "retrieved_at": "2026-10-14T08:17:37.046838+00:00"
+  },
+  {
+    "ticker": "MS",
+    "period": "H1 2026",
+    "path": "data/raw/reports/MS_H12026_finsup2q2026.pdf",
+    "url": "https://www.morganstanley.com/about-us-ir/finsup2q2026/finsup2q2026.pdf",
+    "bytes": 926475,
+    "sha256": "8703594f43d0df969efd537ce3c4d21948b941422d10ae46baedcc237be1b63e",
+    "retrieved_at": "2026-10-14T08:17:38.024843+00:00"
+  },
+  {
+    "ticker": "MS",
+    "period": "H1 2026",
+    "path": "data/raw/reports/MS_H12026_2q2026.pdf",
+    "url": "https://www.morganstanley.com/about-us-ir/shareholder/2q2026.pdf",
+    "bytes": 1319776,
+    "sha256": "1fb1f1c0e8b3eb0644f0bc549d88d20cc1a8b7b827c0a3e8f10f64d8573c30e4",
+    "retrieved_at": "2026-10-14T08:17:38.035420+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/WFC_H12026_second-quarter-2026-earnings.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/earnings/second-quarter-2026-earnings.pdf",
+    "bytes": 259593,
+    "sha256": "a3dc457c53c6a84a1d1d34c9afd841aa5f6faf56d962ee859ae7362a9248a266",
+    "retrieved_at": "2026-10-14T08:17:40.382166+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/BAC_H12026_The_Press_Release_2Q26_ADA.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/806/10579/earnings_release/The+Press+Release_2Q26_ADA.pdf",
+    "bytes": 683489,
+    "sha256": "a650653f48aeaf0a045d4b87351a38719cb5ff560f884e6b6fd233106bc4e383",
+    "retrieved_at": "2026-10-14T08:17:42.076332+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/BAC_H12026_The_Supplemental_Information_2Q26_ADA.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/806/10579/supplemental_information/The+Supplemental+Information_2Q26_ADA.pdf",
+    "bytes": 1968978,
+    "sha256": "584f0a9ddb6c4e4747680a0170684038591415694255bd73596b067f38b56e69",
+    "retrieved_at": "2026-10-14T08:17:42.128468+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "FY2025",
+    "path": "data/raw/reports/BAC_FY2025_BAC_2025_Annual_Report.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/867/10497/annual_report/BAC+2025+Annual+Report.pdf",
+    "bytes": 29757437,
+    "sha256": "76424523c5c2cbe255296a194d4919d40bb58913d48f607c2383133d6fed0496",
+    "retrieved_at": "2026-10-14T08:17:45.525250+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "FY2024",
+    "path": "data/raw/reports/BAC_FY2024_BAC_2024_Annual_Report.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/867/10162/annual_report/BAC+2024+Annual+Report.pdf",
+    "bytes": 14534966,
+    "sha256": "7b4171243e28aacea0a03c6fd1b811be495d2b9616c129d3dadb223a96f25350",
+    "retrieved_at": "2026-10-14T08:17:45.784468+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "FY2023",
+    "path": "data/raw/reports/BAC_FY2023_BAC_2023_Annual_Report.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/867/10038/annual_report/BAC+2023+Annual+Report.pdf",
+    "bytes": 16464691,
+    "sha256": "4b187c6c56f7a41ee4852b61043864c090f320ceb9d9c1b91ef291d278a5acaf",
+    "retrieved_at": "2026-10-14T08:17:54.127480+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "FY2022",
+    "path": "data/raw/reports/BAC_FY2022_BAC_2022_Annual_Report.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/867/9840/annual_report/BAC+2022+Annual+Report.pdf",
+    "bytes": 28291666,
+    "sha256": "90d58cd75481dbe0eba7ef73856c08d8d6326031df7a96a9f8f230a12631de83",
+    "retrieved_at": "2026-10-14T08:17:54.396218+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "FY2021",
+    "path": "data/raw/reports/BAC_FY2021_BAC_AR21_Full_Report_030122_1_.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/867/9640/annual_report/BAC_AR21_Full_Report_030122+%281%29.pdf",
+    "bytes": 11703967,
+    "sha256": "4d2daa72836be8678b0a814f9715826bc9482cc69f7bea7aaff0a56f8405f8f6",
+    "retrieved_at": "2026-10-14T08:17:58.839440+00:00"
+  },
+  {
+    "ticker": "BAC",
+    "period": "FY2020",
+    "path": "data/raw/reports/BAC_FY2020_9_BAC_2020_Annual_Report_ADA.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_f11ccfe8ada30ec2e4f311f10a442d51/bankofamerica/db/867/9129/annual_report/9+BAC_2020_Annual_Report_ADA.pdf",
+    "bytes": 23052545,
+    "sha256": "89456f96065b15641df9656395eba4680b4a6730560728e7f9095a3b48e2b8b0",
+    "retrieved_at": "2026-10-14T08:17:58.954747+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2025",
+    "path": "data/raw/reports/JPM_FY2025_annualreport-2025.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "bytes": 4928865,
+    "sha256": "2a3ee9733eafd01e7667c5540fbd797c4cc688d14f00638a877f5623d1316d9d",
+    "retrieved_at": "2026-10-14T08:17:59.488128+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2024",
+    "path": "data/raw/reports/JPM_FY2024_annualreport-2024.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+    "bytes": 17104906,
+    "sha256": "78443e60b3188a70673ca7042d0bf9e4dc596d04072af729242886d22bd0a4e3",
+    "retrieved_at": "2026-10-14T08:18:00.045353+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2023",
+    "path": "data/raw/reports/JPM_FY2023_annualreport-2023.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2023.pdf",
+    "bytes": 6814192,
+    "sha256": "bebb7c4abb278396187cadcac8006951ffcee7dde7c7b458ef364befacbd8908",
+    "retrieved_at": "2026-10-14T08:18:05.674250+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2022",
+    "path": "data/raw/reports/JPM_FY2022_annualreport-2022.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf",
+    "bytes": 16797166,
+    "sha256": "e2a82330efb82c9ab38b30cd043fa59c0c4b7debb5108559ce3c788bbe7942c6",
+    "retrieved_at": "2026-10-14T08:18:10.167724+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2021",
+    "path": "data/raw/reports/JPM_FY2021_annualreport-2021.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2021.pdf",
+    "bytes": 8488946,
+    "sha256": "7b5f2a777e92896ebf2386b0a9f51bab731f0a975826abd42ac5a0f415092273",
+    "retrieved_at": "2026-10-14T08:18:09.991964+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2020",
+    "path": "data/raw/reports/JPM_FY2020_annualreport-2020.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2020.pdf",
+    "bytes": 8302860,
+    "sha256": "ce247bf98179069ff1fa24d52a97d8fba6639a5c7f9846d364a1987cd70de65b",
+    "retrieved_at": "2026-10-14T08:18:14.113114+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2019",
+    "path": "data/raw/reports/JPM_FY2019_annualreport-2019.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2019.pdf",
+    "bytes": 6777434,
+    "sha256": "0b92afe80434d40701c7bc9cdb621daac5d57fad62cc901b1ad9ecac691323ab",
+    "retrieved_at": "2026-10-14T08:18:14.195195+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2018",
+    "path": "data/raw/reports/JPM_FY2018_annualreport-2018.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2018.pdf",
+    "bytes": 8320598,
+    "sha256": "020732572f52754fb0d47fb2102119863cbafe78ef0f834b5bb0f4a08f2bed54",
+    "retrieved_at": "2026-10-14T08:18:14.199655+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2017",
+    "path": "data/raw/reports/JPM_FY2017_annualreport-2017.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2017.pdf",
+    "bytes": 10281582,
+    "sha256": "1754bd12a8d72fe4a63234d35b3169432562f62e5ab9d22b20df0475aade8fa4",
+    "retrieved_at": "2026-10-14T08:18:18.195712+00:00"
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY2016",
+    "path": "data/raw/reports/JPM_FY2016_2016-annualreport.pdf",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/2016-annualreport.pdf",
+    "bytes": 9367181,
+    "sha256": "55af80a487c4a820ff8047b0695461ba31431c3fb6aaec4c21f5fa73ad4e8a38",
+    "retrieved_at": "2026-10-14T08:18:18.369556+00:00"
+  },
+  {
+    "ticker": "C",
+    "period": "FY2025",
+    "path": "data/raw/reports/C_FY2025_citi-2025-annual-report.pdf",
+    "url": "https://www.citigroup.com/rcs/citigpa/storage/public/Annual_Report/2025/citi-2025-annual-report.pdf",
+    "bytes": 3964657,
+    "sha256": "2eee55ca393cdbedaccabfec0820d253442a76b4c2f1a2eda3221fd721e0d7f7",
+    "retrieved_at": "2026-10-14T08:18:18.684892+00:00"
+  },
+  {
+    "ticker": "C",
+    "period": "FY2024",
+    "path": "data/raw/reports/C_FY2024_citi-2024-annual-report.pdf",
+    "url": "https://www.citigroup.com/rcs/citigpa/storage/public/citi-2024-annual-report.pdf",
+    "bytes": 9582034,
+    "sha256": "c3aa3536367a3e00437303ba43bbb5785a63909348477a59aa5879b0f4ae440b",
+    "retrieved_at": "2026-10-14T08:18:22.902270+00:00"
+  },
+  {
+    "ticker": "C",
+    "period": "FY2023",
+    "path": "data/raw/reports/C_FY2023_Citi-2023-Annual-Report.pdf",
+    "url": "https://www.citigroup.com/rcs/citigpa/storage/public/Citi-2023-Annual-Report.pdf",
+    "bytes": 5510865,
+    "sha256": "81593ae0397fe73e4a8c30e1e1e6abdd027a1214923a89f2169c4abceb310e89",
+    "retrieved_at": "2026-10-14T08:18:23.212918+00:00"
+  },
+  {
+    "ticker": "C",
+    "period": "FY2022",
+    "path": "data/raw/reports/C_FY2022_citi-2022-annual-report.pdf",
+    "url": "https://www.citigroup.com/rcs/citigpa/storage/public/citi-2022-annual-report.pdf",
+    "bytes": 5157781,
+    "sha256": "379e6d149b54bab7ad91967b3f5b74848124a3748f35746a0f1327340b639e3b",
+    "retrieved_at": "2026-10-14T08:18:22.974923+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/WFC_H12026_second-quarter-2026-earnings-supplement.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/earnings/second-quarter-2026-earnings-supplement.pdf",
+    "bytes": 2872156,
+    "sha256": "681d1e8e3113817b2739a49397b36429f96a0ccea14fa653e9037f899fe8acd4",
+    "retrieved_at": "2026-10-14T08:18:26.994971+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "FY2025",
+    "path": "data/raw/reports/WFC_FY2025_2025-annual-report.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2025-annual-report.pdf",
+    "bytes": 5585154,
+    "sha256": "e6d20cbcb280b77f4628ee400b3c9e8c9eb818fb0ed8ce5ddefe3f5bf659aad6",
+    "retrieved_at": "2026-10-14T08:18:30.428067+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "FY2024",
+    "path": "data/raw/reports/WFC_FY2024_2024-annual-report.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2024-annual-report.pdf",
+    "bytes": 15511280,
+    "sha256": "2e6f248c7e2fb4078aa0a09a3cb6cd027406da4057acd2b543869d831f1b093c",
+    "retrieved_at": "2026-10-14T08:18:27.183793+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "FY2023",
+    "path": "data/raw/reports/WFC_FY2023_2023-annual-report.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2023-annual-report.pdf",
+    "bytes": 5807551,
+    "sha256": "ac487396730e3f902c07b8899640507be8b49f18ac52ab5f4319cdefbbcd7f46",
+    "retrieved_at": "2026-10-14T08:18:33.932427+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "FY2022",
+    "path": "data/raw/reports/WFC_FY2022_2022-annual-report.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2022-annual-report.pdf",
+    "bytes": 2798802,
+    "sha256": "93c4142fe1a35eaa093a82ac6a1594b3b9f57dc662db0dc7b9cc5bf3a53d3c34",
+    "retrieved_at": "2026-10-14T08:18:36.907473+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "FY2021",
+    "path": "data/raw/reports/WFC_FY2021_2021-annual-report.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2021-annual-report.pdf",
+    "bytes": 3590271,
+    "sha256": "55d4d9ae01caacb0520df065dd21111fb8c9bf5d894f86b178f6c65263512bb2",
+    "retrieved_at": "2026-10-14T08:18:41.525740+00:00"
+  },
+  {
+    "ticker": "WFC",
+    "period": "FY2020",
+    "path": "data/raw/reports/WFC_FY2020_2020-annual-report.pdf",
+    "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2020-annual-report.pdf",
+    "bytes": 5669138,
+    "sha256": "3d3c9533a9b2187b48212c1b09c9efc70e81e816695d741b7e3283b2518c64c5",
+    "retrieved_at": "2026-10-14T08:18:43.324078+00:00"
+  },
+  {
+    "ticker": "GS",
+    "period": "H1 2026",
+    "path": "data/raw/reports/GS_H12026_2026-q2-results.pdf",
+    "url": "https://www.goldmansachs.com/pressroom/press-releases/current/pdfs/2026-q2-results.pdf",
+    "bytes": 144325,
+    "sha256": "163de1ae273dcc982069b8de19a9372c8ea803d3a1416bfce3ff02775f08b71f",
+    "retrieved_at": "2026-10-14T08:18:45.298572+00:00"
+  },
+  {
+    "ticker": "PNC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/PNC_H12026_2Q26_Earnings_Release_Final.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_56928887a6f94f66f452e465e89d2cd9/pnc/db/2463/24018/earnings_release/2Q26+Earnings+Release_Final.pdf",
+    "bytes": 280847,
+    "sha256": "b86a12bbd23d603058f388a309f576efcc3ac74b5eaaeb0c004742e78595edd5",
+    "retrieved_at": "2026-10-14T08:18:47.226739+00:00"
+  },
+  {
+    "ticker": "PNC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/PNC_H12026_Q2_2026_Financial_Supplement.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_56928887a6f94f66f452e465e89d2cd9/pnc/db/2463/24018/financial_supplement/Q2+2026+Financial+Supplement.pdf",
+    "bytes": 240445,
+    "sha256": "dc10e7184d23704c40fc0541cfb21bc869f41983ab7a74960a14ad17ae8d358a",
+    "retrieved_at": "2026-10-14T08:18:47.220357+00:00"
+  },
+  {
+    "ticker": "PNC",
+    "period": "FY2025",
+    "path": "data/raw/reports/PNC_FY2025_PNC_2025_Annual_Report_ADA.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_56928887a6f94f66f452e465e89d2cd9/pnc/db/2463/23986/annual_report/PNC+2025+Annual+Report_ADA.pdf",
+    "bytes": 5287692,
+    "sha256": "6dff5c43a14d02d2eb090ea8cf5cd9d4b85ba508f7182407b9d10e5fcf2a58aa",
+    "retrieved_at": "2026-10-14T08:18:47.397661+00:00"
+  },
+  {
+    "ticker": "PNC",
+    "period": "FY2024",
+    "path": "data/raw/reports/PNC_FY2024_PNC_2024_Annual_Report.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_56928887a6f94f66f452e465e89d2cd9/pnc/db/2463/23731/annual_report/PNC+2024+Annual+Report.pdf",
+    "bytes": 6251032,
+    "sha256": "5dc38016e467e9147c943dec6735956cefcbbe31e7e2866f68d2a446940e89ba",
+    "retrieved_at": "2026-10-14T08:18:51.752699+00:00"
+  },
+  {
+    "ticker": "PNC",
+    "period": "FY2023",
+    "path": "data/raw/reports/PNC_FY2023_PNC_2023_Annual_Report.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_56928887a6f94f66f452e465e89d2cd9/pnc/db/2463/23727/annual_report/PNC+2023+Annual+Report.pdf",
+    "bytes": 2559399,
+    "sha256": "cf27d6c5a5810cb6e2b3b3bb0dae323caf3fc382749656a2793238578e80f202",
+    "retrieved_at": "2026-10-14T08:18:51.629318+00:00"
+  },
+  {
+    "ticker": "PNC",
+    "period": "FY2022",
+    "path": "data/raw/reports/PNC_FY2022_PNC_2022_Annual_Report.pdf",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_56928887a6f94f66f452e465e89d2cd9/pnc/db/2463/23723/annual_report/PNC+2022+Annual+Report.pdf",
+    "bytes": 3370542,
+    "sha256": "b72cde9bbf070abe0a5391dfd412fd4252a14528ff16bdc49c5382de8cae8505",
+    "retrieved_at": "2026-10-14T08:18:51.551597+00:00"
+  },
+  {
+    "ticker": "TFC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/TFC_H12026_TFC_2Q26_Earnings_Release.pdf",
+    "url": "https://ir.truist.com/download/TFC_2Q26_Earnings_Release.pdf",
+    "bytes": 415853,
+    "sha256": "6b5958ea1d4703d8e19921728900651c2c01f7d372ca2db138ca82bcc626cd16",
+    "retrieved_at": "2026-10-14T08:19:00.146744+00:00"
+  },
+  {
+    "ticker": "TFC",
+    "period": "H1 2026",
+    "path": "data/raw/reports/TFC_H12026_TFC_2Q26_Form_10-Q.pdf",
+    "url": "https://ir.truist.com/download/TFC+2Q26+Form+10-Q.pdf",
+    "bytes": 506601,
+    "sha256": "28e78326145fb31faec9d807ec2a7ab01723d538ed8b6fe6aafb85442c7fee06",
+    "retrieved_at": "2026-10-14T08:19:00.191267+00:00"
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY2025",
+    "path": "data/raw/reports/TFC_FY2025_TFC_2025_Form_10-K.pdf",
+    "url": "https://ir.truist.com/download/TFC_2025_Form_10-K.pdf",
+    "bytes": 969244,
+    "sha256": "a4761ba02b7bd384621899df16bda70a897797bd48239002cbc3fcba9d19e829",
+    "retrieved_at": "2026-10-14T08:19:00.212818+00:00"
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY2024",
+    "path": "data/raw/reports/TFC_FY2024_TFC_Form_10-K_-_2024_-_Final.pdf",
+    "url": "https://ir.truist.com/download/TFC+Form+10-K+-+2024+-+Final.pdf",
+    "bytes": 1102453,
+    "sha256": "55e9db6b5398058bb456066f2ff574912eb80a6bda9f44f6c1775932df4a539a",
+    "retrieved_at": "2026-10-14T08:19:07.417672+00:00"
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY2023",
+    "path": "data/raw/reports/TFC_FY2023_TFC_2023_Form_10-K.pdf",
+    "url": "https://ir.truist.com/download/TFC+2023+Form+10-K.pdf",
+    "bytes": 1216907,
+    "sha256": "2fc7f306b1a558d9fbc92179152c55157364d61a37fb4b67e51deb506530df49",
+    "retrieved_at": "2026-10-14T08:19:07.418409+00:00"
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY2023",
+    "path": "data/raw/reports/TFC_FY2023_TFC_2023_Supplement_to_Form_10-K.pdf",
+    "url": "https://ir.truist.com/download/TFC+2023+Supplement+to+Form+10-K.pdf",
+    "bytes": 721225,
+    "sha256": "79474b44d5e1a1eecf5328aea69ab342a3fa7348e8956dec1cc89aedc21b6562",
+    "retrieved_at": "2026-10-14T08:19:07.492303+00:00"
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY2020",
+    "path": "data/raw/reports/TFC_FY2020_TFC_2020_Form_10-K.pdf",
+    "url": "https://ir.truist.com/download/TFC+2020+Form+10-K.pdf",
+    "bytes": 997400,
+    "sha256": "2f5b97dee63cb95290b6ae7e8d08e2beb4795dd6ff95ea67a6322fc7f2b0498e",
+    "retrieved_at": "2026-10-14T08:19:16.728523+00:00"
+  }
+]
